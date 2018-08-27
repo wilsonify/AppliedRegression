@@ -1,3 +1,3 @@
 # AppliedRegression
 
-https://hub.mybinder.org/user/wilsonify-appliedregression-lbro9jjj/tree
+https://mybinder.org/v2/gh/wilsonify/AppliedRegression/master
