@@ -1,0 +1,31 @@
+---
+title: "Literature Review"
+author: "Claudius Taylor, Junpu Zhao, Thomas Wilson"
+date: "September 9, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Total length of literature review should be about 4 single-spaced pages or more (not counting the references page.)*
+
+*Documented in APA style, with section headings for major sections as well as subtopics*
+
+# Introduction
+
+First, you will add a brief introduction to the literature review: In just a sentence or two, simply introduce the purpose and scope of the literature review, including the key issues the review will address. 
+
+# Body
+Using relevant headings, the body should be composed of sections. 
+They take up each issue one at a time and discuss how the authors of the articles respond to that issue. 
+
+Don’t forget to introduce and close each section with a sentence focused on the literature (topic sentence and concluding sentence.)
+
+Length of body: about 3 pages or more, single-spaced. (Length of each section will vary, but each typically contains several paragraphs.)
+ 
+# Conclusion
+Summarize what the literature says about your topic. 
+Approximate length: about ¼ page.
+
