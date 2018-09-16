@@ -3,7 +3,7 @@
 .Rapp.history
 
 # jupyter checkpoints
-/ipynb_checkpionts/
+/.ipynb_checkpionts/
 
 # Session Data files
 .RData
