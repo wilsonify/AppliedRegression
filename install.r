@@ -6,3 +6,4 @@
 install.packages('astsa')
 install.packages('dplyr')
 install.packages('MASS')
+install.packages('data.table')
