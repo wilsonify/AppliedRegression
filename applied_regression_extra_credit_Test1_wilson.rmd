@@ -1,0 +1,41 @@
+
+
+```R
+library(data.table)
+```
+
+Y= Sales and X=Advert
+
+1.  Write the simple linear regression equation.
+
+2.  Interpret the slope and intercept terms.
+
+
+```R
+bookstore <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/bookstore.txt')
+```
+
+
+```R
+x <- bookstore$Advert
+y <- bookstore$Sales
+fit <- lm(y~x)
+```
+
+$ sales = \beta_0 + \beta_1 advert$
+
+
+```R
+plot(x,y)
+abline(fit)
+```
+
+
+```R
+summary(fit)
+```
+
+
+```R
+plot(y=fit$residuals,x=predict(fit))
+```
