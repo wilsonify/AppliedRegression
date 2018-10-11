@@ -1,5 +1,5 @@
 ---
-title: "extra credi"
+title: "extra credit"
 author: "Tom Wilson"
 date: "October 10, 2018"
 output: word_document
@@ -40,7 +40,9 @@ abline(fit)
 summary(fit)
 ```
 
+$$sales = 326.89 + 40.10 advert$$
 
-```{R}
-plot(y=fit$residuals,x=predict(fit))
-```
+A unit change in advert is associated with a change in sales of 40.1. 
+Under the null hypothesis that there is no relationship between advert and sales, we would observe a best fit slope at least this extreme 0.000000236% of the time.
+
+The expected sales with zero advert is 326.89. Since there is data available with zero advert this is a reasonable estimate.
