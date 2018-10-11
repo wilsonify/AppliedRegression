@@ -1,6 +1,11 @@
+---
+title: "extra credi"
+author: "Tom Wilson"
+date: "October 10, 2018"
+output: word_document
+---
 
-
-```R
+```{R}
 library(data.table)
 ```
 
@@ -11,31 +16,31 @@ Y= Sales and X=Advert
 2.  Interpret the slope and intercept terms.
 
 
-```R
+```{R}
 bookstore <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/bookstore.txt')
 ```
 
 
-```R
+```{R}
 x <- bookstore$Advert
 y <- bookstore$Sales
 fit <- lm(y~x)
 ```
 
-$ sales = \beta_0 + \beta_1 advert$
+$$sales = \beta_0 + \beta_1 advert$$
 
 
-```R
+```{R}
 plot(x,y)
 abline(fit)
 ```
 
 
-```R
+```{R}
 summary(fit)
 ```
 
 
-```R
+```{R}
 plot(y=fit$residuals,x=predict(fit))
 ```
