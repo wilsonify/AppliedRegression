@@ -117,15 +117,24 @@ the entire analysis procedure more interactive and productive. Effective adoptio
 techniques for interactive learning will be dependent on their integration with excellent data visualization and effective user
 interface design.[@subrahmanya2014advanced]
 
-In conclusion we have demonstrated how efficiently, intuitively and easily data-driven insights can be
-achieved in not just the planning and design phases of an operation, but also in how these models can be
-rapidly implemented as prescriptive solutions utilized in the operational phase. The analytical workflows,
-models and exploratory data analysis carried out in this study are cornerstones to other data-driven
-methodologies you could implement to address a diverse array of business problems in the upstream.
-When marrying data-driven analytics with first principles we can establish a robust and repeatable suite
-of workflows to convert raw data into actionable knowledge. This paper illustrates one such example
-study.[@holdaway2015drilling]
+A framework of big data analytics is developed to measure the efficacy factor of fracturing fluid ingredients
+in terms their effectiveness on well productivity, based on FracFocus and well production databases. Such
+efficacy factors could serve as justification for chemical product approvals and denials.
+As a useful demonstration, chemical ingredients that are conducive to production of wells with Marcellus
+shale geology are quantitatively differentiated those that negatively impact gas productivity. The specific
+efficacy factors may not be directly applicable in other fields, but the framework of data analysis can be
+easily applied.
+The data analytics framework helps providing leads in understanding the intricate chemical and physical
+processes of fracturing fluids. It points the direction to the causality - those kinds of cause-effect
+relationships – between ingredient and productivity straight from real-world data.
+Each well is a geophysical experiment. Compared with fracturing fluid lab test that still needs to be
+optimized in the field, the data analytics framework learns hidden connections from field data, which is the
+ultimate experiment, and reduces or stops the guesswork.[@zhang2018mining]
+
+
 
 # Conclusion
+<!-- 
 Summarize what the literature says about your topic. 
 Approximate length: about ¼ page.
+-->
