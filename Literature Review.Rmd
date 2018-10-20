@@ -131,7 +131,16 @@ Each well is a geophysical experiment. Compared with fracturing fluid lab test t
 optimized in the field, the data analytics framework learns hidden connections from field data, which is the
 ultimate experiment, and reduces or stops the guesswork.[@zhang2018mining]
 
-
+5. Conclutions
+1 . The horizontal wells with multi-stage hydraulic fracturing seem to be more preferable than
+vertical wells with hydraulic fracturing treatment in the Field C, reservoir J1.
+2. The technology (Frack ports or Ball dropping process) of multi-stage hydraulic fracturing is
+applied in the Field C, reservoir J1
+3. Analytical approaches do not take into account the interference effect. However, Economides
+method should be used with caution, despite the fact that the possible wells with interference effect are
+observed
+4. The simulation model tends to be an appropriate approach to choosing the optimum completion
+of the wellbore[@bozoev2016selection]
 
 # Conclusion
 <!-- 
