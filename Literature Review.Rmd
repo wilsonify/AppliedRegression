@@ -1,7 +1,7 @@
 ---
 title: "Oilwell Completion Regression - Literature Review"
 author: "Thomas Wilson"
-date: "September 9, 2018"
+date: "October 22, 2018"
 output: pdf_document
 bibliography: references.bib
 ---
@@ -31,6 +31,19 @@ Length of body: about 3 pages or more, single-spaced. (Length of each section wi
  -->
 
 # Data Quality
+In this work we compare the results of using Generalised Linear Models (OLS), Bayesian Regression (BRR), RANdom SAmple Consensus (RANSAC), Random Forests (RF), and Artificial Neural Networks (ANN), on the prediction of missing gaps in a single well.[@lopes2017mind] 
+
+The input uncertainties were primarily caused by missing data, and the available information about the input variables was used to define reasonable uncertainty ranges for the parameters. [@wang2016propagation] 
+
+We developed real–time analytical models for detecting and classifying gross errors.[@khodabakhsh2017cloud]
+
+However, the statistical difference is not significant, and both RFs and ANNs are computationally more expensive than the remaining regressions. [@lopes2017mind] 
+
+The major computational challenges during the surrogate construction were the sampling of a large six-dimensional parameter space, and handling the model noise. [@wang2016propagation] 
+
+Both problems were successfully addressed using Basis Pursuit Denoising (BPDN) to calculate the PC coefficients using only 200 model samples. [@wang2016propagation] 
+
+The present investigation suggests that the model outputs are insensitive to uncertainties in the flow rate provided it is known reasonably accurately. [@wang2016propagation] 
 
 # General Workflow
 Data-driven workflows, models, and analysis can address a diverse array of business problems in the oil and gas industry. [@holdaway2015drilling]
@@ -59,6 +72,21 @@ As future work, we would like to add to our workflow the capability of extractin
 
 The specific efficacy factors may not be directly applicable in other fields, but the framework of data analysis can be easily applied.[@zhang2018mining]
 
+Each well is a geophysical experiment. [@zhang2018mining]
+
+Our experiments indicate that a deep learning approach, has the potential to capture flow patterns, which may boost the classification performance. [@ezzatabadipour2017deep] 
+
+In this paper, we proposed an architecture to solve big data problems seen in oil refinery sensor data and implemented the architecture in private cloud utilizing open–source software.[@khodabakhsh2017cloud]
+
+The results are applicable to oil drilling industry as well.[@khodabakhsh2017cloud]
+
+In this paper an overview of data mining applications in oil and gas exploration was carried out. [@Jahromi2017overview]
+
+Remote sensing (including satellite infrared, radar, and microwave surveying; and a serial magnetic, electromagnetic, and gravity surveying) is the most important topic in this category. [@Jahromi2017overview]
+
+Although there are cases of data mining application to geobotany prospecting and geochemical exploration as well. [@Jahromi2017overview]
+
+With a high prediction accuracy, this model can guide the design of production engineering project, well production optimization, and well performance analysis.[@yu2018oilwell]
 
 # Feature Importance
 High proppant, high-fluid completion designs described by [@fulks2016optimizing] have shown success every basin.
@@ -79,18 +107,48 @@ A framework of big data analytics is developed to measure the efficacy factor of
 
 As a useful demonstration, chemical ingredients that are conducive to production of wells with Marcellus shale geology are quantitatively differentiated those that negatively impact gas productivity.[@zhang2018mining]
 
+The data analytics framework helps providing leads in understanding the intricate chemical and physical processes of fracturing fluids.[@zhang2018mining]
+
+In this paper we proposed three types of data sets as input features and investigated the use of deep learning for the classification and prediction of two-phase flow, based on experimental data, obtained . [@ezzatabadipour2017deep] 
+
+We proposed six types of input features, and a corresponding architecture to precisely predict flow patterns. [@ezzatabadipour2017deep] 
+
+Finally, deep learning can be used to predict flow patterns using pipe characteristics, fluid properties and superficial velocities of the two-phase flows.[@ezzatabadipour2017deep] 
+
+We also expect to be able to add well completion parameters in the models, which we expect will be very important in terms for improving the accuracy of the production predictions.[@guevara2017datadriven] 
+
+Different techniques have been used to build models that predict and estimate various geophysical properties, by means of either regression or classification tasks including but not limited to: deterministic petrophysical modeling, using shale, matrix, and fluid properties; stochastic modeling, where an approximate curve is used as input, and the reconstructed curve is the output; and different soft-computing algorithms.[@lopes2017mind] 
+
+Two major categories of geoscientific problems, which have been the focus of data mining efforts, are studied: structural geology and reservoir property-issues. [@Jahromi2017overview]
+
+After that further surveying in these places provides precise details on the subsurface formations. [@Jahromi2017overview]
+
+The study quantified the impacts of uncertainties in six input parameters on the model’s estimates of the trap and peel heights, and the gas mass fluxes. [@wang2016propagation] 
+
+Comparisons with fluorescence observations, a proxy for the oil accumulation at the trap height, show the observations coinciding with the mode of the trap height PDF for the Low Uncertainty Experiment (LUE), thus suggesting that the latter range to be quite consist- ent with the fluorescence observations. [@wang2016propagation] 
+
+It also suggests that the next priority in observation should be aimed at estimating the largest droplet size and Gas-Oil Ratio (GOR) if improvements in mass gas flux estimates are desired, whereas the priority would fall on measuring the largest droplet size and the entrainment parame- ters if improvement in trap and peel heights is desired. [@wang2016propagation] 
+
 
 # Simulation
 Data analytics can replace fracture models built with a commercial simulators. [@temizel2015efficient] 
 
-The approach described in [@pankaj2018need] creates synthetic data from first principles.
+The approach described in @pankaj2018need creates synthetic data from first principles.
 
-[@pankaj2018need] uses parametric explosion of parameters
+@pankaj2018need uses parametric explosion of parameters
 to create a model which predicts performance in unconventional reservoirs. 
 
 Engineers use a model to design completions and predict production in real-time. [@pankaj2018need] 
 
 Proxy modeling indicates the optimal well completion much faster than full simulations, a matter of minutes instead of months.[@pankaj2018need] 
+
+The simulation model tends to be an appropriate approach to choosing the optimum completion of the wellbore.[@bozoev2016selection] 
+
+These investigations could be further improved in future studies by carrying out more exhaustive searches for the parameters in the architectures.[@ezzatabadipour2017deep] 
+
+Likewise, if observations prove to be difficult or impractical, an additional compromise can be made, such as resorting to simulated data from very high-resolution numerical simulations [ Fabregat et al ., 2015]. [@wang2016propagation] 
+
+the results presented in this study reveal that in the early hydration stages of a cement slurry, the transmission of hydrostatic pressure (in a fresh cement slurry) follows Pascal’s law. [@liu2018relationship]
 
 
 # Model Limitations
@@ -104,175 +162,14 @@ Before discernible conclusions, patterns detected must be reviewed to refine ins
 
 "A calibrated model is a fundamental step to create a reliable predictive proxy." [@pankaj2018need] 
 
-
-#####
-
-
-The data analytics framework helps providing leads in understanding the intricate chemical and physical processes of fracturing fluids.[@zhang2018mining]
-
 It points the direction to the causality - those kinds of cause-effect relationships – between ingredient and productivity straight from real-world data. [@zhang2018mining]
-
-Each well is a geophysical experiment. [@zhang2018mining]
 
 Compared with fracturing fluid lab test that still needs to be optimized in the field, the data analytics framework learns hidden connections from field data, which is the ultimate experiment, and reduces or stops the guesswork. [@zhang2018mining]
 
-
-The horizontal wells with multi-stage hydraulic fracturing seem to be more preferable than vertical wells with hydraulic fracturing treatment in the Field C, reservoir. @bozoev2016selection] 
-
-The technology (Frack ports or Ball dropping process) of multi-stage hydraulic fracturing is applied in the Field C, reservoir. @bozoev2016selection] 
-
 Analytical approaches do not take into account the interference effect. @bozoev2016selection] 
 
-However, Economices method should be used with caution, despite the fact that the possible wells with interference effect are observed.@bozoev2016selection] 
+Additionally, the natural gases do not dissolve completely at the trap height under any scenario, and therefore, the next stage numerical models must be able to handle this mixture of oil and gas in order to simulate the oil fate realistically. [@wang2016propagation] 
 
-4. The simulation model tends to be an appropriate approach to choosing the optimum completion of the wellbore.[@bozoev2016selection] 
-
-In this paper we proposed three types of data sets as input features and investigated the use of deep learning for the classification and prediction of two-phase flow, based on experimental data, obtained . [@ezzatabadipour2017deep] 
-
-We proposed six types of input features, and a corresponding architecture to precisely predict flow patterns. [@ezzatabadipour2017deep] 
-
-First, we showed that the network can learn surprisingly well as using our chosen architecture and parameters allowed us to achieve high classification accuracy.[@ezzatabadipour2017deep] 
-
-Second, we showed that the network can classify the different flow patterns with high efficiency. [@ezzatabadipour2017deep] 
-
-Finally, we achieved high precision predicting different combinations of classes. [@ezzatabadipour2017deep] 
-
-Our experiments indicate that a deep learning approach, has the potential to capture flow patterns, which may boost the classification performance. [@ezzatabadipour2017deep] 
-
-These investigations could be further improved in future studies by carrying out more exhaustive searches for the parameters in the architectures.[@ezzatabadipour2017deep] 
-
-The result would be improved overall performance of these systems.[@ezzatabadipour2017deep] 
-
-Finally, deep learning can be used to predict flow patterns using pipe characteristics, fluid properties and superficial velocities of the two-phase flows.[@ezzatabadipour2017deep] 
-
-
-Oil & Gas industry demands effective methods to complete its Industry 4.0 digital transformation.[@khodabakhsh2017cloud]
-
-This leads them to resort to open–source big data tools.[@khodabakhsh2017cloud]
-
-In this paper, we proposed an architecture to solve big data problems seen in oil refinery sensor data and implemented the architecture in private cloud utilizing open–source software.[@khodabakhsh2017cloud]
-
-The results are applicable to oil drilling industry as well.[@khodabakhsh2017cloud]
-
-We developed real–time analytical models for detecting and classifying gross errors.[@khodabakhsh2017cloud]
-
-Our contributions are enablers of other stream mining algorithms and provisioning of “Refinery as a Service”.[@khodabakhsh2017cloud]
-
-In the future, we plan to continue and complement our current work with other machine learning and deep learning. [@khodabakhsh2017cloud]
-
-
-We also expect to be able to add well completion parameters in the models, which we expect will be very important in terms for improving the accuracy of the production predictions.[@guevara2017datadriven] 
-
-Different techniques have been used to build models that predict and estimate various geophysical properties, by means of either regression or classification tasks including but not limited to: deterministic petrophysical modeling, using shale, matrix, and fluid properties; stochastic modeling, where an approximate curve is used as input, and the reconstructed curve is the output; and different soft-computing algorithms.[@lopes2017mind] 
-
- These approaches focus on a single well or on a few wells from the same block.[@lopes2017mind] 
-
- In this work we compare the results of using Generalised Linear Models (OLS), Bayesian Regression (BRR), RANdom SAmple Consensus (RANSAC), Random Forests (RF), and Artificial Neural Networks (ANN), on the prediction of missing gaps in a single well.[@lopes2017mind] 
-
-For that purpose we chose a single well with complete logs (without gaps).[@lopes2017mind] 
-
-From these logs we generated 30 random gaps for each gap size of the first three quartiles (respectively 16, 66, and 168 points for the first, second, and third quartiles). [@lopes2017mind] 
- 
-
-These will be used to average the models’ performance, since it depends not only on the size of the gap but also on the values of the gap itself. [@lopes2017mind] 
-
-The results described in the following paragraphs were obtained with vanilla implementations of the afore mentioned algorithms, provided with the Scikit-Learn [PVG + 11] Python machine learning library. [@lopes2017mind] 
-
-The distribution of the models’ errors (mean absolute error) over the thirty random gaps for each gap size can be observed in Figure 3. [@lopes2017mind] 
-
-It shows clearly that the performance of the algorithms depends on the gap size and on the gap itself, given the variance displayed. [@lopes2017mind] 
-
-In general the ANNs seems to perform better more often as the gap size increases. [@lopes2017mind] 
-
-For the smaller gaps the remaining methods yield better predictions. [@lopes2017mind] 
-
-However, the statistical difference is not significant, and both RFs and ANNs are computationally more expensive than the remaining regressions. [@lopes2017mind] 
-
-Plotted in Figure 4 one can see an example gap for each of the quartiles with the corresponding predictions for each algorithm, and the mean absolute error in the legend (eg., OLS: 0.01) [@lopes2017mind] 
-
-In this paper an overview of data mining applications in oil and gas exploration was carried out. [@Jahromi2017overview]
-
-Two major categories of geoscientific problems, which have been the focus of data mining efforts, are studied: structural geology and reservoir property-issues. [@Jahromi2017overview]
-
-Table 1 presents these categories and provides the key information deduced on them. [@Jahromi2017overview]
-
-There are two ways of expanding this paper: (i) There is another category of geoscientific problems in which data mining is applied. [@Jahromi2017overview]
-
-Here, an array of ancillary data which provide high-level information in hydrocarbon exploration are covered. [@Jahromi2017overview]
-
-Remote sensing (including satellite infrared, radar, and microwave surveying; and a serial magnetic, electromagnetic, and gravity surveying) is the most important topic in this category. [@Jahromi2017overview]
-
-Although there are cases of data mining application to geobotany prospecting and geochemical exploration as well. [@Jahromi2017overview]
-
-In remote sensing, swaths of earth are covered, resulting in an understanding of the geological megastructures, with the aim of narrowing down to locations with the potential for hydrocarbon. [@Jahromi2017overview]
-
-After that further survey ing in these places provides precise details on the subsurface formations. [@Jahromi2017overview]
-
-This category of problems, although less popular in academia than those two considered in this paper, is interesting to be overviewed too. [@Jahromi2017overview]
-
-(ii) This overview given its novel way of categorizing data mining applica tions in oil and gas exploration is worthy of being expanded to a comprehensive review. [@Jahromi2017overview]
-
-Such a review will be informative to both geoscientists and data miners and deepen their mutual understanding. 
-[@Jahromi2017overview] 
-
-This paper has analyzed the uncertainties in an integral plume model simulating the Deepwater Horizon oil spill using Polynomial Chaos surrogates. [@wang2016propagation] 
-
-The study quantified the impacts of uncertainties in six input parameters on the model’s estimates of the trap and peel heights, and the gas mass fluxes. [@wang2016propagation] 
-
-The input uncer- tainties were primarily caused by missing data, and the available information about the input variables was used to define reasonable uncertainty ranges for the parameters. [@wang2016propagation] 
-
-The major computational challenges dur- ing the surrogate construction were the sampling of a large six-dimensional parameter space, and handling the model noise. [@wang2016propagation] 
-
-Both problems were successfully addressed using BPDN to calculate the PC coefficients using only 200 model samples. [@wang2016propagation] 
-
-Various error metrics suggest that the PC surrogate is able to predict the response surface and the statistical information with acceptable fidelity. [@wang2016propagation] 
-
-The PC surrogates were used to estimate the PDFs of the different model outputs. [@wang2016propagation] 
-
-Comparisons with fluo- rescence observations, a proxy for the oil accumulation at the trap height, show the observations coinciding with the mode of the trap height PDF for the LUE, thus suggesting that the latter range to be quite consist- ent with the fluorescence observations. [@wang2016propagation] 
-
-The HUE case showed a lower probability of occurrence for the observations. [@wang2016propagation] 
-
-Additionally, the natural gases do not dissolve completely at the trap height under any sce- nario, and therefore, the next stage numerical models must be able to handle this mixture of oil and gas in order to simulate the oil fate realistically. [@wang2016propagation] 
-
-The sensitivity analysis of the trap height, peel height, and gas mass fluxes, indicates that the huge uncertainty range for the flow rate leads to substantial uncertainties in the ensuing quantities of interest whereas constraining the range to reasonable values shifts the dominance to the uncertainty in the largest droplet size and to uncertainties in the entrainment coefficients. [@wang2016propagation] 
-
-The present investigation suggests that the model outputs are insensitive to uncertainties in the flow rate provided it is known reasonably accurately. [@wang2016propagation] 
-
-It also suggests that the next priority in observation should be aimed at estimating the largest droplet size and GOR if improvements in mass gas flux estimates are desired, whereas the priority would fall on measuring the largest droplet size and the entrainment parame- ters if improvement in trap and peel heights is desired. [@wang2016propagation] 
-
-If direct observations of these quantities prove to be difficult, then the collection of alternate data can still be useful as it can be used in an inverse uncertainty propagation exercise [ Sraj et al ., 2013] to correct the PDF of the model’s input parameters. [@wang2016propagation] 
-
-Likewise, if obser- vations prove to be difficult or impractical, an additional compromise can be made, such as resorting to simulated data from very high-resolution numerical simulations [ Fabregat et al ., 2015]. [@wang2016propagation] 
-
-This paper presents an oil well productivity computation method based on a brain-inspired cognitive architecture. [@yu2018oilwell]
-
-The architecture, consisting of two interacting sensorimotor loops, realizes prediction and other cognitive functions through the internal simulation of the interaction with the external environment. [@yu2018oilwell]
-
-In the proposed method, the IPR parameters were fitted in the inner loop. [@yu2018oilwell]
-
-The fitting results were considered in the productivity computing in the outer loop after achieving the threshold value. [@yu2018oilwell]
-
- The brain-inspired productivity computation model fully reflects the dynamic production features of oil wells, thanks to the integration of the whole spectrum of production data. [@yu2018oilwell]
-
- With a high prediction accuracy, this model can guide the design of production engineering project, well production optimization, and well performance analysis. 
- [@yu2018oilwell]
-
-the results presented in this study reveal that in the early hydration stages of a cement slurry, the transmission of hydrostatic pressure (in a fresh cement slurry) follows Pascal’s law. [@liu2018relationship]
-
-However, because of the sedimentation of cement particles, the hydrostatic pressure of the slurry can only be transferred by the pore solution and the hydrostatic pressure of cement slurry is reduced. [@liu2018relationship]
-
-With an increase in the hydration time, the hydration reaction is accelerated and some hydration products are formed between the cement particles. [@liu2018relationship]
-
-Because of the formation of such products, some of which are porous, some macro-pores are filled with hydration products to form a number of micropores, which leads to most of the free water turning into capillary water and gel water. [@liu2018relationship]
-
-The interaction between capillary water, gel water, and micropores is stronger than that between free water and macro-pores, which leads to a reduction in the hydrostatic pressure of the cement slurry. [@liu2018relationship]
-
-Some hydration products are formed in the pores of the cement slurry, due to which the pores are filled. [@liu2018relationship]
-
-This also leads to a reduction in the height of the hydrostatic column and hydrostatic pressure of the cement slurry. [@liu2018relationship]
-
-#
 
 # Conclusion
 
