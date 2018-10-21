@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-For centuries, oilwells have been drilled vertically and completed by perforation only. Since the invention of horizontal drilling, literature as shown clearly that various completion parameters have a significant effect on oil production. 
+For centuries, oilwells have been drilled vertically and completed by perforation only. Since the invention of horizontal drilling, literature has shown that various completion parameters have a significant effect on oil production. Multiple recent sources agree that there is value in leveraging available data as input to statistacal models steeped in machine learning.[@fulks2016optimizing], [@holdaway2015drilling], [@pankaj2018need], [@subrahmanya2014advanced] While there is some disagreement about the limitaitons and appliciablity of such models, most agree that a general data anlysis workflow is applicable. [@fulks2016optimizing],[@temizel2015efficient],[@groulx2017multivariate], [@pankaj2018need] 
 
 # Body
 <!-- 
@@ -29,19 +29,6 @@ Don’t forget to introduce and close each section with a sentence focused on th
 
 Length of body: about 3 pages or more, single-spaced. (Length of each section will vary, but each typically contains several paragraphs.)
  -->
-
-Advances in horizontal completion design are evolving. [@fulks2016optimizing] 
-
-Big data has value. [@fulks2016optimizing] 
-
-There is a trend in industry towards using statistical modeling and machine learning to optimize reservoir production. [@fulks2016optimizing] 
-
-[@holdaway2015drilling] have demonstrated how to achieve data-driven insights in planning, design, and operation of oilwell drilling.
-
-Marrying data-driven analytics with first principles converts raw data into actionable knowledge. [@holdaway2015drilling]
-
-Proxy modeling is not a new concept and had been in the industry for many years.[@pankaj2018need]
-
 
 # Data Quality
 
@@ -60,6 +47,18 @@ The predictive proxy approach has a wide variety of applications to completion e
 
 Drilling and lifting in addition to completion also benefit from faster decision making. [@pankaj2018need] 
 
+This has led to the rising importance of adopting new strategies and workflows for the development of advanced analytics models.[@subrahmanya2014advanced]
+
+It was demonstrated that these advanced machine learning methods show considerable promise and can be integral tools in making the entire analysis procedure more interactive and productive. [@subrahmanya2014advanced]
+
+The workflow we presented in this paper is a systematic methodology for using and comparing machine learning methods to predict production in unconventional plays using well logs and production data from previous explorations, taking into account multiple formations. [@guevara2017datadriven] 
+
+Our experimental results show that this workflow can outperform more conventional techniques, such as kriging, in particular for the case of gas production prediction. [@guevara2017datadriven] 
+
+As future work, we would like to add to our workflow the capability of extracting and integrating features from horizontal well logs, in additional to features from vertical well logs.[@guevara2017datadriven] 
+
+The specific efficacy factors may not be directly applicable in other fields, but the framework of data analysis can be easily applied.[@zhang2018mining]
+
 
 # Feature Importance
 High proppant, high-fluid completion designs described by [@fulks2016optimizing] have shown success every basin.
@@ -73,6 +72,13 @@ Large amounts of data from multiple wells as input to multivariate analysis dete
 In order of importance fracture half-length, proppant amount, zone coverage, and slurry volume are important for predicting production. [@temizel2015efficient]
 
 data analytics makes it possible to determine not only feature importance and significance, but also effect direction. [@temizel2015efficient] 
+
+In this work, we explored the use of active learning to intelligently identify data points with the highest value of information and semi-supervised learning to combine the information from labeled and unlabeled sources in an optimal fashion. [@subrahmanya2014advanced]
+
+A framework of big data analytics is developed to measure the efficacy factor of fracturing fluid ingredients in terms their effectiveness on well productivity, based on FracFocus and well production databases. [@zhang2018mining]
+
+As a useful demonstration, chemical ingredients that are conducive to production of wells with Marcellus shale geology are quantitatively differentiated those that negatively impact gas productivity.[@zhang2018mining]
+
 
 # Simulation
 Data analytics can replace fracture models built with a commercial simulators. [@temizel2015efficient] 
@@ -100,25 +106,7 @@ Before discernible conclusions, patterns detected must be reviewed to refine ins
 
 
 #####
-The rapid proliferation of sensing and data acquisition systems combined with cheap data storage is resulting in the age of “Big Data” and the most scarce resource going forward is likely to be expert time to go through, clean and label the data.[@subrahmanya2014advanced]
 
-This has led to the rising importance of adopting new strategies and workflows for the development of advanced analytics models.[@subrahmanya2014advanced]
-
-This trend is already visible in other industries and is likely to be a big challenge for the oil and gas industry as well. [@subrahmanya2014advanced]
-
-In this work, we explored the use of active learning to intelligently identify data points with the highest value of information and semi-supervised learning to combine the information from labeled and unlabeled sources in an optimal fashion. [@subrahmanya2014advanced]
-
-It was demonstrated that these advanced machine learning methods show considerable promise and can be integral tools in making the entire analysis procedure more interactive and productive. [@subrahmanya2014advanced]
-
-Effective adoption of these advanced machine learning techniques for interactive learning will be dependent on their integration with excellent data visualization and effective user interface design.[@subrahmanya2014advanced]
-
-A framework of big data analytics is developed to measure the efficacy factor of fracturing fluid ingredients in terms their effectiveness on well productivity, based on FracFocus and well production databases. [@zhang2018mining]
-
-Such efficacy factors could serve as justification for chemical product approvals and denials.[@zhang2018mining]
-
-As a useful demonstration, chemical ingredients that are conducive to production of wells with Marcellus shale geology are quantitatively differentiated those that negatively impact gas productivity.[@zhang2018mining]
-
-The specific efficacy factors may not be directly applicable in other fields, but the framework of data analysis can be easily applied.[@zhang2018mining]
 
 The data analytics framework helps providing leads in understanding the intricate chemical and physical processes of fracturing fluids.[@zhang2018mining]
 
@@ -172,11 +160,6 @@ Our contributions are enablers of other stream mining algorithms and provisionin
 
 In the future, we plan to continue and complement our current work with other machine learning and deep learning. [@khodabakhsh2017cloud]
 
-The workflow we presented in this paper is a systematic methodology for using and comparing machine learning methods to predict production in unconventional plays using well logs and production data from previous explorations, taking into account multiple formations. [@guevara2017datadriven] 
-
-Our experimental results show that this workflow can outperform more conventional techniques, such as kriging, in particular for the case of gas production prediction. [@guevara2017datadriven] 
-
-As future work, we would like to add to our workflow the capability of extracting and integrating features from horizontal well logs, in additional to features from vertical well logs.[@guevara2017datadriven] 
 
 We also expect to be able to add well completion parameters in the models, which we expect will be very important in terms for improving the accuracy of the production predictions.[@guevara2017datadriven] 
 
@@ -290,7 +273,6 @@ Some hydration products are formed in the pores of the cement slurry, due to whi
 This also leads to a reduction in the height of the hydrostatic column and hydrostatic pressure of the cement slurry. [@liu2018relationship]
 
 #
-
 
 # Conclusion
 
