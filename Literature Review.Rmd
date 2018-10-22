@@ -31,58 +31,11 @@ Length of body: about 3 pages or more, single-spaced. (Length of each section wi
  -->
 
 # Data Quality
-In this work we compare the results of using Generalised Linear Models (OLS), Bayesian Regression (BRR), RANdom SAmple Consensus (RANSAC), Random Forests (RF), and Artificial Neural Networks (ANN), on the prediction of missing gaps in a single well.[@lopes2017mind] 
-
-The input uncertainties were primarily caused by missing data, and the available information about the input variables was used to define reasonable uncertainty ranges for the parameters. [@wang2016propagation] 
-
-We developed real–time analytical models for detecting and classifying gross errors.[@khodabakhsh2017cloud]
-
-However, the statistical difference is not significant, and both RFs and ANNs are computationally more expensive than the remaining regressions. [@lopes2017mind] 
-
-The major computational challenges during the surrogate construction were the sampling of a large six-dimensional parameter space, and handling the model noise. [@wang2016propagation] 
-
-Both problems were successfully addressed using Basis Pursuit Denoising (BPDN) to calculate the PC coefficients using only 200 model samples. [@wang2016propagation] 
-
-The present investigation suggests that the model outputs are insensitive to uncertainties in the flow rate provided it is known reasonably accurately. [@wang2016propagation] 
+One recurring theme within recent literature related to oilwell completion is that of data quality. @lopes2017mind takes a statistical approach to dealing with gaps in data by breaking synthesysing gaps in otherwise complete data. @lopes2017mind eventually shows that gaps in data did not have a significant effect on model selection or accuracy. On the other hand, @wang2016propagation claims that a input uncertainties model selection challenges were primarily caused by missing data and noise. @khodabakhsh2017cloud took yet another approach via real–time models for detecting and classifying errors. @wang2016propagation suggests Basis Pursuit Denoising (BPDN) as a solution to data quality issues. Other sources did not comment on dealing with data quality or noise.
 
 # General Workflow
-Data-driven workflows, models, and analysis can address a diverse array of business problems in the oil and gas industry. [@holdaway2015drilling]
-
-Parallel Coordinates plots are a good visual analysis for testing any input's impact on production performance. [@groulx2017multivariate]
-
-The number of performance measures directly correlate with the number of patterns identified. [@groulx2017multivariate]
-
-With enough statistical variability, the same approach finds patterns in all plays. [@groulx2017multivariate]
-
-Parallel coordinates approach makes identification of thresholds and correlation windows easy. Which can be valuable input for other regression efforts. [@groulx2017multivariate]
-
-The predictive proxy approach has a wide variety of applications to completion engineering and management. [@pankaj2018need] 
-
-Drilling and lifting in addition to completion also benefit from faster decision making. [@pankaj2018need] 
-
-This has led to the rising importance of adopting new strategies and workflows for the development of advanced analytics models.[@subrahmanya2014advanced]
-
-It was demonstrated that these advanced machine learning methods show considerable promise and can be integral tools in making the entire analysis procedure more interactive and productive. [@subrahmanya2014advanced]
-
-The workflow we presented in this paper is a systematic methodology for using and comparing machine learning methods to predict production in unconventional plays using well logs and production data from previous explorations, taking into account multiple formations. [@guevara2017datadriven] 
-
-Our experimental results show that this workflow can outperform more conventional techniques, such as kriging, in particular for the case of gas production prediction. [@guevara2017datadriven] 
-
-As future work, we would like to add to our workflow the capability of extracting and integrating features from horizontal well logs, in additional to features from vertical well logs.[@guevara2017datadriven] 
-
-The specific efficacy factors may not be directly applicable in other fields, but the framework of data analysis can be easily applied.[@zhang2018mining]
-
-Each well is a geophysical experiment. [@zhang2018mining]
-
-Our experiments indicate that a deep learning approach, has the potential to capture flow patterns, which may boost the classification performance. [@ezzatabadipour2017deep] 
-
-In this paper, we proposed an architecture to solve big data problems seen in oil refinery sensor data and implemented the architecture in private cloud utilizing open–source software.[@khodabakhsh2017cloud]
-
-The results are applicable to oil drilling industry as well.[@khodabakhsh2017cloud]
-
-In this paper an overview of data mining applications in oil and gas exploration was carried out. [@Jahromi2017overview]
-
-Remote sensing (including satellite infrared, radar, and microwave surveying; and a serial magnetic, electromagnetic, and gravity surveying) is the most important topic in this category. [@Jahromi2017overview]
+Regardless of the target variable or underlying dataset, there is wide-spread agreement that data analysis workflows are generally applicable and value-added. Quoting from @holdaway2015drilling: "Data-driven workflows, models, and analysis can address a diverse array of business problems in the oil and gas industry." @groulx2017multivariate found that their approach applied equally well to all basins and plays available. @groulx2017multivariate showed that, generally, the number of performance measures directly correlate with the number of patterns identified. @groulx2017multivariate indicates that Parallel coordinates approach makes identification of thresholds and correlation windows easy. Which can be valuable input for other regression efforts. Furthermore, the predictive proxy approach has a wide variety of applications to completion engineering and management. [@pankaj2018need] Drilling and lifting in addition to completion also benefit from faster decision making according to @pankaj2018need. @khodabakhsh2017cloud aggrees that the data analytic approach is applicible to the oil drilling industry in addition to oilwell completion practices. @subrahmanya2014advanced demonstates that machine learning methods show considerable promise. @guevara2017datadriven was able to
+outperform conventional techniques, such as kriging. Future work in other domains was suggested by a variety of authors: vertical well logs [@guevara2017datadriven], geophysical [@zhang2018mining], fluid dynamics [@ezzatabadipour2017deep], exploration [@Jahromi2017overview], Remote sensing [@Jahromi2017overview]
 
 Although there are cases of data mining application to geobotany prospecting and geochemical exploration as well. [@Jahromi2017overview]
 
@@ -172,7 +125,8 @@ Additionally, the natural gases do not dissolve completely at the trap height un
 
 
 # Conclusion
-
+For centuries, oilwells have been drilled vertically and completed by perforation only. Since the invention of horizontal drilling, literature has shown that various completion parameters have a significant effect on oil production. Multiple recent sources agree that there is value in leveraging available data as input to statistacal models steeped in machine learning.[@fulks2016optimizing], [@holdaway2015drilling], [@pankaj2018need], [@subrahmanya2014advanced] While there is some disagreement about the limitaitons and appliciablity of such models, most agree that a general data anlysis workflow is applicable. [@fulks2016optimizing],[@temizel2015efficient],[@groulx2017multivariate], [@pankaj2018need] 
+Regardless of the target variable or underlying dataset, there is wide-spread agreement that data analysis workflows are generally applicable and value-added.
 <!-- 
 Summarize what the literature says about your topic. 
 Approximate length: about ¼ page.
