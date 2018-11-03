@@ -1,0 +1,567 @@
+API,Comments,EffectiveDate,Field,Orginization,Status,StatusDate,WellName,WellId
+25101242650000,Somont Rig #3,9/3/2015 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  75,fc891525-3a8c-4373-86a9-58b0b1d6945d
+25101242650000,,5/11/2015 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  75,fc891525-3a8c-4373-86a9-58b0b1d6945d
+25101242650000,,11/11/2015 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Permit to Drill,,State 36  75,fc891525-3a8c-4373-86a9-58b0b1d6945d
+3002120638,,5/5/2014 12:00:00 AM,,"
+                                    [16696] OXY USA INC                                  
+                                ",,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,"
+                            [16696] OXY USA INC                                  
+                        ",,,"
+                            [27111] BRAVO DOME CARBON DIOXIDE GAS UNIT      
+                        ",2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,"[16696] OXY USA INC                                  ",,,"[27111] BRAVO DOME CARBON DIOXIDE GAS UNIT      ",2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,6/8/2015 12:00:00 AM,,"
+                                    [16696] OXY USA INC                                  
+                                ",,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,"
+                                    #321
+                                ",,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[27111] BRAVO DOME CARBON DIOXIDE GAS UNIT       #321,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,6/8/2015 12:00:00 AM,,"
+                                    #321
+                                ",,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,#321,,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,6/8/2015 12:00:00 AM,,#321,,,,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,6/8/2015 12:00:00 AM,,"[16696] OXY USA INC                                  ",Active,,[27111] BRAVO DOME CARBON DIOXIDE GAS UNIT       #321,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,5/5/2014 12:00:00 AM,,"[16696] OXY USA INC.                                 ","New, Not Drilled",,[27111] BRAVO DOME CARBON DIOXIDE GAS UNIT       #321,2313e93e-9d78-43de-b078-7e34b846fa12
+3002120638,,6/8/2015 12:00:00 AM,,"[16696] OXY USA INC.                                 ",Active,,[27111] BRAVO DOME CARBON DIOXIDE GAS UNIT       #321,2313e93e-9d78-43de-b078-7e34b846fa12
+3001543300,,8/14/2015 12:00:00 AM,,"
+                                    [277558] LIME ROCK RESOURCES II-A, L.P.               
+                                ",,,,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+3001543300,,8/14/2015 12:00:00 AM,,"[277558] LIME ROCK RESOURCES II-A, L.P.               ","New, Not Drilled",,[315091] BRAINARD 12L                             #001,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+3001543300,,8/14/2015 12:00:00 AM,,"
+                                    #001
+                                ",,,,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+3001543300,,8/14/2015 12:00:00 AM,,#001,,,,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+3001543300,,8/14/2015 12:00:00 AM,,"[277558] LIME ROCK RESOURCES II-A, L.P.               ",Active,,[315091] BRAINARD 12L #001,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+3002542116,,9/15/2014 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ","New, Not Drilled",,[31172] EAST VACUUM (GSA) UNIT                   #528,85f88048-142e-4b8d-9a94-c6623b6cb933
+3002542116,,9/15/2014 12:00:00 AM,,"
+                                    [217817] CONOCOPHILLIPS COMPANY                       
+                                ",,,,85f88048-142e-4b8d-9a94-c6623b6cb933
+3002542116,,9/15/2014 12:00:00 AM,,"
+                                    #528
+                                ",,,,85f88048-142e-4b8d-9a94-c6623b6cb933
+3002542116,,9/15/2014 12:00:00 AM,,#528,,,,85f88048-142e-4b8d-9a94-c6623b6cb933
+3002542116,,9/15/2014 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ","New, Not Drilled",,[31172] EAST VACUUM (GSA) UNIT                   #528,85f88048-142e-4b8d-9a94-c6623b6cb933
+3002542116,,9/15/2014 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ",Active,,[31172] EAST VACUUM (GSA) UNIT #528,85f88048-142e-4b8d-9a94-c6623b6cb933
+3001542732,,10/15/2014 12:00:00 AM,,"
+                                    [160825] BC OPERATING, INC.                           
+                                ",,,,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,10/15/2014 12:00:00 AM,,#002H,,,"[313796] STERLING 20 STATE                       ",22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,10/15/2014 12:00:00 AM,,"
+                                    #002H
+                                ",,,,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,10/15/2014 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ","New, Not Drilled",,[313796] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,10/15/2014 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",,,"[313796] STERLING 20 STATE                       ",22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,2/1/2017 12:00:00 AM,,#002H,,,"[313796] STERLING 20 STATE                       ",22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,2/1/2017 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",Cancelled,,[313796] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,2/1/2017 12:00:00 AM,,"
+                                    #002H
+                                ",,,,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,2/1/2017 12:00:00 AM,,#002H,,,"[313796] STERLING 20 STATE                       ",22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318294] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,10/15/2014 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",Never Drilled,,[313796] STERLING 20 STATE #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,11/16/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318294] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318294] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318294] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542732,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318294] STERLING 20 STATE                        #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3001542733,,10/15/2014 12:00:00 AM,,#002H,,,"[313797] CASS 16 STATE                           ",11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,10/15/2014 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ","New, Not Drilled",,[313797] CASS 16 STATE                            #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,10/15/2014 12:00:00 AM,,"
+                                    [160825] BC OPERATING, INC.                           
+                                ",,,,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,10/15/2014 12:00:00 AM,,"
+                                    #002H
+                                ",,,,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,2/1/2017 12:00:00 AM,,#002H,,,"[313797] CASS 16 STATE                           ",11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,2/1/2017 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",Cancelled,,[313797] CASS 16 STATE                            #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318181] CASS 16 STATE                            #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,2/1/2017 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",New,,[313797] CASS 16 STATE #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542733,,10/15/2014 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",New,,[313797] CASS 16 STATE #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3002542701,,7/21/2015 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ",,,"[315044] EK 30 BS2 FEDERAL COM                   ",becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,7/21/2015 12:00:00 AM,,"
+                                    #001H
+                                ",,,,becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,7/21/2015 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ","New, Not Drilled",,[315044] EK 30 BS2 FEDERAL COM                    #001H,becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,7/21/2015 12:00:00 AM,,"
+                                    [22044] MCELVAIN ENERGY, INC                         
+                                ",,,,becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,1/1/2018 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ",Active,,[315044] EK 30 BS2 FEDERAL COM                    #001H,becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,1/1/2018 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.",Active,,[315044] EK 30 BS2 FEDERAL COM                    #001H,becb693d-9003-4e3f-9118-dc7fdf174b33
+3001543555,,12/29/2015 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ","New, Not Drilled",,[314249] FOREHAND RANCH 22 STATE                  #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,12/29/2015 12:00:00 AM,,"
+                                    [249099] CAZA OPERATING, LLC                          
+                                ",,,,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,12/29/2015 12:00:00 AM,,"
+                                    #008H
+                                ",,,,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,12/29/2015 12:00:00 AM,,#008H,,,"[314249] FOREHAND RANCH 22 STATE                 ",27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,2/1/2017 12:00:00 AM,,#008H,,,"[314249] FOREHAND RANCH 22 STATE                 ",27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,2/1/2017 12:00:00 AM,,"
+                                    #008H
+                                ",,,,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,2/1/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Cancelled,,[314249] FOREHAND RANCH 22 STATE                  #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,12/17/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Active,,[314249] FOREHAND RANCH 22 STATE                  #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3002542837,,10/7/2015 12:00:00 AM,,"
+                                    #001H
+                                ",,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,11/1/2016 12:00:00 AM,,#002H,,,"[317128] SALADO DRAW  10 W0PA FEDERAL            ",0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,11/1/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[317128] SALADO DRAW  10 W0PA FEDERAL             #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,10/7/2015 12:00:00 AM,,"
+                                    [14744] MEWBOURNE OIL CO                             
+                                ",,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,10/7/2015 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[315297] PEPPER RIDGE 15 A3AP FEDERAL COM         #001H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,11/1/2016 12:00:00 AM,,#002H,,,"[317128] SALADO DRAW  10 W0PA FEDERAL            ",0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/5/2017 12:00:00 AM,,#002H,,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/5/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[317772] SALADO DRAW 10 W1PA FEDERAL #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,11/1/2016 12:00:00 AM,,"
+                                    #002H
+                                ",,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/6/2017 12:00:00 AM,,#002H,,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,10/7/2015 12:00:00 AM,,#001H,,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/5/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[317772] SALADO DRAW 10 W1PA FEDERAL              #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/6/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[317772] SALADO DRAW 10 W1PA FEDERAL              #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,10/7/2015 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",New,,[315297] PEPPER RIDGE 15 A3AP FEDERAL COM #001H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,11/1/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",New,,[317128] SALADO DRAW  10 W0PA FEDERAL #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,1/9/2018 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[317772] SALADO DRAW 10 W1PA FEDERAL              #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3001543520,,12/17/2015 12:00:00 AM,,"
+                                    #409H
+                                ",,,,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/17/2015 12:00:00 AM,,"
+                                    [873] APACHE CORP                                  
+                                ",,,,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/17/2015 12:00:00 AM,,"[873] APACHE CORP                                  ",New,,[315935] CEDAR LAKE FEDERAL CA #409H,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/17/2015 12:00:00 AM,,[873] APACHE CORPORATION,"New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #409H,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/17/2015 12:00:00 AM,,#409H,,,,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/9/2017 12:00:00 AM,,"[873] APACHE CORP                                  ",Active,,[315935] CEDAR LAKE FEDERAL CA                    #409H,be57b523-0787-475f-a2b1-e7f8295dd875
+3001543520,,12/9/2017 12:00:00 AM,,[873] APACHE CORPORATION,Active,,[315935] CEDAR LAKE FEDERAL CA                    #409H,be57b523-0787-475f-a2b1-e7f8295dd875
+3002541378,,8/29/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319552] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,8/29/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319552] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,9/10/2013 12:00:00 AM,,"[25575] EOG Y RESOURCES, INC.                        ","New, Not Drilled",,[40113] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,8/29/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[319552] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,9/10/2013 12:00:00 AM,,"[25575] EOG Y RESOURCES, INC.","New, Not Drilled",,[40113] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,1/25/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[319552] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,1/25/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[319552] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+25101242340000,,12/12/2013 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,,4/29/2014 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,,12/12/2013 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Permit to Drill,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,,6/12/2014 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Permit to Drill,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,Somont Oil Co. #3,4/4/2014 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,Converted to production.,5/6/2014 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,Converted to production.,5/6/2014 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+25101242340000,Initial production report; producing from Swift,2/13/2018 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  63,a9d042fe-679a-4e92-ae00-3ca445aed8ba
+3001543690,,3/29/2016 12:00:00 AM,,"
+                                    [15742] NEARBURG PRODUCING CO                        
+                                ",,,,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,3/29/2016 12:00:00 AM,,"
+                                    #004H
+                                ",,,,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,3/29/2016 12:00:00 AM,,#004H,,,"[316072] COTTONWOOD 28 33 FEDERAL                ",20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING CO                        ","New, Not Drilled",,[316072] COTTONWOOD 28 33 FEDERAL 2BS             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,6/8/2017 12:00:00 AM,,#004H,,,,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING COMPANY                   ","New, Not Drilled",,[316072] COTTONWOOD 28 33 FEDERAL 2BS             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,6/8/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",New,,[317877] COTTONWOOD 28 33 FEDERAL 2BS #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,1/4/2018 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",Active,,[319934] COTTONWOOD 28 33 FEDERAL WCA             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[319934] COTTONWOOD 28 33 FEDERAL WCA             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[319934] COTTONWOOD 28 33 FEDERAL WCA             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543690,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",Active,,[319934] COTTONWOOD 28 33 FEDERAL WCA #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3001543687,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING CO                        ",,,"[316072] COTTONWOOD 28 33 FEDERAL                ",40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,"
+                                    #003H
+                                ",,,,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING CO                        ","New, Not Drilled",,[316072] COTTONWOOD 28 33 FEDERAL 2BS             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING CO                        ",,,"[316072] COTTONWOOD 28 33 FEDERAL                ",40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,"
+                                    [15742] NEARBURG PRODUCING CO                        
+                                ",,,,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,6/8/2017 12:00:00 AM,,#003H,,,,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,#003H,,,,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,6/8/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[317877] COTTONWOOD 28 33 FEDERAL 2BS             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,8/22/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",Cancelled,,[317877] COTTONWOOD 28 33 FEDERAL 2BS             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[319934] COTTONWOOD 28 33 FEDERAL WCA             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,6/8/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[317877] COTTONWOOD 28 33 FEDERAL 2BS             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[319934] COTTONWOOD 28 33 FEDERAL WCA             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,3/29/2016 12:00:00 AM,,"[15742] NEARBURG PRODUCING COMPANY                   ","New, Not Drilled",,[316072] COTTONWOOD 28 33 FEDERAL 2BS             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,8/22/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",New,,[319570] COTTONWOOD 28 33 FEDERAL #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[319934] COTTONWOOD 28 33 FEDERAL WCA             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,6/8/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",New,,[317877] COTTONWOOD 28 33 FEDERAL 2BS #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,1/4/2018 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",Active,,[319934] COTTONWOOD 28 33 FEDERAL WCA             #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3001543687,,9/1/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ",Active,,[319934] COTTONWOOD 28 33 FEDERAL WCA #003H,40238563-c89d-434b-bbbf-29cee824ede8
+3002543184,,4/25/2016 12:00:00 AM,,"
+                                    [6137] DEVON ENERGY PRODUCTION COMPANY, LP          
+                                ",,,,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,4/25/2016 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[316127] GREEN WAVE 20 17 FEDERAL                 #021H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,4/25/2016 12:00:00 AM,,"
+                                    #021H
+                                ",,,,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,4/25/2016 12:00:00 AM,,#021H,,,,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,8/18/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317795] GREEN WAVE 20 32 FEDERAL STATE COM       #003H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,8/18/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317795] GREEN WAVE 20 32 FEDERAL STATE COM       #003H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,4/25/2016 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[316127] GREEN WAVE 20 17 FEDERAL #021H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3001543690,,6/8/2017 12:00:00 AM,,"[372137] CHISHOLM ENERGY OPERATING, LLC               ","New, Not Drilled",,[317877] COTTONWOOD 28 33 FEDERAL 2BS             #004H,20c3956f-4712-48e1-a0b6-24194bc93e29
+3002541378,,9/10/2013 12:00:00 AM,,#001H,,,"[40113] CRANBERRY BSU STATE COM                 ",35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,9/10/2013 12:00:00 AM,,"
+                                    #001H
+                                ",,,,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,9/10/2013 12:00:00 AM,,"[25575] EOG Y RESOURCES, INC.                        ","New, Not Drilled",,[40113] CRANBERRY BSU STATE COM                  #001H,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3002541378,,9/10/2013 12:00:00 AM,,"
+                                    [25575] YATES PETROLEUM CORPORATION                  
+                                ",,,,35b7a95e-6175-4f2a-9d56-afc01e0ec300
+3001543520,,12/17/2015 12:00:00 AM,,"[873] APACHE CORP                                  ","New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #409H,be57b523-0787-475f-a2b1-e7f8295dd875
+3002542837,,5/4/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Cancelled,,[317772] SALADO DRAW 10 W1PA FEDERAL              #002H,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3002542837,,5/4/2017 12:00:00 AM,,#002H,,,,0363c448-7a6e-4bee-b654-a6e23e1bc74e
+3001543555,,2/1/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Active,,[314249] FOREHAND RANCH 22 STATE #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,12/29/2015 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",New,,[314249] FOREHAND RANCH 22 STATE #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,2/1/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Cancelled,,[314249] FOREHAND RANCH 22 STATE                  #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3001543555,,2/1/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Cancelled,,[314249] FOREHAND RANCH 22 STATE                  #008H,27c90a6b-cc67-4371-8879-21447f96a900
+3002542701,,7/21/2015 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.","New, Not Drilled",,[315044] EK 30 BS2 FEDERAL COM                    #001H,becb693d-9003-4e3f-9118-dc7fdf174b33
+3002542701,,7/21/2015 12:00:00 AM,,#001H,,,,becb693d-9003-4e3f-9118-dc7fdf174b33
+3001542733,,10/17/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE                            #002H,11cf397e-98f8-413e-a017-cd3d8e1f1634
+3001542732,,2/1/2017 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",New,,[313796] STERLING 20 STATE #002H,22977fc2-ac43-4926-9afd-c8448b5b40c7
+3002542116,,10/16/2017 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ",Active,,[31172] EAST VACUUM (GSA) UNIT                   #528,85f88048-142e-4b8d-9a94-c6623b6cb933
+3001543300,,1/9/2018 12:00:00 AM,,"[277558] LIME ROCK RESOURCES II-A, L.P.               ",Active,,[315091] BRAINARD 12L                             #001,8a97ca63-29cd-4df8-92b9-a82e9336bb80
+25101242650000,,10/12/2016 12:00:00 AM,Kevin-Sunburst,"Somont Oil Company, Inc.",Producing,,State 36  75,fc891525-3a8c-4373-86a9-58b0b1d6945d
+3002543184,,8/18/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317795] GREEN WAVE 20 32 FEDERAL STATE COM #003H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543184,,1/20/2018 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317795] GREEN WAVE 20 32 FEDERAL STATE COM       #003H,ab3bb222-0d05-47d0-854d-5fd5b153fb34
+3002543186,,4/25/2016 12:00:00 AM,,"
+                                    #041H
+                                ",,,,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,4/25/2016 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[316127] GREEN WAVE 20 17 FEDERAL                 #041H,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,4/25/2016 12:00:00 AM,,"
+                                    [6137] DEVON ENERGY PRODUCTION COMPANY, LP          
+                                ",,,,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,5/30/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317795] GREEN WAVE 20 32 FEDERAL STATE COM       #001H,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,5/30/2017 12:00:00 AM,,#041H,,,,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,4/25/2016 12:00:00 AM,,#041H,,,,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,4/25/2016 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[316127] GREEN WAVE 20 17 FEDERAL #041H,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,5/30/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317795] GREEN WAVE 20 32 FEDERAL STATE COM #001H,23e96e71-7737-487c-a191-6f54124b0672
+3002543186,,1/20/2018 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317795] GREEN WAVE 20 32 FEDERAL STATE COM       #001H,23e96e71-7737-487c-a191-6f54124b0672
+3002543230,,5/11/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ","New, Not Drilled",,[302795] HAMON A FEDERAL COM                      #005H,c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543230,,5/11/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",,,"[302795] HAMON A FEDERAL COM                     ",c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543230,,5/11/2016 12:00:00 AM,,"
+                                    [240974] LEGACY RESERVES OPERATING, LP                
+                                ",,,,c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543230,,5/11/2016 12:00:00 AM,,"
+                                    #005H
+                                ",,,,c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543230,,5/11/2016 12:00:00 AM,,#005H,,,,c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543230,,5/11/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",New,,[302795] HAMON A FEDERAL COM #005H,c2d7a8fc-d7f4-4f09-8bb6-da096c6db339
+3002543252,,5/18/2016 12:00:00 AM,,"
+                                    #011H
+                                ",,,,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3002543252,,5/18/2016 12:00:00 AM,,"
+                                    [240974] LEGACY RESERVES OPERATING, LP                
+                                ",,,,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3002543252,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ","New, Not Drilled",,[302795] HAMON A FEDERAL COM                      #011H,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3002543252,,5/18/2016 12:00:00 AM,,#011H,,,,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3002543252,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",Active,,[302795] HAMON A FEDERAL COM #011H,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3002543252,,12/17/2017 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",Active,,[302795] HAMON A FEDERAL COM                      #011H,86e025f7-e72e-41ba-89f7-398c498f6ebf
+3001543784,,5/12/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",,,"[316223] PAVO MACHO 31 B2EH FEDERAL COM          ",d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,"
+                                    #001H
+                                ",,,,d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,"
+                                    [14744] MEWBOURNE OIL CO                             
+                                ",,,,d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,#001H,,,"[316223] PAVO MACHO 31 B2EH FEDERAL COM          ",d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",,,"[316223] PAVO MACHO 31 B2EH FEDERAL COM          ",d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[316223] PAVO MACHO 31 32 B2EH FEDERAL COM        #001H,d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,5/12/2016 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[316223] PAVO MACHO 31 32 B2EH FEDERAL COM #001H,d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3001543784,,1/25/2018 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[316223] PAVO MACHO 31 32 B2EH FEDERAL COM        #001H,d4e8d5a5-e9bd-4ddd-b988-ce549128a5c4
+3002543250,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",,,"[302795] HAMON A FEDERAL COM                     ",f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",,,"[302795] HAMON A FEDERAL COM                     ",f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",Active,,[302795] HAMON A FEDERAL COM #009H,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,"
+                                    [240974] LEGACY RESERVES OPERATING, LP                
+                                ",,,,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,"
+                                    #009H
+                                ",,,,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ","New, Not Drilled",,[302795] HAMON A FEDERAL COM                      #009H,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,5/18/2016 12:00:00 AM,,#009H,,,,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543250,,1/23/2018 12:00:00 AM,,"[240974] LEGACY RESERVES OPERATING, LP                ",Active,,[302795] HAMON A FEDERAL COM                      #009H,f6bd0987-635d-42be-ad38-4b476a6eeb9b
+3002543370,,7/20/2016 12:00:00 AM,,"
+                                    [217817] CONOCOPHILLIPS COMPANY                       
+                                ",,,,85e61139-d3ad-44f1-938d-4c0501cc550e
+3002543370,,7/20/2016 12:00:00 AM,,"
+                                    #100H
+                                ",,,,85e61139-d3ad-44f1-938d-4c0501cc550e
+3002543370,,7/20/2016 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ","New, Not Drilled",,[38653] RUBY FEDERAL                             #100H,85e61139-d3ad-44f1-938d-4c0501cc550e
+3002543370,,7/20/2016 12:00:00 AM,,#100H,,,"[38653] RUBY FEDERAL                            ",85e61139-d3ad-44f1-938d-4c0501cc550e
+3002543370,,7/20/2016 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ",Active,,[38653] RUBY FEDERAL #100H,85e61139-d3ad-44f1-938d-4c0501cc550e
+3002543370,,11/1/2017 12:00:00 AM,,"[217817] CONOCOPHILLIPS COMPANY                       ",Active,,[38653] RUBY FEDERAL                             #100H,85e61139-d3ad-44f1-938d-4c0501cc550e
+3001543869,,7/28/2016 12:00:00 AM,,"
+                                    [160825] BC OPERATING, INC.                           
+                                ",,,,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/28/2016 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",,,"[313797] CASS 16 STATE                           ",34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/28/2016 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ","New, Not Drilled",,[313797] CASS 16 STATE                            #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/28/2016 12:00:00 AM,,"
+                                    #003H
+                                ",,,,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/28/2016 12:00:00 AM,,#003H,,,,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,2/1/2017 12:00:00 AM,,"
+                                    #003H
+                                ",,,,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,2/1/2017 12:00:00 AM,,#003H,,,,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318181] CASS 16 STATE                            #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,2/1/2017 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",Cancelled,,[313797] CASS 16 STATE                            #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,7/28/2016 12:00:00 AM,,"[160825] BC OPERATING, INC.                           ",New,,[313797] CASS 16 STATE #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543869,,10/18/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE                            #003H,34e06e8e-a7f2-45dd-8e7b-9feb18011fe8
+3001543999,,12/16/2016 12:00:00 AM,,#016H,,,"[315130] BONE YARD 11 FEE                        ",703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,12/16/2016 12:00:00 AM,,"[229137] COG OPERATING LLC                            ","New, Not Drilled",,[315130] BONE YARD 11 FEE                         #016H,703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,12/16/2016 12:00:00 AM,,"
+                                    #016H
+                                ",,,,703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,12/16/2016 12:00:00 AM,,#016H,,,"[315130] BONE YARD 11 FEE                        ",703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,12/16/2016 12:00:00 AM,,"[229137] COG OPERATING LLC                            ","New, Not Drilled",,[315130] BONE YARD 11 FEE                         #016H,703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,12/16/2016 12:00:00 AM,,"[229137] COG OPERATING LLC                            ",Active,,[315130] BONE YARD 11 FEE #016H,703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3001543999,,1/11/2018 12:00:00 AM,,"[229137] COG OPERATING LLC                            ",Active,,[315130] BONE YARD 11 FEE                         #016H,703b4f78-af7e-40f0-a0e3-6fb9dd2205a0
+3002543577,,2/6/2017 12:00:00 AM,,#002H,,,"[317386] PEPPER RIDGE 15 22 W1AH FEDERAL COM     ",85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,2/6/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[317386] PEPPER RIDGE 15 22 W1AH FEDERAL COM      #002H,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,2/6/2017 12:00:00 AM,,"
+                                    #002H
+                                ",,,,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,5/9/2017 12:00:00 AM,,#003H,,,,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,5/9/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[317771] SALADO DRAW 10 W0PA FEDERAL              #003H,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,5/9/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[317771] SALADO DRAW 10 W0PA FEDERAL #003H,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,2/6/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",New,,[317386] PEPPER RIDGE 15 22 W1AH FEDERAL COM #002H,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3002543577,,1/9/2018 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[317771] SALADO DRAW 10 W0PA FEDERAL              #003H,85c07af8-ce1d-4952-931b-cf9f4c1b2394
+3001544063,,2/20/2017 12:00:00 AM,,#009H,,,"[314249] FOREHAND RANCH 22 STATE                 ",a3468f88-a191-4100-9f8e-2355e17d1eb8
+3001544063,,2/20/2017 12:00:00 AM,,#009H,,,"[314249] FOREHAND RANCH 22 STATE                 ",a3468f88-a191-4100-9f8e-2355e17d1eb8
+3001544063,,2/20/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ","New, Not Drilled",,[314249] FOREHAND RANCH 22 STATE                  #009H,a3468f88-a191-4100-9f8e-2355e17d1eb8
+3001544063,,2/20/2017 12:00:00 AM,,"
+                                    #009H
+                                ",,,,a3468f88-a191-4100-9f8e-2355e17d1eb8
+3001544063,,2/20/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Active,,[314249] FOREHAND RANCH 22 STATE #009H,a3468f88-a191-4100-9f8e-2355e17d1eb8
+3001544063,,12/23/2017 12:00:00 AM,,"[249099] CAZA OPERATING, LLC                          ",Active,,[314249] FOREHAND RANCH 22 STATE                  #009H,a3468f88-a191-4100-9f8e-2355e17d1eb8
+3002543675,,3/10/2017 12:00:00 AM,,#007H,,,,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543675,,3/10/2017 12:00:00 AM,,"
+                                    #007H
+                                ",,,,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543675,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #007H,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543675,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #007H,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543675,,12/8/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ",Active,,[317518] SD WE 24 FEDERAL P24                     #007H,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543675,,12/8/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ",Active,,[317518] SD WE 24 FEDERAL P24                     #007H,b563fa43-6dff-43ae-9c5a-6287df3a96ef
+3002543674,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #005H,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,3/10/2017 12:00:00 AM,,"
+                                    #005H
+                                ",,,,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,3/10/2017 12:00:00 AM,,#005H,,,"[317518] SD WE 24 FEDERAL P24                    ",7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,3/10/2017 12:00:00 AM,,#005H,,,"[317518] SD WE 24 FEDERAL P24                    ",7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #005H,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #005H,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,12/7/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ",Active,,[317518] SD WE 24 FEDERAL P24                     #005H,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3002543674,,12/7/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ",Active,,[317518] SD WE 24 FEDERAL P24                     #005H,7dc797d6-64ec-4f9a-a22e-75fabae5731c
+3001544106,,3/21/2017 12:00:00 AM,,"
+                                    #291H
+                                ",,,,8380b2a9-b99e-4f5c-9516-99d482aa9df1
+3001544106,,3/21/2017 12:00:00 AM,,#291H,,,,8380b2a9-b99e-4f5c-9516-99d482aa9df1
+3001544106,,3/21/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[300635] COTTON DRAW UNIT                         #291H,8380b2a9-b99e-4f5c-9516-99d482aa9df1
+3001544106,,3/21/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[300635] COTTON DRAW UNIT #291H,8380b2a9-b99e-4f5c-9516-99d482aa9df1
+3001544106,,1/19/2018 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[300635] COTTON DRAW UNIT                         #291H,8380b2a9-b99e-4f5c-9516-99d482aa9df1
+3001544068,,2/24/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[300635] COTTON DRAW UNIT                         #511H,ecfd2150-6037-4f2d-8f52-b0fdae12e330
+3001544068,,2/24/2017 12:00:00 AM,,"
+                                    #511H
+                                ",,,,ecfd2150-6037-4f2d-8f52-b0fdae12e330
+3001544068,,2/24/2017 12:00:00 AM,,#511H,,,,ecfd2150-6037-4f2d-8f52-b0fdae12e330
+3001544068,,2/24/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[300635] COTTON DRAW UNIT                         #511H,ecfd2150-6037-4f2d-8f52-b0fdae12e330
+3001544068,,2/24/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[300635] COTTON DRAW UNIT #511H,ecfd2150-6037-4f2d-8f52-b0fdae12e330
+3002543673,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #006H,0bcc9e07-248f-4533-8b36-b79a340c413b
+3002543673,,3/10/2017 12:00:00 AM,,#006H,,,"[317518] SD WE 24 FEDERAL P24                    ",0bcc9e07-248f-4533-8b36-b79a340c413b
+3002543673,,3/10/2017 12:00:00 AM,,"
+                                    #006H
+                                ",,,,0bcc9e07-248f-4533-8b36-b79a340c413b
+3002543673,,3/10/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ","New, Not Drilled",,[317518] SD WE 24 FEDERAL P24                     #006H,0bcc9e07-248f-4533-8b36-b79a340c413b
+3002543673,,12/7/2017 12:00:00 AM,,"[4323] CHEVRON U S A INC                            ",Active,,[317518] SD WE 24 FEDERAL P24                     #006H,0bcc9e07-248f-4533-8b36-b79a340c413b
+3002543673,,12/7/2017 12:00:00 AM,,"[4323] CHEVRON U.S.A. INC.                          ",Active,,[317518] SD WE 24 FEDERAL P24                     #006H,0bcc9e07-248f-4533-8b36-b79a340c413b
+3001544121,,3/31/2017 12:00:00 AM,,"
+                                    #061H
+                                ",,,,74b48660-575f-4ad6-9b5e-64424ecb2935
+3001544121,,3/31/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317572] AGATE PWU 21 22 #061H,74b48660-575f-4ad6-9b5e-64424ecb2935
+3001544121,,3/31/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317572] AGATE PWU 21 22                          #061H,74b48660-575f-4ad6-9b5e-64424ecb2935
+3001544121,,3/31/2017 12:00:00 AM,,#061H,,,,74b48660-575f-4ad6-9b5e-64424ecb2935
+3001544121,,1/3/2018 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[317572] AGATE PWU 21 22                          #061H,74b48660-575f-4ad6-9b5e-64424ecb2935
+3001544120,,3/31/2017 12:00:00 AM,,#010H,,,"[317572] AGATE PWU 21 22                         ",880d878e-4e38-4ce3-88ee-d5d28c55d5cd
+3001544120,,3/31/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317572] AGATE PWU 21 22                          #010H,880d878e-4e38-4ce3-88ee-d5d28c55d5cd
+3001544120,,3/31/2017 12:00:00 AM,,"
+                                    #010H
+                                ",,,,880d878e-4e38-4ce3-88ee-d5d28c55d5cd
+3001544120,,3/31/2017 12:00:00 AM,,#010H,,,"[317572] AGATE PWU 21 22                         ",880d878e-4e38-4ce3-88ee-d5d28c55d5cd
+3001544120,,3/31/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[317572] AGATE PWU 21 22 #010H,880d878e-4e38-4ce3-88ee-d5d28c55d5cd
+3001544142,,4/26/2017 12:00:00 AM,,#022H,,,,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,5/2/2017 12:00:00 AM,,#022H,,,,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,4/26/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[317664] TURKEY TRACK 8 7 STATE                   #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,5/2/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ","New, Not Drilled",,[317700] TURKEY TRACK 8 7 STATE                   #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,4/26/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[317664] TURKEY TRACK 8 7 STATE                   #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,5/2/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317700] TURKEY TRACK 8 7 STATE #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,4/26/2017 12:00:00 AM,,"[16696] OXY USA INC.                                 ","New, Not Drilled",,[317664] TURKEY TRACK 8 7 STATE                   #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544142,,12/22/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317700] TURKEY TRACK 8 7 STATE                   #022H,43fc1e7a-f061-4182-833d-b5b44e102c4d
+3001544156,,5/8/2017 12:00:00 AM,,#024H,,,,26d9fca5-b3bb-44f7-bc5d-d441fdd9056c
+3001544156,,5/8/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ","New, Not Drilled",,[317701] TURKEY TRACK 9 10 STATE                  #024H,26d9fca5-b3bb-44f7-bc5d-d441fdd9056c
+3001544156,,5/8/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317701] TURKEY TRACK 9 10 STATE #024H,26d9fca5-b3bb-44f7-bc5d-d441fdd9056c
+3001544156,,12/19/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317701] TURKEY TRACK 9 10 STATE                  #024H,26d9fca5-b3bb-44f7-bc5d-d441fdd9056c
+3001544154,,5/8/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ","New, Not Drilled",,[317701] TURKEY TRACK 9 10 STATE                  #023H,5778f9bf-bfcb-4056-8176-d86dff38aa3f
+3001544154,,5/8/2017 12:00:00 AM,,#023H,,,,5778f9bf-bfcb-4056-8176-d86dff38aa3f
+3001544154,,5/8/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317701] TURKEY TRACK 9 10 STATE #023H,5778f9bf-bfcb-4056-8176-d86dff38aa3f
+3001544154,,12/19/2017 12:00:00 AM,,"[192463] OXY USA WTP LIMITED PARTNERSHIP              ",Active,,[317701] TURKEY TRACK 9 10 STATE                  #023H,5778f9bf-bfcb-4056-8176-d86dff38aa3f
+3001544199,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[300635] COTTON DRAW UNIT #513H,69eece01-8351-43af-b858-16c53cc31670
+3001544199,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[300635] COTTON DRAW UNIT                         #513H,69eece01-8351-43af-b858-16c53cc31670
+3001544199,,5/23/2017 12:00:00 AM,,#513H,,,,69eece01-8351-43af-b858-16c53cc31670
+3001544199,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[300635] COTTON DRAW UNIT #513H,69eece01-8351-43af-b858-16c53cc31670
+3001544199,,1/18/2018 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",Active,,[300635] COTTON DRAW UNIT                         #513H,69eece01-8351-43af-b858-16c53cc31670
+3001544201,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317572] AGATE PWU 21 22                          #062H,8e48350d-4ed9-4d55-8d42-ac88f72984e4
+3001544201,,5/23/2017 12:00:00 AM,,#062H,,,,8e48350d-4ed9-4d55-8d42-ac88f72984e4
+3001544201,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ","New, Not Drilled",,[317572] AGATE PWU 21 22                          #062H,8e48350d-4ed9-4d55-8d42-ac88f72984e4
+3001544201,,5/23/2017 12:00:00 AM,,"[6137] DEVON ENERGY PRODUCTION COMPANY, LP          ",New,,[317572] AGATE PWU 21 22 #062H,8e48350d-4ed9-4d55-8d42-ac88f72984e4
+3002543838,,5/30/2017 12:00:00 AM,,"[229137] COG OPERATING LLC                            ","New, Not Drilled",,[315644] STOVE PIPE FEDERAL COM                   #001H,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543838,,5/30/2017 12:00:00 AM,,#001H,,,,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543838,,5/30/2017 12:00:00 AM,,"[229137] COG OPERATING LLC                            ","New, Not Drilled",,[315644] STOVE PIPE FEDERAL COM                   #001H,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543838,,5/30/2017 12:00:00 AM,,"[229137] COG OPERATING LLC                            ","New, Not Drilled",,[315644] STOVE PIPE FEDERAL COM                   #001H,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543838,,1/27/2018 12:00:00 AM,,"[229137] COG OPERATING LLC                            ",Active,,[315644] STOVE PIPE FEDERAL COM                   #001H,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543838,,5/30/2017 12:00:00 AM,,"[229137] COG OPERATING LLC                            ",Active,,[315644] STOVE PIPE FEDERAL COM #001H,d5e789c2-8715-44d7-bec1-be63b86d4d1d
+3002543846,,6/6/2017 12:00:00 AM,,#653,,,,55c1b1e8-ba5b-4090-a84c-abc59f76d33c
+3002543846,,6/6/2017 12:00:00 AM,,"[157984] OCCIDENTAL PERMIAN LTD                       ","New, Not Drilled",,[19520] NORTH HOBBS G/SA UNIT                    #653,55c1b1e8-ba5b-4090-a84c-abc59f76d33c
+3002543846,,6/6/2017 12:00:00 AM,,"[157984] OCCIDENTAL PERMIAN LTD                       ","New, Not Drilled",,[19520] NORTH HOBBS G/SA UNIT                    #653,55c1b1e8-ba5b-4090-a84c-abc59f76d33c
+3002543846,,6/6/2017 12:00:00 AM,,"[157984] OCCIDENTAL PERMIAN LIMITED PARTNERSHIP       ","New, Not Drilled",,[19520] NORTH HOBBS G/SA UNIT                    #653,55c1b1e8-ba5b-4090-a84c-abc59f76d33c
+3002543846,,1/5/2018 12:00:00 AM,,"[157984] OCCIDENTAL PERMIAN LIMITED PARTNERSHIP       ",Active,,[19520] NORTH HOBBS G/SA UNIT                    #653,55c1b1e8-ba5b-4090-a84c-abc59f76d33c
+3002543883,,6/27/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.",Active,,[315044] EK 30 BS2 FEDERAL COM #002H,1574caf7-0adb-40c5-a505-d39fb1334eb2
+3002543883,,2/27/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ","New, Not Drilled",,[315044] EK 30 BS2 FEDERAL COM                    #002H,1574caf7-0adb-40c5-a505-d39fb1334eb2
+3002543883,,1/12/2018 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ",Active,,[315044] EK 30 BS2 FEDERAL COM                    #002H,1574caf7-0adb-40c5-a505-d39fb1334eb2
+3002543883,,1/12/2018 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.",Active,,[315044] EK 30 BS2 FEDERAL COM                    #002H,1574caf7-0adb-40c5-a505-d39fb1334eb2
+3002543883,,2/27/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.","New, Not Drilled",,[315044] EK 30 BS2 FEDERAL COM                    #002H,1574caf7-0adb-40c5-a505-d39fb1334eb2
+3002543884,,6/27/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ","New, Not Drilled",,[316077] EK 31 BS2 FEDERAL COM                    #001H,53510097-2cb5-4300-91e6-e6c204845325
+3002543884,,6/27/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.","New, Not Drilled",,[316077] EK 31 BS2 FEDERAL COM                    #001H,53510097-2cb5-4300-91e6-e6c204845325
+3002543884,,12/26/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC                         ",Active,,[316077] EK 31 BS2 FEDERAL COM                    #001H,53510097-2cb5-4300-91e6-e6c204845325
+3002543884,,12/26/2017 12:00:00 AM,,"[22044] MCELVAIN ENERGY, INC.",Active,,[316077] EK 31 BS2 FEDERAL COM                    #001H,53510097-2cb5-4300-91e6-e6c204845325
+3002543893,,9/5/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,7/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,7/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,9/5/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,9/5/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,7/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543893,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #703H,8021d580-ef8d-4190-a5d1-216e0fe72fd3
+3002543892,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,7/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,7/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,7/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,7/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543892,,7/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #702H,25038df3-b05f-4fbb-86ab-29403404620c
+3002543894,,7/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,6/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",New,,[318329] RUBY 2 FEDERAL COM #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,7/12/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3002543894,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #704H,91d472c6-8452-41cb-9335-a3f9cf357c03
+3001544366,,8/2/2017 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ","New, Not Drilled",,[318940] GOODMAN 22                               #004H,b8f7d5ab-bd16-482a-a354-124292daa7eb
+3001544366,,8/2/2017 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ",Active,,[318940] GOODMAN 22 #004H,b8f7d5ab-bd16-482a-a354-124292daa7eb
+3001544366,,1/12/2018 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ",Active,,[318940] GOODMAN 22                               #004H,b8f7d5ab-bd16-482a-a354-124292daa7eb
+3001544365,,8/2/2017 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ","New, Not Drilled",,[318940] GOODMAN 22                               #006H,a3d9aeb9-f66b-44af-a676-98eda3e1a213
+3001544365,,1/11/2018 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ",Active,,[318940] GOODMAN 22                               #006H,a3d9aeb9-f66b-44af-a676-98eda3e1a213
+3001544370,,8/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318181] CASS 16 STATE                            #004H,be01ee1e-1988-48b9-a6f3-6943eeeb07b4
+3001544370,,8/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ","New, Not Drilled",,[318181] CASS 16 STATE                            #004H,be01ee1e-1988-48b9-a6f3-6943eeeb07b4
+3001544370,,8/7/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE #004H,be01ee1e-1988-48b9-a6f3-6943eeeb07b4
+3001544370,,10/20/2017 12:00:00 AM,,"[372098] MARATHON OIL PERMIAN LLC                     ",Active,,[318181] CASS 16 STATE                            #004H,be01ee1e-1988-48b9-a6f3-6943eeeb07b4
+3001544399,,8/17/2017 12:00:00 AM,,"[873] APACHE CORP                                  ","New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3001544399,,8/17/2017 12:00:00 AM,,"[873] APACHE CORP                                  ","New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3001544399,,8/17/2017 12:00:00 AM,,"[873] APACHE CORP                                  ","New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3001544399,,8/17/2017 12:00:00 AM,,[873] APACHE CORPORATION,"New, Not Drilled",,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3001544399,,11/28/2017 12:00:00 AM,,"[873] APACHE CORP                                  ",Active,,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3001544399,,11/28/2017 12:00:00 AM,,[873] APACHE CORPORATION,Active,,[315935] CEDAR LAKE FEDERAL CA                    #725H,9344faa9-fc22-4d13-8369-16b4a08d3239
+3002543923,,8/16/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,8/15/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,8/15/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,1/5/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,8/15/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,8/16/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543923,,1/5/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[318098] FOGHORN 32 STATE COM                     #209H,430905d9-8e4b-40b3-97d4-9aa7581e830d
+3002543933,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543933,,8/22/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543933,,9/8/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543933,,8/22/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[318329] RUBY 2 FEDERAL COM                       #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543933,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543933,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #705H,f23ba963-ceaa-4a0b-b901-2a15c4507b87
+3002543936,,8/25/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[317270] BEOWULF 33 STATE COM                     #301H,3fc4e271-942f-4e1d-b2a7-7da06c9c32d4
+3002543936,,8/25/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[317270] BEOWULF 33 STATE COM                     #301H,3fc4e271-942f-4e1d-b2a7-7da06c9c32d4
+3002543936,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[317270] BEOWULF 33 STATE COM                     #301H,3fc4e271-942f-4e1d-b2a7-7da06c9c32d4
+3002543936,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[317270] BEOWULF 33 STATE COM                     #301H,3fc4e271-942f-4e1d-b2a7-7da06c9c32d4
+3001544431,,9/6/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[319563] DERRINGER 18 B3LI FEDERAL #002H,a3818020-2e3a-4738-b82b-e31601bcdd4b
+3001544431,,9/6/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[319563] DERRINGER 18 B3LI FEDERAL                #002H,a3818020-2e3a-4738-b82b-e31601bcdd4b
+3001544431,,1/6/2018 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[319563] DERRINGER 18 B3LI FEDERAL                #002H,a3818020-2e3a-4738-b82b-e31601bcdd4b
+3002544013,,9/15/2017 12:00:00 AM,,"[228937] MATADOR PRODUCTION COMPANY                   ","New, Not Drilled",,[319578] FLORENCE STATE 23 23 34 AR               #202H,f8fa3e80-1cde-4cb7-95ce-313892532111
+3001544365,,8/2/2017 12:00:00 AM,,"[371755] PERCUSSION PETROLEUM OPERATING, LLC          ",Active,,[318940] GOODMAN 22 #006H,a3d9aeb9-f66b-44af-a676-98eda3e1a213
+3002544013,,9/15/2017 12:00:00 AM,,[228937] MATADOR PRODUCTION COMPANY,"New, Not Drilled",,[319578] FLORENCE STATE 23 23 34 AR               #202H,f8fa3e80-1cde-4cb7-95ce-313892532111
+3002544013,,1/26/2018 12:00:00 AM,,"[228937] MATADOR PRODUCTION COMPANY                   ",Active,,[319578] FLORENCE STATE 23 23 34 AR               #202H,f8fa3e80-1cde-4cb7-95ce-313892532111
+3002544013,,1/26/2018 12:00:00 AM,,[228937] MATADOR PRODUCTION COMPANY,Active,,[319578] FLORENCE STATE 23 23 34 AR               #202H,f8fa3e80-1cde-4cb7-95ce-313892532111
+3002544007,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #705H,13dd2baf-8a57-4fc7-ac28-34fbd04cff7c
+3002544007,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #705H,13dd2baf-8a57-4fc7-ac28-34fbd04cff7c
+3002544007,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #705H,13dd2baf-8a57-4fc7-ac28-34fbd04cff7c
+3002544007,,12/20/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #705H,13dd2baf-8a57-4fc7-ac28-34fbd04cff7c
+3002544007,,12/20/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #705H,13dd2baf-8a57-4fc7-ac28-34fbd04cff7c
+3001544438,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #044H,53555017-cd1d-4b0b-b6df-43c977c00573
+3001544438,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #044H,53555017-cd1d-4b0b-b6df-43c977c00573
+3001544438,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC.                                 ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #044H,53555017-cd1d-4b0b-b6df-43c977c00573
+3001544438,,12/28/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ",Active,,[319584] CEDAR CANYON 27 28 FEDERAL               #044H,53555017-cd1d-4b0b-b6df-43c977c00573
+3001544438,,12/28/2017 12:00:00 AM,,"[16696] OXY USA INC.                                 ",Active,,[319584] CEDAR CANYON 27 28 FEDERAL               #044H,53555017-cd1d-4b0b-b6df-43c977c00573
+3002544009,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #706H,c63195c6-f342-4ac7-877e-4acfc526c673
+3002544009,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #706H,c63195c6-f342-4ac7-877e-4acfc526c673
+3002544009,,12/18/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #706H,c63195c6-f342-4ac7-877e-4acfc526c673
+3002544009,,12/18/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #706H,c63195c6-f342-4ac7-877e-4acfc526c673
+3001544437,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC.                                 ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #043H,14580e40-f939-433e-94e1-589a04ffd088
+3001544437,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #043H,14580e40-f939-433e-94e1-589a04ffd088
+3001544437,,9/18/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ","New, Not Drilled",,[319584] CEDAR CANYON 27 28 FEDERAL               #043H,14580e40-f939-433e-94e1-589a04ffd088
+3001544437,,12/28/2017 12:00:00 AM,,"[16696] OXY USA INC                                  ",Active,,[319584] CEDAR CANYON 27 28 FEDERAL               #043H,14580e40-f939-433e-94e1-589a04ffd088
+3001544437,,12/28/2017 12:00:00 AM,,"[16696] OXY USA INC.                                 ",Active,,[319584] CEDAR CANYON 27 28 FEDERAL               #043H,14580e40-f939-433e-94e1-589a04ffd088
+3002544006,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #704H,ae43f99f-7bf9-4c07-94e4-6c0404afda5f
+3002544006,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #704H,ae43f99f-7bf9-4c07-94e4-6c0404afda5f
+3002544006,,12/20/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #704H,ae43f99f-7bf9-4c07-94e4-6c0404afda5f
+3002544006,,12/20/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #704H,ae43f99f-7bf9-4c07-94e4-6c0404afda5f
+3002544008,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #707H,4f60b408-3a28-42d4-a5f0-d245641683fc
+3002544008,,9/11/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[319569] OPHELIA 22 FEDERAL COM                   #707H,4f60b408-3a28-42d4-a5f0-d245641683fc
+3002544008,,12/14/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #707H,4f60b408-3a28-42d4-a5f0-d245641683fc
+3002544008,,12/14/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[319569] OPHELIA 22 FEDERAL COM                   #707H,4f60b408-3a28-42d4-a5f0-d245641683fc
+17023232060000,,11/21/2017 12:00:00 AM,1624,"ROBERTSON ENERGY, LLC",PERMITTED,9/26/2017 12:00:00 AM,J B WATKINS,0db69f39-926d-43bc-8a4a-653dbac0e975
+17023232060000,,9/26/2017 12:00:00 AM,1624,"ROBERTSON ENERGY, LLC",PERMITTED,9/26/2017 12:00:00 AM,J B WATKINS,0db69f39-926d-43bc-8a4a-653dbac0e975
+17023232060000,,1/16/2018 12:00:00 AM,1624,"ROBERTSON ENERGY, LLC",ACTIVE - PRODUCING,1/16/2018 12:00:00 AM,J B WATKINS,0db69f39-926d-43bc-8a4a-653dbac0e975
+3002544061,,9/28/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #603H,7c5da16c-2ec2-4cce-9da6-68ba85244c4c
+3002544061,,9/28/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #603H,7c5da16c-2ec2-4cce-9da6-68ba85244c4c
+3002544061,,9/28/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #603H,7c5da16c-2ec2-4cce-9da6-68ba85244c4c
+3002544061,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #603H,7c5da16c-2ec2-4cce-9da6-68ba85244c4c
+3002544061,,1/18/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #603H,7c5da16c-2ec2-4cce-9da6-68ba85244c4c
+3002544060,,9/28/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #602H,6e23825f-b2a2-4c43-9136-785b2a183e99
+3002544060,,9/28/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #602H,6e23825f-b2a2-4c43-9136-785b2a183e99
+3002544060,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #602H,6e23825f-b2a2-4c43-9136-785b2a183e99
+3002544060,,1/17/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #602H,6e23825f-b2a2-4c43-9136-785b2a183e99
+3001544463,,10/12/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ","New, Not Drilled",,[319732] BOSTON 7 W0MP FEE                        #002H,61dc199c-8b18-443e-8618-35eb5a472712
+3001544463,,10/12/2017 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[319732] BOSTON 7 W0MP FEE #002H,61dc199c-8b18-443e-8618-35eb5a472712
+3001544463,,1/26/2018 12:00:00 AM,,"[14744] MEWBOURNE OIL CO                             ",Active,,[319732] BOSTON 7 W0MP FEE                        #002H,61dc199c-8b18-443e-8618-35eb5a472712
+3002544103,,10/10/2017 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #601Y,7d00533e-552d-40c8-a21a-51eebb70de4f
+3002544103,,10/10/2017 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ","New, Not Drilled",,[313190] RUBY 2 STATE COM                         #601Y,7d00533e-552d-40c8-a21a-51eebb70de4f
+3002544103,,1/16/2018 12:00:00 AM,,"[7377] EOG RESOURCES INC                            ",Active,,[313190] RUBY 2 STATE COM                         #601Y,7d00533e-552d-40c8-a21a-51eebb70de4f
+3002544103,,1/16/2018 12:00:00 AM,,"[7377] EOG RESOURCES, INC.                          ",Active,,[313190] RUBY 2 STATE COM                         #601Y,7d00533e-552d-40c8-a21a-51eebb70de4f
+3002544123,,10/18/2017 12:00:00 AM,,"[256512] CML EXPLORATION, LLC                         ","New, Not Drilled",,[317377] RAIDER 9 STATE                           #003,4cdaedc4-9844-448b-991a-76da7e1d0293
+3002544123,,10/18/2017 12:00:00 AM,,"[256512] CML EXPLORATION, LLC                         ","New, Not Drilled",,[317377] RAIDER 9 STATE                           #003,4cdaedc4-9844-448b-991a-76da7e1d0293
+3002544123,,10/18/2017 12:00:00 AM,,"[256512] CML EXPLORATION, LLC                         ",Active,,[317377] RAIDER 9 STATE #003,4cdaedc4-9844-448b-991a-76da7e1d0293
+3002544123,,1/18/2018 12:00:00 AM,,"[256512] CML EXPLORATION, LLC                         ",Active,,[317377] RAIDER 9 STATE                           #003,4cdaedc4-9844-448b-991a-76da7e1d0293
+3001544499,,11/1/2017 12:00:00 AM,,"[13837] MACK ENERGY CORP                             ","New, Not Drilled",,[319788] RUDOLPH FEDERAL                          #002,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,11/1/2017 12:00:00 AM,,"[13837] MACK ENERGY CORP                             ","New, Not Drilled",,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,12/13/2017 12:00:00 AM,,"[13837] MACK ENERGY CORP                             ","New, Not Drilled",,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,11/1/2017 12:00:00 AM,,"[13837] MACK ENERGY CORPORTATION                     ","New, Not Drilled",,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,1/12/2018 12:00:00 AM,,"[13837] MACK ENERGY CORP                             ",Active,,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,1/12/2018 12:00:00 AM,,"[13837] MACK ENERGY CORPORTATION                     ",Active,,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+3001544499,,12/13/2017 12:00:00 AM,,"[13837] MACK ENERGY CORPORTATION                     ","New, Not Drilled",,[319788] RUDOLPH FEDERAL                          #002H,a920e9a2-d3c5-4c39-951e-525c743d0528
+17113225110000,,10/24/2017 12:00:00 AM,0011,"DUNN EXPLORATION COMPANY, LLC",PERMITTED,10/16/2017 12:00:00 AM,MONTAGNE ETAL,53cc3209-b120-47ff-bc24-ecda794808ec
+17113225110000,,10/16/2017 12:00:00 AM,0011,"DUNN EXPLORATION COMPANY, LLC",PERMITTED,10/16/2017 12:00:00 AM,MARTHA VICE,53cc3209-b120-47ff-bc24-ecda794808ec
+17113225110000,,1/2/2018 12:00:00 AM,0011,"DUNN EXPLORATION COMPANY, LLC",ACTIVE - PRODUCING,1/2/2018 12:00:00 AM,ADLES MAILHES ETAL,53cc3209-b120-47ff-bc24-ecda794808ec
+17113225110000,,11/8/2017 12:00:00 AM,0011,"DUNN EXPLORATION COMPANY, LLC",SHUT-IN DRY HOLE -FUTURE UTILITY,11/8/2017 12:00:00 AM,ADLES MAILHES ETAL,53cc3209-b120-47ff-bc24-ecda794808ec
+3002543909,,7/28/2017 12:00:00 AM,,"[785] AMTEX ENERGY INC                             ","New, Not Drilled",,[40156] MERCHANT STATE UNIT                      #503H,f47b585e-534f-46fa-b44e-3dc26ef41de2
+3002543909,,9/21/2017 12:00:00 AM,,"[372417] ADVANCE ENERGY PARTNERS HAT MESA, LLC        ","New, Not Drilled",,[319603] MERCHANT STATE UNIT                      #503H,f47b585e-534f-46fa-b44e-3dc26ef41de2
+3002543909,,9/21/2017 12:00:00 AM,,"[372417] ADVANCE ENERGY PARTNERS HAT MESA, LLC        ",New,,[319603] MERCHANT STATE UNIT #503H,f47b585e-534f-46fa-b44e-3dc26ef41de2
+3002543909,,7/28/2017 12:00:00 AM,,"[785] AMTEX ENERGY INC                             ",New,,[40156] MERCHANT STATE UNIT #503H,f47b585e-534f-46fa-b44e-3dc26ef41de2
