@@ -1,0 +1,318 @@
+---
+title: "HW3"
+author: "Claudius Taylor, Junpu Zhao, Thomas Wilson"
+date: "November 03, 2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+```{r message=FALSE}
+library(tidyverse)
+library(data.table) #fread
+library(MuMIn) #AICc
+library(MASS) #stepAIC
+library(broom) #glance
+library(car) #vif
+```
+
+# 1.
+Consider the situation in which the following regression model has been fit to a set of data
+
+$Y = b_0 + b_1 x_1 + b_2 x_2 + b_3 x_3 + e$
+
+Suppose that the hypothesis test based on Analysis of Variance leads to a strong rejection of the joint hypothesis that regression coefficients are all zero (p-value < 0.0001).  
+
+Furthermore, suppose that each individual t-test of the form H0:  bi = 0 fails to reject the null for each value of i, where i=1,…,3.
+
+Describe why this is likely to have occurred and what plots and which statistics you would look at to diagnose the problem. 
+
+
+
+$x_1$, $x_2$, and $x_3$ are correlated with each other. While there is at least one coefficient that is not zero, non of the three are significantly different from zero in the presence of each other. We can confirm this with a scatterplot matrix and correlation coefficients. 
+
+# 2.
+Data taken from Howell (2002). 
+“A number of years ago, the student association of a large university published an evaluation of several hundred courses taught during the preceding semester.  Students in each course had completed a questionnaire in which they rated a number of different aspects of the course on a 5-point scale (1 = very bad to 5 = excellent)”.
+
+Five variables obtained were:
+* overall – overall rating of the course.
+* teach – rating of teaching skills of the instructor.
+* exams – quality of tests and exams
+* knowledge – rating of the instructor’s knowledge of the material 
+* grade - student’s anticipated grade for the course (1=F to 5=A) 
+* enroll – enrollment for the course
+
+```{R}
+
+data2 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/howell.csv')
+
+data2 %>% head()
+```
+
+## a 
+Enter the variables teach, exams, knowledge, grade, and enroll into a multiple regression model predicting scores for overall. Display the regression output. 
+
+
+```{R}
+fit <- lm(data=data2, formula = overall~.)
+
+summary_of_fit <- summary(fit)
+summary_of_fit
+```
+
+## b
+Create a table of R^2 adjusted, AIC, AICC, and BIC for the best subset of each size.
+
+Identify the optimal model or models from the approach based on all possible subsets.
+
+
+```{R}
+Xs <- c('teach','exams','knowledge','grade','enroll')
+models <- c( interaction(Xs,            sep='+') %>% levels() %>% paste("overall ~",.)
+            ,interaction(Xs,Xs,         sep='+') %>% levels() %>% paste("overall ~",.)
+            ,interaction(Xs,Xs,Xs,      sep='+') %>% levels() %>% paste("overall ~",.)
+            ,interaction(Xs,Xs,Xs,Xs,   sep='+') %>% levels() %>% paste("overall ~",.)
+            ,interaction(Xs,Xs,Xs,Xs,Xs,sep='+') %>% levels() %>% paste("overall ~",.)   
+           )
+```
+
+
+```{R}
+AICc_from_AIC <- function(AIC,fit) {    
+    n <- length(fit$residuals)  
+    k <- length(fit$coefficients) - 1    
+    correction <- (2*k^2 + 2*k) / (n - k - 1)
+    return ( AIC + correction )
+}
+
+result <- data_frame()
+for (form in models) {
+    #print(form)
+    fit <- lm(data=data2, formula = as.formula(form))        
+    glance_of_fit <- glance(fit) %>%
+                     mutate( model=form
+                            ,k = length(fit$coefficients) - 1   
+                            ,AICc = AICc_from_AIC(AIC,fit)) %>% 
+                     dplyr::select(c( 'model' 
+                                     ,'k'
+                                     ,'adj.r.squared'
+                                     ,'AIC'
+                                     ,'AICc'
+                                     ,'BIC')
+                                  )
+    result <- rbind(result,glance_of_fit)
+}
+```
+
+
+```{R}
+result %>% group_by(k) %>% summarise( max(adj.r.squared)
+                                     ,min(AIC)
+                                     ,min(AICc)
+                                     ,min(BIC)
+                                    )
+```
+
+
+```{R}
+result[which.max(result$adj.r.squared),]
+result[which.min(result$AIC),]
+result[which.min(result$AICc),]
+result[which.min(result$BIC),]
+```
+
+## c
+Use the Forward method to determine the regression equation when starting with the same predictor variables listed in a. Please describe the steps R went through in generating its regression equation.
+
+At each stage of the process list the variable that was entered or removed from the equation and the R Square for the regression equation up to that point.
+
+Report the final version of the regression equation.
+
+
+```{R}
+minimal.model <- lm(overall ~ 1, data = data2)
+forward.step.model <- stepAIC( minimal.model
+                      ,direction = "forward"
+                      ,scope = list(upper = ~ teach+exams+knowledge+grade+enroll
+                                   ,lower = ~ 1)
+                      ,trace = TRUE)
+summary(forward.step.model )
+```
+
+Forward selection process:
+1. starting with the null model.
+2. fit a separate model adding each potential new feature.
+3. select the model which minimizes AIC.
+4. repeat 2-3 until AIC cannot be lowered.
+
+## d
+Repeat Part c, except use the Backward method (i.e., describe each step R went through).
+
+Is the solution different from the one you got using the Forward method? 
+
+
+```{R}
+maximal.model <- lm(overall ~ ., data = data2)
+backward.step.model <- stepAIC( maximal.model
+                              ,direction = "backward"
+                              ,scope = list(upper = ~ teach+exams+knowledge+grade+enroll
+                                            ,lower = ~ 1)
+                              ,trace = TRUE)
+summary(backward.step.model )
+```
+
+Backward selection process:
+1. starting with the full model.
+2. fit a separate model removing each potential feature.
+3. select the model which minimizes AIC.
+4. repeat 2-3 until AIC cannot be lowered.
+
+In this case, forward and backward selection agree on the best model as overal ~ teach+grade
+
+## e
+Decide on the model you would recommend.
+
+At this point, describe and examine the assumptions of multiple linear regression.
+
+If any assumptions are violated -- discuss what steps would/should be performed.
+
+overall ~ teach + grade
+is best model because it maximizes R^2 while minimzing AIC, AICc, and BIC.
+
+
+```{R}
+fit <- lm(data=data2, formula = overall~teach + grade)
+summary_of_fit <- summary(fit)
+summary_of_fit
+```
+
+
+```{R}
+plot(fit$fitted.values,data2$overall)
+```
+
+
+```{R}
+plot(y=fit$residuals,x=fit$fitted.values)
+```
+
+
+```{R}
+studentized_residuals <- studres(fit)
+
+plot(y=studentized_residuals,x=fit$fitted.values)
+```
+
+
+```{R}
+qqnorm(studentized_residuals)
+qqline(studentized_residuals)
+```
+
+Visually, there is a linear relationship between the actual and predicted values.
+The residuals are normally distributed with a mean of 0 and a constant variance.
+
+We consider modeling Credit Card Balances.
+
+Data are available on Balances and the following potential predictor variables:
+1. Income
+2. Limit
+3. Rating
+4. Cards (Number of Credit Cards)
+5. Age (Years)
+6. Education (Years)
+7. Student (1=Student and 0=Non-student)
+
+Use R to do the following tasks.
+
+Copy the data in excel and run the following syntax
+my_data <- read.table(file = "clipboard", sep = "\t", header=TRUE)
+
+Paste the numerical output and plots into a Word document.
+
+
+```{R}
+data3 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/CreditCardsTraining.csv')
+```
+
+## a
+Fit a model to predict Income from Limit, Rating, Cards, Age, Education, and Student.  Please do not include any quadratic nor any interaction terms.  Ensure that you find the variance inflation factors (VIF).
+
+
+```{R}
+fit <- lm(formula = Income ~ Limit+Rating+Cards+Age+Education+Student,data = data3)
+
+```
+
+
+```{R}
+vif(fit)
+```
+
+## b
+Plot the studentized residuals against the predicted values and each numerical predictor.
+
+
+```{R}
+studentized_residuals <- studres(fit)
+
+plot(y=studentized_residuals,x=fit$fitted.values)
+```
+
+
+```{R}
+par(mfrow=c(3,3))
+plot(y=studentized_residuals,data3$Limit)
+plot(y=studentized_residuals,data3$Rating)
+plot(y=studentized_residuals,data3$Cards)
+plot(y=studentized_residuals,data3$Age)
+plot(y=studentized_residuals,data3$Education)
+plot(y=studentized_residuals,data3$Student)
+```
+
+## c
+Plot the numerical predictors against each other and obtain the correlations amongst these predictors.
+
+On the basis of the output you produced in (a), (b), and (c) answer the following questions:
+
+
+```{R}
+pairs(data3[,c('Limit', 'Rating', 'Cards', 'Age', 'Education', 'Student')])
+```
+
+	
+## I
+Decide whether the assumption of constant error variance is a reasonable one for the fitted model.  Give reasons to support your answer.
+
+Based "megaphone" pattern in scatterplots of residual vs limit and residual vs rating, variance in the residual is increasing with both rating and limit.  
+
+## II
+Decide whether multicollinearity is an issue for the fitted model. Give a reason to support your answer.
+
+based on scatter plot of limit vs rating, there is a strong linear relationship between limit and rating.
+
+## III
+Interpret the estimated coefficients. Decide whether these coefficients are statistically significant. Give a reason to support your answer.
+
+
+```{R}
+summary(fit)
+```
+
+Based on the p-value of the F-statistic, under the null hypothesis that all coefficients are truely zero, we would expect and f-stat this extreme only 2.2e-14 % of the time. This is strong evidence that there is at lease one non-zero coefficient. Removing the lease significant factors reveals a significant coefficient between income and Rating.
+A unit change in rating is associated with an increase of 8.212 in Income.
+
+
+```{R}
+fit <- lm(formula = Income ~ Rating+Cards+Age,data = data3)
+```
+
+
+```{R}
+summary(fit)
+```
