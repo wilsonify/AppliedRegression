@@ -11,6 +11,7 @@ library(tidyverse)
 library(broom) #glance
 library(knitr) #kable
 library(MASS) #stepAIC
+library(data.table) #fread
 ```
 
 
@@ -134,6 +135,9 @@ If any assumptions are violated -- discuss what steps would/should be performed.
 
 ## Checking Assumptions
 ### Linear relationship
+
+There is an assumption that Y is related to each x by the simple linear regression. We can confirm this with scatterplots.
+ 
 ```{R}
 par(mfrow=c(2,2))
 plot(data1$X1,data1$Y)
@@ -145,7 +149,20 @@ Visually, there is a plausible linear relationship between Y and each X.
 
 ### Multivariate normality
 
+```{R}
+par(mfrow=c(2,2))
+qqnorm(data1$Y)
+qqline(data1$Y)
+qqnorm(data1$X1)
+qqline(data1$X1)
+qqnorm(data1$X2)
+qqline(data1$X2)
+qqnorm(data1$X3)
+qqline(data1$X3)
 
+```
+
+visually, each X and Y appeark to be normally distributed.
 
 ### No or little multicollinearity
 
@@ -154,17 +171,32 @@ pairs(data1[c('Y','X1','X2','X3')])
 cor(data1)
 ``` 
 
-### No auto-correlation
+X1 and X2 are highly correlated. 
+This violates the assumption of no multicollinearity.
+We should not consider models which include both X1 and X2.
+
 
 
 ### Homoscedasticity
 
+This assumption means that the variance is equal. Moreover, the residuals are  independent of each other, and are identically normally distributed with a mean of 0 and variance of $\sigma^2$. We can confirm this by inspecting the residuals.
 
+```{R}
+stu_res <- studres(backward.step.model)
+plot(backward.step.model$fitted.values,stu_res)
+qqnorm(stu_res)
+qqline(stu_res)
+```
 
+Visually, 2/5 data points are outliers with large residuals.
 
 # 6. (50 points) 
 
 Using the sheet/page “2010 to 2013 Wide Release Movies” from the CreditCard dataset of Lab/Homework #3. 
+
+```{R}
+data6 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/wide_release_moveies.csv')
+```
 
 Recommend a model to predict the y variable -- “Opening Weekend Gross” with the possible predictors (no interactions) -- Runtime, Production Budget, Critic Rating, Audience Rating, and/or Month of Release.  
 
