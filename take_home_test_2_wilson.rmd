@@ -195,7 +195,7 @@ Visually, 2/5 data points are outliers with large residuals.
 Using the sheet/page “2010 to 2013 Wide Release Movies” from the CreditCard dataset of Lab/Homework #3. 
 
 ```{R}
-data6 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/wide_release_moveies.csv')
+data6 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/wide_release_movies.csv')
 ```
 
 Recommend a model to predict the y variable -- “Opening Weekend Gross” with the possible predictors (no interactions) -- Runtime, Production Budget, Critic Rating, Audience Rating, and/or Month of Release.  
