@@ -1,0 +1,172 @@
+---
+title: "STAT 5310 Take-Home Test #2"
+author: "Tom Wilson"
+date: "November 7, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(broom) #glance
+library(knitr) #kable
+library(MASS) #stepAIC
+```
+
+
+# 1. (5 points) 
+
+Enter the variables X1, X2, and X3 into a multiple regression model predicting Y. Display the regression output. 
+
+```{R}
+data1 <- data.frame(Y  = c(5,6,8,9,11)
+                    ,X1 = c(1,200,-50,909,506)
+                    ,X2 = c(1004,806,1058,100,505)
+                    ,X3 = c(6,7.3,11,13,13.1)
+                    )
+```
+
+```{R}
+fit <- lm(formula = Y ~ X1+X2+X3,data = data1)
+summary(fit)
+```
+
+# 2. (15 points) 
+
+Create a table of R2adjusted, AIC, AICC, and BIC for the best subset of each size. Identify the optimal model or models from the approach based on all possible subsets.
+
+```{R}
+Xs <- c('X1','X2','X3')
+models <- interaction(Xs,Xs,Xs, sep='+') %>% levels() %>% paste("Y ~",.)
+
+AICc_from_AIC <- function(AIC,fit) {    
+    n <- length(fit$residuals)  
+    k <- length(fit$coefficients) - 1    
+    correction <- (2*k^2 + 2*k) / (n - k - 1)
+    return ( AIC + correction )
+    }
+    
+result <- data_frame()
+for (form in models) {
+    #print(form)
+    fit <- lm(data=data1, formula = as.formula(form))        
+    glance_of_fit <- glance(fit) %>%
+                     mutate( model=form
+                            ,k = length(fit$coefficients) - 1   
+                            ,AICc = AICc_from_AIC(AIC,fit)) %>% 
+                     dplyr::select(c( 'model' 
+                                     ,'k'
+                                     ,'adj.r.squared'
+                                     ,'AIC'
+                                     ,'AICc'
+                                     ,'BIC')
+                                  )
+    result <- rbind(result,glance_of_fit)
+}
+    
+```
+
+
+### best metrics for each size
+```{R}
+result %>% group_by(k) %>% summarise( max(adj.r.squared)
+                                     ,min(AIC)
+                                     ,min(AICc)
+                                     ,min(BIC)
+                                    ) %>% kable()
+
+```
+
+### best models for each metric
+```{R}
+rbind(result[which.max(result$adj.r.squared),]
+      ,result[which.min(result$AIC),]
+      ,result[which.min(result$AICc),]
+      ,result[which.min(result$BIC),]
+) %>% kable()
+```
+
+# 3. (10 points) 
+
+Use the Forward Elimination method to determine the regression equation when starting with the same predictor variables listed in 1. 
+
+```{R}
+minimal.model <- lm(Y ~ 1, data = data1)
+forward.step.model <- stepAIC( minimal.model
+                               ,direction = "forward"
+                               ,scope = list( upper = ~X1+X2+X3
+                                             ,lower = ~ 1)
+                               ,trace = TRUE)
+summary(forward.step.model )
+```
+
+# 4. (10 points) 
+
+Repeat Part 3, except use the Backward Elimination method.  
+Is the solution different from the one you got using the Forward method?
+
+```{R}
+maximal.model <- lm(Y  ~ X1+X2+X3, data = data1)
+backward.step.model <- stepAIC( maximal.model
+                                ,direction = "backward"
+                                ,scope = list(upper = ~X1+X2+X3
+                                              ,lower = ~ 1)
+                                ,trace = TRUE)
+summary(backward.step.model )
+```
+# 5. (10 points) 
+
+Are different models chosen?  
+If so, carefully explain why different models are chosen.
+
+Different models are found by forward and backward selection.
+
+Forward selection finds Y~X3 is the best k=1 model (minimizes AIC) subsequently, adding X2 or X1 does not decrease AIC.
+
+backward selection finds that removing Y3 from the full model, Y~X1+X2+X3 minimizes AIC and subsequently removing X1 or X2 does not improve AIC.
+
+
+Decide on which model you would recommend.  
+At this point, describe and examine the assumptions of multiple linear regression for your recommended model.  
+
+If any assumptions are violated -- discuss what steps would/should be performed.
+
+
+## Checking Assumptions
+### Linear relationship
+```{R}
+par(mfrow=c(2,2))
+plot(data1$X1,data1$Y)
+plot(data1$X2,data1$Y)
+plot(data1$X3,data1$Y)
+```
+
+Visually, there is a plausible linear relationship between Y and each X.
+
+### Multivariate normality
+
+
+
+### No or little multicollinearity
+
+```{R}
+pairs(data1[c('Y','X1','X2','X3')])
+cor(data1)
+``` 
+
+### No auto-correlation
+
+
+### Homoscedasticity
+
+
+
+
+# 6. (50 points) 
+
+Using the sheet/page “2010 to 2013 Wide Release Movies” from the CreditCard dataset of Lab/Homework #3. 
+
+Recommend a model to predict the y variable -- “Opening Weekend Gross” with the possible predictors (no interactions) -- Runtime, Production Budget, Critic Rating, Audience Rating, and/or Month of Release.  
+
+Explain how you determined your model and why you recommended it over other models.
+
