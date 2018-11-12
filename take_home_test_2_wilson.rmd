@@ -6,13 +6,23 @@ output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(broom) #glance
 library(knitr) #kable
 library(MASS) #stepAIC
 library(data.table) #fread
+library(car) #vif
+library(MVN)
 ```
+```{R}
+AICc_from_AIC <- function(AIC,fit) {    
+    n <- length(fit$residuals)  
+    k <- length(fit$coefficients) - 1    
+    correction <- (2*k^2 + 2*k) / (n - k - 1)
+    return ( AIC + correction )
+    }
+```    
 
 
 # 1. (5 points) 
@@ -20,7 +30,7 @@ library(data.table) #fread
 Enter the variables X1, X2, and X3 into a multiple regression model predicting Y. Display the regression output. 
 
 ```{R}
-data1 <- data.frame(Y  = c(5,6,8,9,11)
+data1 <- data.frame(  Y = c(5,6,8,9,11)
                     ,X1 = c(1,200,-50,909,506)
                     ,X2 = c(1004,806,1058,100,505)
                     ,X3 = c(6,7.3,11,13,13.1)
@@ -40,13 +50,6 @@ Create a table of R2adjusted, AIC, AICC, and BIC for the best subset of each siz
 Xs <- c('X1','X2','X3')
 models <- interaction(Xs,Xs,Xs, sep='+') %>% levels() %>% paste("Y ~",.)
 
-AICc_from_AIC <- function(AIC,fit) {    
-    n <- length(fit$residuals)  
-    k <- length(fit$coefficients) - 1    
-    correction <- (2*k^2 + 2*k) / (n - k - 1)
-    return ( AIC + correction )
-    }
-    
 result <- data_frame()
 for (form in models) {
     #print(form)
@@ -101,6 +104,8 @@ forward.step.model <- stepAIC( minimal.model
 summary(forward.step.model )
 ```
 
+Forward selection recommends Y~X3 as the model which minimizes AIC.
+
 # 4. (10 points) 
 
 Repeat Part 3, except use the Backward Elimination method.  
@@ -115,6 +120,11 @@ backward.step.model <- stepAIC( maximal.model
                                 ,trace = TRUE)
 summary(backward.step.model )
 ```
+
+Backward elimination recommends Y~X1+X2 as the model which minimizes AIC.
+
+
+
 # 5. (10 points) 
 
 Are different models chosen?  
@@ -124,7 +134,7 @@ Different models are found by forward and backward selection.
 
 Forward selection finds Y~X3 is the best k=1 model (minimizes AIC) subsequently, adding X2 or X1 does not decrease AIC.
 
-backward selection finds that removing Y3 from the full model, Y~X1+X2+X3 minimizes AIC and subsequently removing X1 or X2 does not improve AIC.
+backward selection finds that removing Y3 from the full model, Y~X1+X2+X3 minimizes AIC and subsequently removing X1 or X2 does not decrease AIC.
 
 
 Decide on which model you would recommend.  
@@ -151,20 +161,21 @@ Visually, there is a plausible linear relationship between Y and each X.
 
 ```{R}
 par(mfrow=c(2,2))
-qqnorm(data1$Y)
+qqnorm(data1$Y,main="QQplot of Y")
 qqline(data1$Y)
-qqnorm(data1$X1)
+qqnorm(data1$X1,main="QQplot of X1")
 qqline(data1$X1)
-qqnorm(data1$X2)
+qqnorm(data1$X2,main="QQplot of X2")
 qqline(data1$X2)
-qqnorm(data1$X3)
+qqnorm(data1$X3,main="QQplot of X3")
 qqline(data1$X3)
 
 ```
 
 visually, each X and Y appeark to be normally distributed.
 
-### No or little multicollinearity
+
+### little to no multicollinearity
 
 ```{R}
 pairs(data1[c('Y','X1','X2','X3')])
@@ -173,8 +184,7 @@ cor(data1)
 
 X1 and X2 are highly correlated. 
 This violates the assumption of no multicollinearity.
-We should not consider models which include both X1 and X2.
-
+If we consider models which include X1 or X2, we cannot infer information about one without considering the other.
 
 
 ### Homoscedasticity
@@ -182,23 +192,183 @@ We should not consider models which include both X1 and X2.
 This assumption means that the variance is equal. Moreover, the residuals are  independent of each other, and are identically normally distributed with a mean of 0 and variance of $\sigma^2$. We can confirm this by inspecting the residuals.
 
 ```{R}
-stu_res <- studres(backward.step.model)
-plot(backward.step.model$fitted.values,stu_res)
+stu_res <- studres(forward.step.model)
+plot(forward.step.model$fitted.values,stu_res)
 qqnorm(stu_res)
 qqline(stu_res)
 ```
 
-Visually, 2/5 data points are outliers with large residuals.
+Visually, 1/5 data points are outliers with large residuals.
+
+At this point, I would recommend the model 
+
+ $$ Y = \beta_0 + \beta_1 X3 + \epsilon $$
+
+
+
+It is the simplest model which satisfies most assumptions while showing adequate predictive performance.
+
+```{R}
+#vif(maximal.model)
+```
 
 # 6. (50 points) 
 
 Using the sheet/page “2010 to 2013 Wide Release Movies” from the CreditCard dataset of Lab/Homework #3. 
 
+### read in data and subset
 ```{R}
 data6 <- fread('https://raw.githubusercontent.com/wilsonify/AppliedRegression/master/data/wide_release_movies.csv')
+
+colnames(data6) <- colnames(data6) %>%
+                   tolower() %>% 
+                   str_replace_all(' ','_') %>% 
+                   str_replace_all('[()]','')
+
+subdata6 <- data6[,c('opening_weekend_gross','runtime','production_budget_in_millions','critic_rating','audience_rating','monthofrelease')] %>% drop_na()
 ```
 
 Recommend a model to predict the y variable -- “Opening Weekend Gross” with the possible predictors (no interactions) -- Runtime, Production Budget, Critic Rating, Audience Rating, and/or Month of Release.  
 
 Explain how you determined your model and why you recommended it over other models.
 
+```{R}
+pairs(subdata6)
+```
+
+based on the scatterplot matrix, there is not much lineararity between opening weekend gross and the specified predictors. Furthermore, each predictor has a different scale. it is advantageous to scale each feature so that our model does not overweight larger values.
+
+There is strong correlation between audience and critic ratings.
+
+### 
+```{R}
+hist(subdata6$opening_weekend_gross,main = 'Opening Weekend Gross')
+```
+
+based on the histogram, opening weekend gross is highly skewed. It may be beneficial to predict a transformation of the data instead of the raw values.
+
+```{R}
+hist(log10(subdata6$opening_weekend_gross),main = 'log10(Opening Weekend Gross)')
+```
+
+As shown, the distribution of the log tranformed data is much more normally distributed though still a bit skewed.
+
+```{R}
+subdata6 <- subdata6 %>% 
+            mutate(log_opening_weekend_gross = log10(opening_weekend_gross)) %>%
+            scale() %>%
+            as.data.frame()
+
+pairs(subdata6)
+```
+
+Since there are just a few predictors and no interactions considered, let's consider an exhaustive search of the model space similar to Question #2.
+
+```{R}
+Xs <- c('runtime','production_budget_in_millions','critic_rating','audience_rating','monthofrelease')
+models <- interaction(Xs,Xs,Xs,Xs,Xs, sep='+') %>% 
+           levels() %>% 
+           paste("opening_weekend_gross ~",.)
+
+result <- data_frame()
+for (form in models) {
+    #print(form)
+    fit <- lm(data=subdata6, formula = as.formula(form))        
+    glance_of_fit <- glance(fit) %>%
+                     mutate( model=form
+                            ,k = length(fit$coefficients) - 1   
+                            ,AICc = AICc_from_AIC(AIC,fit)) %>% 
+                     dplyr::select(c( 'model' 
+                                     ,'k'
+                                     ,'adj.r.squared'
+                                     ,'AIC'
+                                     ,'AICc'
+                                     ,'BIC')
+                                  )
+    result <- rbind(result,glance_of_fit)
+}
+
+#rbind( result[which.max(result$adj.r.squared),]
+#      ,result[which.min(result$AIC),]
+#      ,result[which.min(result$AICc),]
+#      ,result[which.min(result$BIC),]
+#) %>% kable()
+```
+
+From here, consider the model which minimizes both AIC and AICc, 
+
+$$ opening\ weekend\ gross = \beta_0 + \beta_1 production\ budget + \beta_2 audience\ rating + \epsilon $$
+
+```{R}
+fit6 <- lm(formula = opening_weekend_gross~
+                    production_budget_in_millions+
+                    audience_rating
+          ,data = subdata6)
+```
+
+```{R}
+par(mfrow=c(2,2))
+plot(fit6)
+```
+
+Based on analysis of the residual, this model has a several outliers, there is decreasing variance at large predicitons.
+
+One way to address this issue is to assign a weight based on an estimate of $\sigma$ 
+
+
+```{R}
+rfit6 <- lm(abs(studres(fit6)) ~ fit6$fitted.values)
+wfit6 <- lm(opening_weekend_gross ~
+             production_budget_in_millions+
+             audience_rating 
+           ,data = subdata6
+           , weights=(1/(rfit6$fitted.values^2))
+           )    
+```
+
+```{R}
+plot(abs(studres(fit6)) ~ fit6$fitted.values, main="estimate of sigma")
+abline(rfit6)
+```
+
+```{R}
+par(mfrow=c(2,2))
+plot(wfit6)
+```
+
+
+```{R}
+summary(wfit6)
+```
+
+Based on the residuals of the weighted fit, there are two large outliers the rest of the data has acceptable homoscedasticity.
+
+From the summary of the weighted model, we see that the coefficient of audience rating is not significantly different from zero. Let's consider a model with audience rating removed.
+
+```{R}
+fit6.1 <- lm(formula = opening_weekend_gross ~ production_budget_in_millions
+             ,data = subdata6)
+
+
+rfit6.1 <- lm(abs(studres(fit6.1)) ~ fit6.1$fitted.values)
+wfit6.1 <- lm(opening_weekend_gross ~
+             production_budget_in_millions+
+             audience_rating 
+           ,data = subdata6
+           , weights=(1/(rfit6.1$fitted.values^2))
+           )   
+
+```
+
+```{R}
+par(mfrow=c(2,2))
+plot(wfit6.1)
+```
+
+From this residual, the simpler model performs much worse when the predictions are large.
+
+In summary, I propose a weigted lease squares fit of the form
+
+$$ opening\ weekend\ gross = \beta_0 + \beta_1 production\ budget + \beta_2 audience\ rating + \epsilon $$
+
+Which minimizes information criteria based on a exhaustive search while maintaining predictive performance. 
