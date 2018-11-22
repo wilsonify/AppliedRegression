@@ -1,0 +1,689 @@
+WellId,API,FracStart,FracEnd,OperatorName,ServiceCompany,TVD,TotalBaseWaterVolume,TotalBaseNonWaterVolume,TotalFracMass,TotalBaseWaterVolumeMass,TotalProppantMass,FluidSystem,ProppantMaterial,CrosslinkFluid,SurfactantPresent,ScaleInhibitorPresent,ClayControlPresent,ClayControlAgent,AcidTreatmentPresent
+c8c5559e-db15-4fc8-b434-d0c58d7641c1,4237138882,5/17/2012 12:00:00 AM,5/17/2012 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,64988,,594192.7,541350.1,49910.11,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+7f25eadd-ca36-403e-8d8c-6cab7b40dba0,4237138862,4/19/2012 12:00:00 AM,4/19/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+5559ed1e-57e7-48a6-bcac-8311f1a4441b,4237137016,3/18/2016 8:38:00 AM,3/18/2016 1:27:00 PM,"Nemo Fund I, LLC",Ace Completions,,256286,3778,2206458,2134862,58020,Slickwater,Natural Sand,,True,False,False,,True
+54805f49-7d46-4f00-b325-98e04c4f3666,4237139038,5/23/2013 12:00:00 AM,5/23/2013 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,211134,0,1907409,1761913,141360,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+f623101e-60d1-4ec5-9e0f-74768c667d12,4237139206,9/30/2014 12:00:00 AM,10/6/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Blue Ribbon,,1.2112E+07,0,1.093096E+08,1.003512E+08,8730950,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+f3a1f616-16dd-4831-832a-3685b70dc193,4237138980,7/23/2013 5:48:00 AM,7/23/2013 6:57:00 PM,"ExL Petroleum, LP",ASK,,857284,56258,8157254,7141176,859244,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+4cd9d866-6157-4b3e-be15-b012a852a241,4237139227,2/3/2015 12:00:00 AM,2/5/2015 12:00:00 AM,Occidental Oil and Gas,Nabors Completion and Production Services,,1698606,0,1.584896E+07,1.414939E+07,0,Linear,Natural Sand,,True,False,True,Water,True
+017414d3-3ab4-43b6-beda-f166512cf4fe,4237138866,8/3/2012 12:00:00 AM,8/3/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl",True
+eecb80be-38f3-4390-9a88-365632f4306b,4237139002,3/11/2013 10:27:00 AM,3/15/2013 12:47:00 PM,COG Operating LLC,SNF,,3511685,-108229,3.318786E+07,2.925234E+07,3249626,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+5ee0dc7f-45da-40e5-b560-4d6ef2b15c3c,4237138830,2/8/2012 12:00:00 AM,2/9/2012 12:00:00 AM,"Brigham Resources Operating, LLC",FTSI,,908082,0,8485342,7564323,759048.2,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,True
+4242947b-f320-462c-a13c-89ba4c515715,4237133539,2/24/2015 12:00:00 AM,2/26/2015 12:00:00 AM,"Caird Operating, LLC","Chemplex, L.C.",,2892433,0,2.748353E+07,2.409397E+07,3356422,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline Chloride),False
+1d10eee4-63ef-4f7e-9c8b-2cbfabc890c0,4237138955,5/30/2013 9:57:00 AM,6/11/2013 10:25:00 PM,Apache Corporation,"Chemplex, L.C.",,1154874,64974,1.066352E+07,9620100,734275,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+b71df8a0-79d5-4686-bc54-f90338fcfff7,4237139235,4/26/2015 12:00:00 AM,4/28/2015 12:00:00 AM,Occidental Oil and Gas,Blue Ribbon Technology,,1739682,0,8167908,5831531,2026200,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+28270559-81db-4cc3-8654-9f7c2343d9b5,4237138967,7/9/2013 10:08:00 AM,7/10/2013 3:27:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,1282550,101644,1.237073E+07,1.068364E+07,1298295,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+75abd506-ebbb-4763-8785-71116dc7f75a,4237139348,10/18/2015 12:00:00 AM,10/18/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Producers Service Corp,,269892,0,2425840,2235425,177000,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium Chloride,True
+3015332a-762a-4fde-bdce-3588712d531a,4237139366,1/27/2016 12:00:00 AM,2/8/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,3.417574E+07,0,3.074374E+08,2.850248E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+898ac4b2-d50f-46fd-9d73-c73a6384b83b,4237139359,12/1/2015 12:00:00 AM,12/18/2015 12:00:00 AM,"Samson Exploration, LLC",Archer,,3.651463E+07,0,3.265884E+08,3.047146E+08,2.181731E+07,Crosslink,Natural Sand,,True,False,False,,True
+17e6bb97-ec0a-4f8e-88d2-e727dbaeada8,4237139211,12/1/2014 12:00:00 AM,12/1/2014 12:00:00 AM,Henry Resources LLC,Catalyst,,59976,0,587047.1,500499.7,73200,Crosslink,Natural Sand,,True,False,False,,True
+eb7940b5-1532-4cf0-947a-57bc76491db6,4237138999,5/2/2014 12:00:00 AM,8/12/2014 12:00:00 AM,"Marshall & Winston, Inc.",Economy Polymers,,1633968,0,1.483665E+07,1.363546E+07,909579,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+d1385976-3d8e-42e8-94c9-73435c92faa1,4237138891,8/17/2012 12:00:00 AM,8/17/2012 12:00:00 AM,Forest Oil Corporation,FTSI,,,,,,0,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+3e4dff28-74e5-4b0d-9021-958ff0e4f656,4237139294,1/28/2015 12:00:00 AM,2/6/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Chemplex,,1.441528E+07,0,1.296287E+08,1.200793E+08,8492715,Crosslink,Natural Sand,Borate Based,True,False,True,No hazardous ingredients per MSDS,True
+598b6eba-30f2-4967-990c-509675ac1ef6,4237138924,5/20/2012 12:00:00 AM,5/20/2012 12:00:00 AM,"Dominion Natural Resources, LLC","Chemplex ",,17052,0,164371.8,143201.5,20000,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+e375546e-b932-4250-a135-fe96e754c85d,4237138969,3/11/2013 5:00:00 AM,3/12/2013 1:18:00 AM,Whiting Petroleum,Chemplex,,793674,0,7845313,6619241,1021636,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+bdb14631-9cde-4606-b2e3-0c2766679141,4237138880,5/18/2012 12:00:00 AM,5/18/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,35028,0,336476.2,292308.7,40000,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+b88b009f-1fe2-4be1-89c3-00672eb520ca,4237110863,4/14/2015 12:00:00 AM,4/17/2015 12:00:00 AM,"Caird Operating, LLC","Chemplex, L.C.",,3486906,0,3.356511E+07,2.904593E+07,4004740,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+17ce9c1c-1ed5-44af-8249-488ba9d3e196,4237139128,4/2/2014 7:22:00 AM,4/4/2014 6:07:00 PM,"Burnett Oil Co., Inc.","Chemplex, L.C.",,3731815,65489,3.23176E+07,3.108602E+07,1041980,Slickwater,Natural Sand,,True,False,False,,True
+a85aa1e6-6cf9-4b75-8194-6c6065eff052,4237139162,6/25/2014 12:00:00 AM,6/26/2014 12:00:00 AM,Three Rivers Operating Co II LLC,ASK,,1366999,73601,1.279342E+07,1.13871E+07,1225078,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+1e96283e-053a-4be1-ae04-58e809084d94,4237139280,2/5/2015 12:00:00 AM,2/14/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Precision,,1.573219E+07,0,1.417489E+08,1.312851E+08,1.015036E+07,Slickwater,Natural Sand,,True,False,True,Potassium Chloride Salt,False
+396a68c3-deb9-479b-aed3-fb67f4de8c87,4237139213,10/20/2014 12:00:00 AM,10/31/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Blue Ribbon,,2.508658E+07,0,2.224393E+08,2.081997E+08,1.374159E+07,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+327ae9a4-0068-49d7-b504-eb77e882734f,4237139214,9/2/2014 12:00:00 AM,9/2/2014 12:00:00 AM,PPC Operating Company LLC,"Chemplex ",,18425,0,182253.9,153756.6,26200,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+082de1c2-8e2a-4952-8c85-570760011dc5,4237139397,,,,,,,,,,,,,,False,False,False,,False
+eadd7a60-7a43-4ef5-9cd5-52839c7a7aa1,4237139345,1/10/2016 12:00:00 AM,1/22/2016 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,2.519605E+07,0,2.283826E+08,2.101E+08,1.766418E+07,Linear,Natural Sand,,True,False,True,No hazardous ingredients,True
+a258a21a-8655-4ec6-adad-ee9e7506f543,4237139143,3/25/2014 1:03:00 PM,3/30/2014 4:38:00 PM,COG Operating LLC,"Chemplex, L.C.",,7480953,410973,6.937873E+07,6.231634E+07,5690782,Linear,Natural Sand,,True,False,True,Non-hazardous salts(Choline Chloride),True
+e5667d11-732c-4577-aabb-0da0b576a351,4237139029,9/26/2013 12:00:00 AM,9/26/2013 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,87360,,781758.4,727708.8,49910.11,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+178aea95-aefd-41db-95e1-a068ccfe9556,4237139240,9/21/2015 12:00:00 AM,10/27/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,1.458548E+07,0,6.469475E+07,5.972E+07,4767010,Linear,Natural Sand,,True,False,True,No hazardous ingredients,True
+d079954f-f39c-4040-a07b-d0df5f96b8c7,4237139375,3/30/2016 12:00:00 AM,4/16/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.831202E+07,0,2.622262E+08,0,0,Slickwater,Natural Sand,,True,False,False,,False
+19ddfe85-32fe-48ee-be01-870517f5c6a0,4237138970,7/11/2013 12:00:00 AM,7/11/2013 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,64988,,594192.7,541350.1,59990.21,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,7/21/2014 12:00:00 AM,7/22/2014 12:00:00 AM,Three Rivers Operating Co II LLC,"Chemplex,L.C.",,1540322,83272,1.446558E+07,1.283088E+07,1450000,Slickwater,Natural Sand,,True,False,True,Sodium Chloride,True
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,11/23/2014 12:00:00 AM,11/24/2014 12:00:00 AM,Three Rivers Operating Co II LLC,ASK,,1804010,97078,1.69421E+07,1.50274E+07,1700710,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+1e699a4e-28f7-4cba-987e-b64cd3298695,4237139444,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+b25b1672-1b27-4e5d-b02c-04563fb2a263,4237138947,12/9/2012 12:00:00 AM,12/9/2012 12:00:00 AM,Whiting Petroleum,"Chemplex, L.C.",,4321778,,4.048281E+07,3.600041E+07,3464665,Crosslink,Natural Sand,,True,False,False,,True
+242d7aa1-c9dc-4837-b670-7e329e22d754,4237138927,5/21/2012 12:00:00 AM,5/21/2012 12:00:00 AM,"Dominion Natural Resources, LLC","Chemplex ",,16842,0,162639.2,141449,20000,Crosslink,Natural Sand,Borate Based,True,False,True,"Sodium Chloride ",True
+6795ce81-105b-4e82-aebd-f72c0f620e5e,4237138887,10/1/2012 12:00:00 AM,10/1/2012 12:00:00 AM,Keystone Petroleum NM LLC,"Chemplex, L.C.",,1131606,,9923503,9426278,410513.2,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+311abdcf-b135-42e9-a794-02107ae53b29,4237138958,11/29/2012 12:00:00 AM,11/29/2012 12:00:00 AM,"ExL Petroleum, LP","Chemplex, L.C.",,3884666,,3.615715E+07,3.235927E+07,3126061,Crosslink,Natural Sand,,True,False,False,,True
+c7cbc066-d34f-4aec-8db6-d6aba962be94,4237139152,3/11/2014 12:00:00 AM,3/19/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Schlumberger,,6062531,0,,5.050088E+07,0,Crosslink,Natural Sand,Borate Based,True,False,True,Cholinium chloride,True
+8a41f19a-0665-4db8-9cdd-84a768a0df37,4237139249,11/10/2014 12:00:00 AM,11/10/2014 12:00:00 AM,PPC Operating Company LLC,"Chemplex ",,19421,0,197241.5,162068.3,33000,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+c4987317-19eb-4f36-9159-50fb3b4fbfac,4237139135,6/25/2014 12:00:00 AM,6/26/2014 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,841554,0,7926103,7022768,479220,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+c2867272-0403-41a9-9c07-ab9f9eedda85,4237138857,2/28/2014 12:00:00 AM,2/28/2014 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,35028,,343884.8,291783.3,39928.09,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+264008fb-f325-493c-a624-7b1039c29801,4237139223,9/15/2014 12:00:00 AM,9/16/2014 12:00:00 AM,Three Rivers Operating Co II LLC,CESI,,321286,90314,4436440,2676312,1572100,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+0ceda0dd-5c9e-4b17-9e3d-14a6b8d3a394,4237139292,6/3/2015 12:00:00 AM,6/10/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Trican,,1.496728E+07,45574,1.340935E+08,1.246774E+08,8544490,Linear,Natural Sand,,True,False,True,Sodium Chloride,True
+bd1453a8-99d0-4537-bdaf-c2d2c3ecf133,4237139384,5/6/2016 5:00:00 AM,5/31/2016 5:00:00 AM,"Brigham Resources Operating, LLC",Schlumberger,,3.542982E+07,0,3.040245E+08,2.951304E+08,141.8278,Crosslink,Natural Sand,,True,False,True,,True
+6bfdd984-aaca-4506-a858-670889b2aa03,4237139035,6/19/2013 9:00:00 AM,6/19/2013 9:40:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,13791,1791,146451.7,114879,25883.61,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+b54be442-d085-4623-ba1f-1a888e767354,4237139269,2/22/2015 12:00:00 AM,3/4/2015 12:00:00 AM,Apache Corporation,Independence Oilfield Chemicals,,9186072,0,8.711586E+07,7.665777E+07,1.0352E+07,Slickwater,Natural Sand,,True,False,False,,True
+fb958191-4082-464c-9a76-917c9e79417c,4237138948,7/26/2013 10:39:00 AM,8/9/2013 3:24:00 PM,COG Operating LLC,"Chemplex, L.C.",,513781,39023,4992693,4279796,611241,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+0b71ce09-703f-446b-8787-84e7c91f20ce,4237138892,11/1/2012 12:00:00 AM,11/1/2012 12:00:00 AM,Whiting Petroleum,Chemplex,,793128,,7694785,6606756,511460.8,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+5d7f904d-eb34-4789-8d7d-4667c743acd4,4237139361,12/31/2015 12:00:00 AM,1/7/2016 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,1.458551E+07,0,1.308335E+08,1.216E+08,8903670,Linear,Natural Sand,,True,False,True,No hazardous ingredients,True
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,12/22/2014 12:00:00 AM,12/23/2014 12:00:00 AM,Three Rivers Operating Co II LLC,CESI,,1600701,84339,1.501543E+07,1.333384E+07,1501354,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+017414d3-3ab4-43b6-beda-f166512cf4fe,4237138866,7/27/2012 12:00:00 AM,7/27/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+a3a6dfc7-5c66-4145-b9d6-73a96fb23d1a,4237139091,1/27/2014 12:00:00 AM,1/29/2014 12:00:00 AM,Apache Corporation,Reef,,450450,0,3833842,3461890,300120,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+78e00d08-7b0b-437a-9cc8-25981d6ab290,4237139306,6/24/2015 12:00:00 AM,6/25/2015 12:00:00 AM,Occidental Oil and Gas,Schlumberger,,1517219,0,,1.263843E+07,0,Slickwater,Natural Sand,,True,False,True,Water (Including Mix Water Supplied by Client)*,True
+3eafda1c-93c6-4ac3-bf82-912f96ca5600,4237139134,10/22/2014 5:12:00 PM,10/24/2014 6:50:00 PM,XTO Energy/ExxonMobil,TES,,1829840,0,1.744662E+07,1.524257E+07,1946060,Crosslink,Natural Sand,Borate Based,True,False,True,Tetramethylammonium Chloride,True
+3d087b9c-df52-4b38-9881-40f3e2ba569f,4237139360,1/12/2016 12:00:00 AM,1/24/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,1E+07,0,1.025708E+08,8.339972E+07,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,False
+17e6bb97-ec0a-4f8e-88d2-e727dbaeada8,4237139211,4/24/2015 12:00:00 AM,4/24/2015 12:00:00 AM,Henry Resources LLC,Economy Polymers,,91392,0,933642.1,762666.3,154300,Crosslink,Natural Sand,,True,False,True,Methanol,True
+42ce08a1-f9db-4976-8dbc-6067df852603,4237139251,10/20/2014 12:40:00 PM,10/20/2014 6:38:00 PM,J CLEO THOMPSON,"Chemplex, L.C.",,376737,34065,3781388,3138219,557011.2,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline Chloride),True
+b62f52a1-81f4-4cfd-a3a1-47054acb2771,4237138861,4/13/2012 12:00:00 AM,4/13/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+54a7511e-032f-4616-9786-93d4c6037036,4237139342,10/2/2015 10:39:00 AM,10/2/2015 11:15:00 AM,Stanolind Operating LLC,"Chemplex, L.C.",,31103,3253,310451.9,259088,36542,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline Chloride),True
+976e221c-3bc4-4637-b314-56f3c28eae30,4237138943,9/14/2012 12:00:00 AM,9/14/2012 12:00:00 AM,XTO Energy/ExxonMobil,Compass,,,,,,0,Crosslink,Natural Sand,,True,False,True,,True
+063128ba-1385-4a01-be4d-8efdaf54fe3c,4237139210,11/11/2014 6:00:00 PM,11/12/2014 6:49:00 PM,Henry Resources LLC,0,,678494,0,6402864,5662033,620130,Crosslink,Natural Sand,Borate Based,True,False,True,Various chlorides,True
+0e4fb660-a34b-476f-8178-459392f9f021,4237139266,5/12/2015 12:00:00 AM,5/22/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Trican,,1.954222E+07,58824,1.673721E+08,1.627867E+08,3421261,Linear,Natural Sand,,True,False,True,Sodium Chloride,True
+c0fcb921-7f71-412b-ba0e-0a4259f81d2d,4237138962,6/21/2013 9:20:00 AM,6/21/2013 10:48:00 AM,COG Operating LLC,"Chemplex, L.C.",,136359,10683,1320729,1135871,150269,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+13220e12-ced9-4ea5-9562-e36757a61e59,4237102150,8/3/2012 12:00:00 AM,8/3/2012 12:00:00 AM,Quicksilver Resources Inc.,Economy,,,,,,0,Crosslink,Natural Sand,Borate Based,True,False,True,Proprietary,True
+984ebd84-2761-43ea-916a-fdb99034051c,4237138835,12/21/2012 12:00:00 AM,12/21/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,1974000,,1.806743E+07,1.644342E+07,1303587,Crosslink,Natural Sand,,True,False,True,,True
+c2867272-0403-41a9-9c07-ab9f9eedda85,4237138857,4/19/2012 12:00:00 AM,4/19/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,16800,0,143134.6,140196,1500,Linear,Natural Sand,,True,False,True,Choline Chloride,False
+0e1378d4-80ef-4eae-8c59-ababbb66a70a,4237139093,10/15/2013 6:27:00 AM,10/19/2013 6:37:00 PM,"ExL Petroleum, LP",ASK,,5551228,296180,5.173709E+07,4.624173E+07,4573055,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+0adbb8d9-d4ab-42cb-8c67-df67a1f78f6e,4237139357,11/16/2015 12:00:00 AM,11/23/2015 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,6715674,0,6.39536E+07,5.60423E+07,7300691,Crosslink,Natural Sand,,True,False,False,,True
+191448ab-4c5f-4eda-a785-e3c07af7c98f,4237139328,6/8/2015 12:00:00 AM,6/8/2015 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,84924,0,768333.1,707416.9,55380.6,Slickwater,Natural Sand,,True,False,True,No hazardous ingredients per MSDS,False
+6f2281d8-9431-45e1-aea8-b51f97c320d5,4237138950,9/17/2012 10:26:00 AM,9/17/2012 11:02:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,5098,1832,74340.29,42466.34,25946.06,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+2e90f9b9-1e8a-4608-b70b-c1828c8686e0,4237139276,3/2/2015 3:15:00 PM,3/9/2015 8:00:00 PM,Quicksilver Resources Inc.,C and J Energy Services,,4470541,0,4.338536E+07,3.730666E+07,5742683,Slickwater,Natural Sand,,True,False,True,Choline Chloride Aqueous Solution,True
+3d1dc164-73a3-4481-be51-2af0307c6e54,4237136309,8/16/2013 7:49:00 PM,8/16/2013 8:46:00 PM,Kinder Morgan,ASK,,63583,5003,630764.1,529646.4,94887.13,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),False
+11a889ef-fd3b-4c1a-b280-0f6159e983ed,4237139346,2/6/2016 6:00:00 AM,2/7/2016 6:00:00 AM,COG Operating LLC,Halliburton,,5495921,0,5.190697E+07,4.578087E+07,0,Slickwater,Natural Sand,,True,False,True,NA,True
+d362b169-efd8-4fb0-89e0-52ac01057cdf,4237138817,2/13/2012 5:25:00 PM,2/13/2012 6:15:00 PM,Griffin Petroleum Company,"Chemplex, L.C.",,16436,1834,169150.3,136911.9,26367.99,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,5/2/2014 12:00:00 AM,5/5/2014 12:00:00 AM,"Forge Energy, LLC",Halliburton,,764615,,7150027,6369222,734716,Crosslink,Natural Sand,Borate Based,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",False
+6934955c-6532-4e7b-9e4d-8ad18517080f,4237139052,7/9/2013 10:45:00 AM,7/10/2013 3:30:00 PM,XTO Energy/ExxonMobil,ASK,,549795,44085,5337435,4579793,609375,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+361a1f39-223a-4257-b801-24254f6ffa82,4237138942,7/10/2013 12:00:00 AM,7/10/2013 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,87360,,781775.6,727708.8,49910.11,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,4/18/2014 7:40:00 AM,4/18/2014 11:28:00 PM,Three Rivers Operating Co II LLC,ASK,,1460474,88150,1.388234E+07,1.216575E+07,1520640,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+21cb9289-ffb5-4230-95e4-a8f856abb400,4237133191,11/3/2014 12:00:00 AM,11/10/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Blue Ribbon,,1.059219E+07,0,9.434473E+07,8.79733E+07,6161160,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+017414d3-3ab4-43b6-beda-f166512cf4fe,4237138866,3/6/2012 12:00:00 AM,3/6/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,True,,False
+17e6748b-3736-4fca-a56b-697b526e6ef8,4237139336,8/23/2015 12:00:00 AM,9/1/2015 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,1.55128E+07,0,1.305754E+08,1.293764E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+4cbf3949-a763-4cf9-bac4-238e3128b042,4237139037,8/26/2013 6:00:00 AM,8/27/2013 3:17:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,1358971,99143,1.300541E+07,1.132023E+07,1331634,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+3d1dc164-73a3-4481-be51-2af0307c6e54,4237136309,2/4/2013 12:00:00 AM,2/4/2013 12:00:00 AM,Kinder Morgan,Halliburton,,19253,,,160377.5,0,Linear,Natural Sand,,True,False,True,Sodium chloride,True
+e046d1a6-b386-45a9-b42c-10735e4a87c3,4237139277,12/29/2014 12:00:00 AM,12/29/2014 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,90000,0,813888,751050,60000,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+72d868a8-f669-4969-a6b8-20c020e5ad3d,4237139255,11/10/2014 9:25:00 AM,11/10/2014 7:27:00 PM,J CLEO THOMPSON,"Chemplex, L.C.",,387335,35563,3883851,3226501,559484.2,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+bd0352bd-6634-4628-a4eb-8fa9fdf65561,4237139026,6/27/2013 12:00:00 AM,6/27/2013 12:00:00 AM,"Telesis Operating Co., Inc.","Chemplex ",,48720,0,493559.9,406568.4,83000,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+14e282bc-4243-4f79-a86b-96d6fe58681c,4237139082,2/27/2014 12:00:00 AM,3/1/2014 12:00:00 AM,"Forge Energy, LLC",Halliburton,,1591933,17000,41923,0,0,Linear,Natural Sand,,True,False,True,"Polyspichlorohydrin, trimethyl amine quarternized",False
+77abe0cd-e67a-4a56-9e01-f2dc53c3ba8d,4237139025,1/29/2014 12:00:00 AM,1/29/2014 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,64512,0,591039.1,538352.6,50000,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+c293a0c7-623f-44d9-8a58-3fd68b8e8d80,4237138865,4/13/2012 12:00:00 AM,4/13/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+d8f1f6d1-604f-4c6b-b5b5-7ca08d91e5bb,4237139310,9/4/2015 12:00:00 AM,9/13/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Archer,,1.722399E+07,0,1.56496E+08,1.437342E+08,1.220485E+07,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+a70db9ae-57b5-441b-9d13-782d6c7215bc,4237139110,2/6/2014 12:44:00 PM,2/6/2014 2:08:00 PM,Thorp Petroleum Corporation,SNF,,101421,3075,914241.8,844836.9,63100,Slickwater,Natural Sand,,True,False,False,,False
+b8708054-725a-41e2-b79c-a40f3d55bb30,4237139031,7/29/2013 6:50:00 AM,7/30/2013 6:03:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,1086165,88953,1.051373E+07,9047754,1120754,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+4e801337-8eb7-44b0-a3f1-5b136e7fe707,4237138960,7/20/2013 12:00:00 AM,7/20/2013 12:00:00 AM,"L.E. Jones Operating, Inc.",Rock Water Energy Solutions,,2653371,0,2.354072E+07,2.214238E+07,1098247,Slickwater,Natural Sand,,True,False,False,,True
+6934955c-6532-4e7b-9e4d-8ad18517080f,4237139052,11/7/2013 11:15:00 AM,11/7/2013 12:45:00 PM,XTO Energy/ExxonMobil,ASK,,160592,15556,1627095,1337731,254944.3,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+ed6c91ab-d74e-459c-8fc0-20f94c94daca,4237139256,11/23/2014 6:19:00 PM,11/24/2014 2:17:00 AM,J CLEO THOMPSON,"Chemplex, L.C.",,375853,34109,3774216,3130856,556190,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+2a8ef797-1993-4ae7-a2f1-88870f1b9a4c,4237139161,8/20/2014 12:00:00 AM,8/20/2014 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,283668,0,2653063,2367210,182155,Crosslink,Natural Sand,,True,False,True,Methanol,True
+a6dfe41c-cb6d-4052-935e-451f981d35d2,4237139220,10/22/2014 12:00:00 AM,10/28/2014 12:00:00 AM,Apache Corporation,Reef,,8856078,0,8.357573E+07,7.335345E+07,9988440,Crosslink,Natural Sand,Borate Based,True,False,True,Proprietary non-hazardous salt,True
+f34c278c-a956-4590-a134-5637334a1a34,4237138978,11/29/2012 12:00:00 AM,11/29/2012 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,174426,0,3553379,1455585,2095753,Slickwater,Natural Sand,,True,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,11/4/2014 12:00:00 AM,11/5/2014 12:00:00 AM,Enduring Resources LLC,"Universal Pressure Pumping, Inc.",,1545806,0,1.457026E+07,1.287656E+07,1515002,Crosslink,Natural Sand,Borate Based,True,False,True,CHOLINE CHLORIDE,True
+6795ce81-105b-4e82-aebd-f72c0f620e5e,4237138887,12/13/2012 12:00:00 AM,12/13/2012 12:00:00 AM,Keystone Petroleum NM LLC,"Chemplex, L.C.",,493198,,4777727,4108339,545599.7,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+289cc093-b369-4750-a6b9-f999935bb54c,4237130685,2/7/2012 12:00:00 AM,2/7/2012 12:00:00 AM,SandRidge Energy,Frac Specialist,,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+9bd3fce3-9d39-40ca-a5a2-6c0e6501d49f,4237139154,6/28/2014 12:00:00 AM,7/21/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Baker Hughes,,1.309715E+07,0,1.203295E+08,1.090992E+08,9463739,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+da838424-2833-4ae5-bae5-f0055d3c830a,4237139112,11/27/2013 12:00:00 AM,11/30/2013 12:00:00 AM,"Forge Energy, LLC",Halliburton,,1506545,,1.413518E+07,1.254948E+07,1523941,Linear,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quarternized",True
+ac08e6e7-e33b-41ca-8152-0eb39ab1409c,4237130644,3/19/2014 12:00:00 AM,3/22/2014 12:00:00 AM,Endeavor Energy Resources,Schlumberger,,1198934,0,,9987120,0,Crosslink,Natural Sand,Borate Based,True,False,True,Water (Including Mix Water Supplied by Client)*,True
+2a8ef797-1993-4ae7-a2f1-88870f1b9a4c,4237139161,10/13/2014 12:00:00 AM,10/15/2014 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,1237782,0,1.20007E+07,1.032929E+07,1171327,Crosslink,Natural Sand,,True,False,False,,True
+10ed7f73-eeef-4272-91a6-90d2fc23df42,4237139332,6/21/2015 12:00:00 AM,7/4/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Archer,,2.488422E+07,0,2.246272E+08,2.076588E+08,1.624859E+07,Linear,Natural Sand,,True,False,False,,True
+c34d4751-1496-4a8c-908e-e9f2512caf0a,4237139043,1/29/2014 12:55:00 PM,1/29/2014 1:28:00 PM,Griffin Petroleum Company,"Chemplex, L.C.",,10844,1882,123564.2,90330.52,27389.19,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+18f42abf-002e-4fa7-b9be-c9ec50de7dac,4237139307,5/10/2015 5:00:00 AM,5/12/2015 5:00:00 AM,Occidental Oil and Gas,Blue Ribbon Technology,,736680,0,6791285,6057925,639020,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+eecb80be-38f3-4390-9a88-365632f4306b,4237139002,2/20/2013 9:36:00 AM,2/21/2013 7:00:00 PM,COG Operating LLC,ASK,,1310434,5.482231E+07,1.191004E+07,1.091592E+07,724229,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+9c72cac5-8704-4fb8-b372-79ce2f31f6c9,4237139105,12/23/2013 12:00:00 AM,12/23/2013 12:00:00 AM,PPC Operating Company LLC,Frac Specialists,,21756,2092.858,224364.4,181227.5,41137.5,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+68796bd0-30e4-4677-9779-8d93f60e45b4,4237139101,10/24/2013 12:00:00 AM,10/24/2013 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,194880,0,1776739,1626274,146920,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+a5345ef8-9cca-44fa-9d29-6c782313b15b,4237139322,10/8/2015 12:00:00 AM,11/1/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Archer,,3.801743E+07,0,3.446382E+08,3.172555E+08,2.668868E+07,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+e23d9cf3-96a1-431e-b777-f70e9ec63357,4237139343,8/20/2015 8:53:00 AM,8/20/2015 9:55:00 AM,Stanolind Operating LLC,"Chemplex, L.C.",,32394,2004,309960.4,269842,36459.4,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+4cbf3949-a763-4cf9-bac4-238e3128b042,4237139037,7/15/2013 7:46:00 AM,7/18/2013 2:59:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,3415269,180981,3.178352E+07,2.844919E+07,2786145,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+2d314843-8542-4cd0-a9c1-992d0bdee552,4237139050,6/20/2013 7:22:00 AM,6/21/2013 1:18:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,1252661,99571,1.206899E+07,1.043467E+07,1236396,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+c5df0ee7-a456-438e-98f3-e970a1be6790,4237138926,5/20/2012 12:00:00 AM,5/20/2012 12:00:00 AM,"Dominion Natural Resources, LLC","Chemplex ",,16548,0,160165.9,138995.6,20000,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+d225de0d-b844-4626-ab62-85bd181e3ee4,4237110279,11/14/2013 5:09:18 AM,11/15/2013 2:16:27 PM,XTO Energy/ExxonMobil,Halliburton,,549423,0,5474712,4582173,740160,Crosslink,Natural Sand,Borate Based,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+fd60c54a-379f-486c-9656-c716b91ea8a8,4237139041,9/19/2013 12:10:00 PM,9/19/2013 12:46:00 PM,Griffin Petroleum Company,"Chemplex, L.C.",,10758,2262,130721.8,89614.14,34903.82,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+554b86c9-5175-4db9-bf6b-c9202d7bdbb4,4237138868,3/29/2012 12:00:00 AM,3/29/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+f5bcac92-ad5a-4cee-bc66-4ad2d4c53e3e,4237139188,7/26/2014 12:00:00 AM,8/2/2014 12:00:00 AM,"EOG Resources, Inc.",Chemplex,,7695683,0,7.39607E+07,6.410504E+07,8726557,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+e404dc0a-dc4f-4be7-b2f4-e949827c0ff3,4237139185,8/29/2014 5:00:00 AM,8/30/2014 5:00:00 AM,COG Operating LLC,Halliburton,,1.212953E+07,0,1.156838E+08,1.010387E+08,0,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,True
+9d4a09d5-2425-4b51-912d-284b1abca5be,4237139299,4/8/2015 12:00:00 AM,4/17/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Precision,,1.537637E+07,0,1.383881E+08,1.283158E+08,9778910,Slickwater,Natural Sand,,True,False,True,Proprietary salt blend,False
+50fdee2f-217d-4db2-9596-2f9c51e305cf,4237139349,10/2/2015 12:00:00 AM,10/2/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Producers Service Corp,,125130,0,1142927,1035698,101140,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium Chloride,True
+10ccd82b-8d95-4d5b-b9b0-11d7b67e520b,4237138946,8/9/2012 12:00:00 AM,8/9/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,13524,0,131677.3,112857.8,15800,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+90704fb0-9887-4954-a457-e3762f983e30,4237139300,6/15/2015 12:00:00 AM,6/20/2015 12:00:00 AM,Quicksilver Resources Inc.,WFT,,5350206,0,5.265773E+07,4.456721E+07,7498482,Linear,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+4225baad-b657-42cb-9c66-5ea1019f7e5b,4237139111,10/24/2013 12:00:00 AM,10/24/2013 12:00:00 AM,Incline Energy,Advanced Stimulaton Technologies,,187200,0,1713245,1562184,147360,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+4b7b9294-512f-4495-b1fc-89626920aec7,4237138951,9/19/2012 2:40:00 PM,9/19/2012 3:25:00 PM,Griffin Petroleum Company,"Chemplex, L.C.",,9837,1839,113923.9,81942.21,25956.47,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+633e4960-7cdd-4250-b4f1-8f8afbd11cca,4237139317,5/17/2015 12:00:00 AM,5/24/2015 12:00:00 AM,Apache Corporation,Innospec Oilfield Services,,1.251193E+07,0,1.197765E+08,1.04412E+08,1.52436E+07,Slickwater,Natural Sand,,True,False,False,,True
+b2f2c789-02a7-47d9-b3e4-fa94167aa6c5,4237100056,1/26/2015 12:00:00 AM,1/26/2015 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,209412,0,1920117,1747543,168080,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+38e29223-a6ec-4ac6-a9d3-7198c738a35d,4237139234,6/1/2015 12:00:00 AM,6/9/2015 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.094196E+07,0,1.904132E+08,1.74446E+08,1.29636E+07,Slickwater,Natural Sand,,True,False,False,,False
+948993fc-69d0-4f87-9a94-f3164d5c35db,4237139298,7/4/2015 12:00:00 AM,7/4/2015 12:00:00 AM,Jagged Peak Energy,Halliburton,,4618246,0,4.218579E+07,3.883932E+07,0,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,True
+cc6499c4-5254-4f5a-90a2-0815bfa8841d,4237139125,1/29/2014 10:25:00 AM,2/4/2014 9:05:00 AM,COG Operating LLC,"Chemplex,L.C.",,5858369,427561,5.59969E+07,4.880021E+07,5349260,Linear,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+93e19f7a-72c7-4c42-b399-9c838f038169,4237139396,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+5d603964-94f0-48d4-9a67-eabbaa8f511c,4237139022,3/8/2013 9:18:00 AM,3/8/2013 9:53:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,11072,1822,124074.6,92229.76,25946.06,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,12/3/2014 1:37:58 AM,12/4/2014 5:29:36 PM,"Forge Energy, LLC",Halliburton,,947171,0,2118804,947358,1097301,Linear,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+07c2bec7-bbcc-4ee2-80dc-98b4e742c49b,4237138953,12/10/2012 12:00:00 AM,12/10/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,1326276,,1.247914E+07,1.104788E+07,1063395,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+e2102c17-fb67-48b7-9da6-5ec3595a1357,4237110272,11/15/2012 12:00:00 AM,11/15/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,967606,,,8060158,0,Crosslink,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",False
+13ca2ea3-ba7e-42a3-b09a-555d6f618eda,4237139353,10/22/2015 12:00:00 AM,11/3/2015 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.862938E+07,0,2.584053E+08,2.393408E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,False
+a70db9ae-57b5-441b-9d13-782d6c7215bc,4237139110,10/12/2013 5:36:08 PM,10/13/2013 10:37:49 AM,Thorp Petroleum Corporation,Halliburton,,470686,0,2367774,1609741,603001,Linear,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+51d6d04d-c721-4237-868d-853b9ba677e0,4237139362,12/10/2015 12:00:00 AM,12/10/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Frac Specialists,,248052,103157,2290196,2066273,197851.7,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+2146df75-e773-47d3-abd6-9a28939b3e07,4237139347,9/18/2015 12:00:00 AM,9/18/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Frac Specialists,,127050,51830,1172632,1058327,101258.7,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+7ab44e39-b35e-4362-99d9-bd4e856d235d,4237139119,2/10/2014 12:00:00 AM,2/10/2014 12:00:00 AM,PPC Operating Company LLC,Frac Specialists,,18816,2112.135,199811.3,156737.3,40911.88,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+6cc55b71-86f0-4aed-8168-283a96ed7e8f,4237139003,3/15/2013 12:00:00 AM,3/15/2013 12:00:00 AM,"ExL Petroleum, LP","Chemplex, L.C.",,1309283,,1.249719E+07,1.090633E+07,1182430,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+c225da26-3a32-4b6e-935e-9d74592d8fce,4237139147,5/4/2015 12:00:00 AM,5/4/2015 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,760494,0,7138889,6346323,634796,Slickwater,Natural Sand,,True,False,False,,True
+7e4537b5-ed20-4c5e-a035-74c12b6c0ec1,4237139127,1/29/2014 12:00:00 AM,1/29/2014 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,64988,0,595262.6,542324.9,50000,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+13220e12-ced9-4ea5-9562-e36757a61e59,4237102150,7/31/2012 12:00:00 AM,7/31/2012 12:00:00 AM,Quicksilver Resources Inc.,Universal,,,,,,0,Slickwater,Natural Sand,,True,False,True,CHOLINE CHLORIDE,True
+ac2bbd39-c4cf-4921-9e90-0bc43f8aa007,4237139118,3/10/2014 12:00:00 AM,3/13/2014 12:00:00 AM,Apache Corporation,Reef,,3414768,0,3.081824E+07,2.767399E+07,2871340,Crosslink,Natural Sand,Borate Based,True,False,True,Proprietary non-hazardous salt,True
+dfd3734e-5f00-4ec3-ad11-0d2cb94e185e,4237139197,8/6/2014 12:00:00 AM,8/6/2014 12:00:00 AM,"Sheridan Production Company, LLC",Frac Specialists,,80682,70884,832004.4,672081.1,146575,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+9352fee7-21c2-4721-8a5c-6444f0467044,4237139236,6/18/2015 12:00:00 AM,6/20/2015 12:00:00 AM,Occidental Oil and Gas,Schlumberger,,1379596,0,,1.149204E+07,0,Slickwater,Natural Sand,,True,False,True,Water (Including Mix Water Supplied by Client)*,True
+8abbb6c9-0c07-44d1-8aa0-592dd72976a7,4237138756,8/9/2012 12:00:00 AM,8/9/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,13356,0,130275.3,111455.8,15800,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+c4765ddf-2b99-48bb-a959-3c78a4003f65,4237138952,5/20/2013 8:00:00 AM,5/20/2013 9:34:00 AM,Apache Corporation,"Chemplex, L.C.",,226018,15860,2150450,1882730,204911,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+017414d3-3ab4-43b6-beda-f166512cf4fe,4237138866,7/6/2012 12:00:00 AM,7/6/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,True,,False
+00467069-2b98-45e2-88bc-bea65a9408db,4237110933,5/28/2013 12:00:00 AM,5/30/2013 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,1063994,,1.140407E+07,8873681,2406105,Crosslink,Natural Sand,Borate Based,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+2146df75-e773-47d3-abd6-9a28939b3e07,4237139347,10/13/2015 12:00:00 AM,10/13/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Producers Service Corp,,899468,0,7596709,7497332,93434,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+2a515f4e-9ebd-4ba8-8205-6be9967d3e26,4237139278,4/10/2016 12:00:00 AM,4/16/2016 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,1.55468E+07,0,1.403736E+08,1.297E+08,1.038671E+07,Linear,Natural Sand,,True,False,True,No hazardous ingredients,True
+e29ca031-75da-47ff-af7f-01d23bd63796,4237139150,4/11/2014 12:00:00 AM,4/11/2014 12:00:00 AM,Incline Energy,Impact Chemical,,211302,0,1944636,1763315,135580,Linear,Natural Sand,,True,False,False,,True
+c8c5559e-db15-4fc8-b434-d0c58d7641c1,4237138882,8/9/2012 12:00:00 AM,8/9/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,12936,0,126770.4,107950.9,15800,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+017414d3-3ab4-43b6-beda-f166512cf4fe,4237138866,7/26/2012 12:00:00 AM,7/26/2012 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+0f6f9617-a53e-4904-b9b8-5fbdb9cd4490,4237138863,4/13/2012 12:00:00 AM,4/13/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+8c936879-b6e1-4205-a670-c2223a1aae4d,4237138869,3/23/2012 12:00:00 AM,3/23/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+54a8e07c-76eb-42d0-bf52-d7381e1f590b,4237139133,5/27/2014 9:49:00 AM,5/28/2014 1:45:00 PM,XTO Energy/ExxonMobil,ASK,,1092717,68373,1.034203E+07,9102333,1050507,Crosslink,Natural Sand,,True,False,False,,True
+c4765ddf-2b99-48bb-a959-3c78a4003f65,4237138952,6/10/2013 9:08:00 AM,6/11/2013 2:13:00 AM,Apache Corporation,"Chemplex, L.C.",,706476,48138,6685699,5884945,612417,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+c0fcb921-7f71-412b-ba0e-0a4259f81d2d,4237138962,1/23/2013 12:00:00 AM,1/23/2013 12:00:00 AM,COG Operating LLC,"Chemplex, L.C.",,278909,,2609818,2323312,224772.3,Crosslink,Natural Sand,,True,False,True,,True
+b96f19f4-7494-452f-b740-390d79967fe0,4237139032,9/12/2013 9:44:00 AM,9/13/2013 2:01:00 PM,"ExL Petroleum, LP",Impact,,1025111,92677,1.002153E+07,8539175,1090053,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+f83f9c8b-daec-4d17-b26e-0317f0cfd8a7,4237139260,5/14/2015 5:00:00 AM,5/14/2015 5:00:00 AM,COG Operating LLC,Halliburton,,5867656,0,5.564166E+07,4.893609E+07,5234042,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,True
+5559ed1e-57e7-48a6-bcac-8311f1a4441b,4237137016,6/23/2015 10:50:00 AM,6/29/2015 5:06:00 PM,"Nemo Fund I, LLC","Chemplex, L.C.",,137497,6311,1266147,1145350,104948,,Natural Sand,,True,False,False,,False
+ef07f702-4d90-45a4-bd23-b377a7007b33,4237139140,5/22/2014 10:30:00 AM,5/23/2014 12:35:00 PM,"Nadel and Gussman Permian, LLC",ASK,,1073197,69245,1.020914E+07,8939731,1086375,Crosslink,Natural Sand,,True,False,False,,True
+fb958191-4082-464c-9a76-917c9e79417c,4237138948,1/18/2014 12:00:00 AM,1/18/2014 12:00:00 AM,COG Operating LLC,ASK,,81464,5518,768683.2,678595.1,66792.43,Crosslink,Natural Sand,,True,False,False,,True
+6be4f61f-5c9c-42c9-8da9-7318d72236ea,4237138803,9/14/2011 12:00:00 AM,9/14/2011 12:00:00 AM,XTO Energy/ExxonMobil,Halliburton,,,,,,0,Crosslink,Natural Sand,,True,False,True,,False
+d3fe26de-d9c1-4cad-b2f4-417b97069846,4237139073,11/11/2013 12:00:00 AM,11/17/2013 12:00:00 AM,"Brigham Resources Operating, LLC",Baker Hughes,,4165098,0,3.987967E+07,3.469527E+07,4312428,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+65598e98-e449-4736-8f9e-a8fb494317c5,4237138923,5/21/2012 12:00:00 AM,5/21/2012 12:00:00 AM,"Dominion Natural Resources, LLC","Chemplex ",,17262,0,166124.2,144953.9,20000,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+c4987317-19eb-4f36-9159-50fb3b4fbfac,4237139135,5/23/2014 12:00:00 AM,5/23/2014 12:00:00 AM,"Parsley Energy Operations, LLC",Economy Polymers,,308448,0,2865324,2573999,181520,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+7026254e-1213-423f-b76f-cf7927979475,4237139376,2/17/2016 12:00:00 AM,3/3/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.497016E+07,0,2.268128E+08,2.080007E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+b3608d2e-dbfa-4f6a-8abd-44265ce5c56f,4237138867,3/22/2012 12:00:00 AM,3/22/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+17ce9c1c-1ed5-44af-8249-488ba9d3e196,4237139128,12/3/2014 7:02:00 AM,12/3/2014 2:22:00 PM,"Burnett Oil Co., Inc.","Chemplex, L.C.",,464072,11326,4064087,3865720,153620,Slickwater,Natural Sand,,True,False,False,,True
+a869cb8f-dcce-4e5a-b2cd-bd18424a6cf1,4237138981,12/19/2012 12:00:00 AM,12/19/2012 12:00:00 AM,Whiting Petroleum,Chemplex,,1514940,,1.418664E+07,1.261945E+07,386373.1,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+0665c9cc-7b64-4b7d-b0cb-20c81c54f5aa,4237139141,5/2/2014 7:17:00 AM,5/2/2014 12:53:00 PM,"Burnett Oil Co., Inc.",SNF,,568880,8620,4924290,4738771,171420,Slickwater,Natural Sand,,False,False,False,,False
+a65ac187-80f7-4bb5-a580-0ee24bb25ec1,4237138605,10/19/2015 12:00:00 AM,10/19/2015 12:00:00 AM,"Nemo Fund I, LLC",Chemplex,,132468,0,1247386,1103459,99000,Crosslink,Natural Sand,Borate Based,True,False,True,No hazardous ingredients per MSDS,True
+cf1249eb-f108-4b1f-8551-17ec012d6366,4237139179,8/3/2014 4:49:00 PM,8/12/2014 1:01:00 PM,Quicksilver Resources Inc.,Chemplex,,4965450,0,4.664265E+07,4.13622E+07,4815383,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+35df9fc4-d7c9-4fb6-8ed9-a098ab61309d,4237138939,8/25/2013 12:00:00 AM,8/26/2013 12:00:00 AM,J CLEO THOMPSON,Archer,,1054200,0,9772618,8797299,895400,Linear,Natural Sand,,True,False,False,,True
+dae5796a-8004-42ed-ba91-d35cf841985e,4237139215,9/29/2014 12:00:00 AM,9/29/2014 12:00:00 AM,PPC Operating Company LLC,"Chemplex ",,21995,0,225256.6,183548.3,39800,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+c7cef78c-8711-444b-86c0-0d934c7e3a24,4237139279,1/27/2015 12:00:00 AM,1/27/2015 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,221340,0,2009198,1847082,157760,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+310cfc60-559e-45ea-bc57-31ef372b1978,4237139394,6/4/2016 5:00:00 AM,6/11/2016 5:00:00 AM,"Brigham Resources Operating, LLC",Schlumberger,,1.63464E+07,0,1.401578E+08,1.361655E+08,9.365062,Crosslink,Natural Sand,,True,False,True,,True
+af7de166-8655-4809-aff2-eaa91e9beab4,4237139090,5/1/2014 12:00:00 AM,5/2/2014 12:00:00 AM,J CLEO THOMPSON,FTSI,,1780288,0,1.605374E+07,1.48298E+07,983840,Slickwater,Natural Sand,,True,False,False,,True
+9c50e2d0-59d7-4379-8ccd-d800d0e8afcc,4237139398,7/8/2016 5:00:00 AM,7/25/2016 5:00:00 AM,"Brigham Resources Operating, LLC",C&J Well Services,,3.374496E+07,0,2.873394E+08,2.810955E+08,0,Linear,Natural Sand,,True,False,True," ",True
+72671d25-a225-44f8-b719-8171b2138868,4237139351,4/26/2016 12:00:00 AM,4/26/2016 12:00:00 AM,"FLAMINGO OPERATING, LLC",Chemplex,,73626,0,726873.3,613304.6,100009.8,Crosslink,Natural Sand,Borate Based,True,False,True,No hazardous ingredients per MSDS,True
+84650699-116d-4f20-985f-691cd737d0e7,4237138893,6/12/2012 12:00:00 AM,6/12/2012 12:00:00 AM,"ExL Petroleum, LP","Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+9b80dd94-9b01-4ab4-9af0-630443715020,4237139369,2/17/2016 12:00:00 AM,3/4/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.70982E+07,0,2.455827E+08,2.257273E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,False
+252705a0-faee-4e6c-a345-3059cacd5b95,4237139341,11/18/2015 12:00:00 AM,12/9/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,2.517803E+07,0,2.16979E+08,2.1E+08,6428840,Crosslink,Natural Sand,Borate Based,True,False,True,No hazardous ingredients,True
+b8e68783-2023-4645-894d-7f6c6c6a90f2,4237139315,5/17/2015 12:00:00 AM,5/18/2015 12:00:00 AM,Occidental Oil and Gas,Blue Ribbon Technology,,1268652,0,1.19925E+07,1.043E+07,1401980,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+ca24275b-6a2e-40b2-9ad6-2d9e353a170d,4237139202,8/8/2014 12:00:00 AM,8/8/2014 12:00:00 AM,"Sheridan Production Company, LLC",Frac Specialists,,79632,72284,827410.9,663334.6,150984.6,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+c7cdad26-754b-409c-a441-ffa310119524,4237137105,1/4/2015 12:00:00 AM,1/8/2015 12:00:00 AM,"Caird Operating, LLC","Chemplex, L.C.",,4013143,0,3.813419E+07,3.342948E+07,4208289,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+5725ec26-5148-441d-b5ef-22dcb431960f,4237139149,4/14/2014 12:00:00 AM,4/14/2014 12:00:00 AM,Incline Energy,Chemplex,,204246,0,1862395,1704433,154380,Crosslink,Natural Sand,Borate Based,True,False,False,,False
+a4182f29-ab54-4fe7-8f4c-95d892885a25,4237139381,4/28/2016 12:00:00 AM,5/11/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.308706E+07,0,2.164477E+08,0,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+ec2917ce-778d-41f5-a054-07c5ca1af4fc,4237139268,7/31/2015 12:00:00 AM,8/7/2015 12:00:00 AM,"Brigham Resources Operating, LLC",FTSI,,1.554756E+07,0,1.021868E+07,1.295112E+08,9808260,Linear,Natural Sand,,True,False,False,,True
+ddedc504-f594-4d28-a711-03d37fb1c427,4237138914,4/25/2012 11:26:00 AM,4/25/2012 12:01:00 PM,Griffin Petroleum Company,"Chemplex, L.C.",,11257,1805,125471.4,93770.81,25911.37,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+450479ed-b234-4650-b1ae-483ae3a84b40,4237135193,3/25/2015 12:00:00 AM,3/28/2015 12:00:00 AM,"Caird Operating, LLC","Chemplex, L.C.",,3817790,0,3.65765E+07,3.180219E+07,4222565,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+fb958191-4082-464c-9a76-917c9e79417c,4237138948,6/12/2014 1:00:00 AM,6/12/2014 1:00:00 AM,COG Operating LLC,Frac Specialists,,122136,48048.27,1270437,1017393,228670.3,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+edb364cd-a8ff-4f07-adc1-1b85ca5e6289,4237138979,11/30/2012 12:00:00 AM,11/30/2012 12:00:00 AM,Incline Energy,Advanced Stimulation Technologies,,101304,0,1802676,845381.9,956168.8,Slickwater,Natural Sand,,True,False,False,,False
+87e60fa8-cad2-4285-97bf-478a18a58642,4237137245,11/10/2012 12:00:00 AM,11/10/2012 12:00:00 AM,Stephens & Johnson Operating Co.,ASK,,137840,11550,1382065,1148207,217060,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),False
+2ac93d46-b0e9-4192-9944-78f098b56790,4237138801,4/25/2012 12:00:00 AM,4/25/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,21378,0,213258.7,178399.4,31500,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+1dc04387-e823-4f2c-8914-7ac734e8d3a9,4237138922,5/21/2012 12:00:00 AM,5/21/2012 12:00:00 AM,"Dominion Natural Resources, LLC","Chemplex ",,17220,0,165773.8,144603.4,20000,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+230a789b-297c-411b-92f4-d9ccd93ea99b,4237134125,6/19/2015 9:30:00 AM,6/19/2015 11:21:00 AM,Primexx Operating Corporation,Multiple Suppliers,,56912,5920,559841.5,474077,54131.39,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+07b88cd0-9fa4-4326-978b-27a8d0be8697,4237138837,9/30/2015 6:23:00 PM,9/30/2015 7:20:00 PM,"P.O.&G. Operating, LLC",Producers Service Corp,,37679,0,346377.4,285649.3,55280,Crosslink,Natural Sand,Borate Based,True,False,True,Hexamethylenediammonium dichloride,True
+8e7bb8eb-a741-4b6a-b00b-93f160df2d0b,4237139382,4/28/2016 12:00:00 AM,5/11/2016 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,1.920246E+07,0,1.79499E+08,0,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+85829064-8909-40dd-8ce7-e0e86384439a,4237139056,8/19/2013 5:58:00 AM,8/20/2013 2:38:00 PM,"ExL Petroleum, LP","Chemplex, L.C.",,847023,69417,8183877,7055702,844885.3,Crosslink,Natural Sand,Borate Based,True,False,True,Non-hazardous salts(Choline),True
+eecb80be-38f3-4390-9a88-365632f4306b,4237139002,4/14/2013 12:00:00 AM,4/14/2013 12:00:00 AM,"Red Willow Production, LLC",,,4278708,,,3.564164E+07,0,,Natural Sand,,False,False,False,,False
+3e812adf-211c-422b-be57-c144b460d1dd,4237139106,10/2/2013 10:15:00 AM,10/2/2013 10:54:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,12472,1850,136012,103891.8,25977.29,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+84650699-116d-4f20-985f-691cd737d0e7,4237138893,5/1/2012 12:00:00 AM,5/1/2012 12:00:00 AM,"ExL Petroleum, LP","Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+fecbc732-a958-4ba3-89ed-b0d2f5472acf,4237139374,3/10/2016 12:00:00 AM,3/26/2016 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,3.01585E+07,0,2.732118E+08,2.515E+08,2.10794E+07,Linear,Natural Sand,,True,False,True,No hazardous ingredients,True
+ef7d2937-e3d5-48b9-b23a-efa7a365745b,4237139340,1/26/2016 12:00:00 AM,2/26/2016 12:00:00 AM,"Brigham Resources Operating, LLC",Sanjel,,4.563921E+07,0,4.147942E+08,3.806E+08,3.304254E+07,Crosslink,Natural Sand,Borate Based,True,False,True,No hazardous ingredients,True
+90704fb0-9887-4954-a457-e3762f983e30,4237139300,6/9/2015 12:00:00 AM,7/15/2015 12:00:00 AM,Quicksilver Resources Inc.,ProTechnics,,5350206,0,330.19,4.456722E+07,0,,Natural Sand,,False,False,False,,False
+5ae21b8f-67bb-445e-8534-c33c4af957fb,4237139200,10/10/2014 12:00:00 AM,10/19/2014 12:00:00 AM,Quicksilver Resources Inc.,WFT,,7061721,0,6.941271E+07,5.882414E+07,9871920,Linear,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+9cd9d0b8-bef0-463d-9017-6e84f16173f5,4237138973,1/27/2014 12:00:00 AM,1/27/2014 12:00:00 AM,PPC Operating Company LLC,Frac Specialists,,17388,2085.411,187554.1,144842,40695.84,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,False
+a6495ae7-11dc-4ff5-ae9d-a38cc0fcef57,4237139030,3/7/2013 9:04:00 AM,3/7/2013 9:37:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,11076,1818,124064,92263.08,25925.25,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+2e90f9b9-1e8a-4608-b70b-c1828c8686e0,4237139276,2/11/2015 12:00:00 AM,3/13/2015 12:00:00 AM,Quicksilver Resources Inc.,ProTechnics,,4595010,0,293.727,3.827643E+07,0,,Natural Sand,,False,False,False,,False
+3f7254d2-136d-4235-8a2c-88506442ad54,4237133194,9/14/2015 1:00:00 AM,9/14/2015 1:00:00 AM,"FLAMINGO OPERATING, LLC",Frac Specialists,,126630,53173.63,1171351,1054828,103035.4,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+361a1f39-223a-4257-b801-24254f6ffa82,4237138942,2/20/2014 12:00:00 AM,2/20/2014 12:00:00 AM,"Jilpetco, Inc.",Chemplex,,64988,,594178.6,541350.1,49910.11,Slickwater,Natural Sand,,True,False,True,Choline Chloride,False
+b265863b-56ca-422c-8cfb-231d6215feda,4237139156,7/12/2014 12:00:00 AM,7/24/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Baker Hughes,,5607836,0,5.20723E+07,4.671327E+07,4565505,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+12cc0c63-60d5-4256-aa9e-25da15407ed1,4237139318,7/7/2015 12:00:00 AM,7/24/2015 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.936205E+07,0,2.652952E+08,2.448787E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,False
+cd08085f-6e5b-488b-8894-8a73d73a947b,4237139126,5/26/2014 12:00:00 AM,6/8/2014 12:00:00 AM,"Brigham Resources Operating, LLC",Baker Hughes,,6355331,0,5.930286E+07,5.293991E+07,5543566,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+3e184acd-990b-47f5-a727-e489777abb0f,4237139302,9/6/2015 12:00:00 AM,9/25/2015 12:00:00 AM,"Samson Exploration, LLC",Halliburton,,3.085557E+07,0,2.754402E+08,2.573346E+08,0,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,False
+912aac03-eba3-49cc-b93d-83b7579789e7,4237139169,7/23/2014 12:00:00 AM,7/25/2014 12:00:00 AM,"Silver Creek Oil & Gas, LLC",Catalyst,,4552464,0,4.116292E+07,3.799031E+07,2965500,Slickwater,Natural Sand,,True,False,True,Sodium Choride,True
+785ea26c-4b03-49fc-a381-d8c3dd5dc9de,4237139399,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+04cca38b-98d8-45da-8525-ab5dc59f4182,4237139335,8/25/2015 12:00:00 AM,9/1/2015 12:00:00 AM,"Brigham Resources Operating, LLC",Archer,,1.437292E+07,0,1.297078E+08,1.19942E+08,9449590,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+c0fcb921-7f71-412b-ba0e-0a4259f81d2d,4237138962,1/23/2013 12:30:00 PM,1/23/2013 2:35:00 PM,COG Operating LLC,"Chemplex, L.C.",,278909,15763,2612950,2323312,235472,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+3fb7cc95-d875-41a5-8100-c7a1b402da28,4237139080,10/10/2013 7:02:48 AM,10/11/2013 5:10:28 PM,XTO Energy/ExxonMobil,Halliburton,,885521,0,8325374,7385221,796141,Linear,Natural Sand,,True,False,True,"Polyepichlorohydrin, trimethyl amine quaternized",True
+5559ed1e-57e7-48a6-bcac-8311f1a4441b,4237137016,1/20/2016 11:53:00 AM,1/20/2016 12:55:00 PM,"Nemo Fund I, LLC",SNF,,57749,967,501601.1,481049.2,18991,Slickwater,Natural Sand,,False,False,False,,False
+c0fcb921-7f71-412b-ba0e-0a4259f81d2d,4237138962,4/18/2013 7:43:00 AM,4/18/2013 3:27:00 PM,COG Operating LLC,"Chemplex, L.C.",,482909,32179,4609657,4022632,495258,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+c1e89871-c96f-4ab3-83cb-06b167e8037a,4237139177,8/18/2014 9:21:00 AM,8/20/2014 3:11:00 PM,XTO Energy/ExxonMobil,"Chemplex, L.C.",,2315819,158905,2.208481E+07,1.929077E+07,2251300,Crosslink,Natural Sand,,True,False,False,,True
+6bfba10a-f9c8-47f8-a911-60c311216456,4237133699,9/26/2015 5:00:00 AM,9/26/2015 5:00:00 AM,"FLAMINGO OPERATING, LLC",Frac Specialists,,126798,53323.35,3883127,1056227,103668.3,Crosslink,Natural Sand,Borate Based,True,False,False,,True
+db1d94c5-e446-4f9c-b30c-c1f33b893048,4237139163,7/28/2014 12:00:00 AM,7/28/2014 12:00:00 AM,"Silver Creek Oil & Gas, LLC",Chemplex,,120918,0,1142738,1009061,0,Slickwater,Natural Sand,,True,False,True,Sodium Choride,True
+512b3709-6295-4842-9fb6-85ce93108a35,4237138864,3/29/2012 12:00:00 AM,3/29/2012 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,,,,,0,Crosslink,Natural Sand,,True,False,False,,True
+6ceb2625-f4f1-491f-b532-fb87eac2e9ba,4237138949,9/17/2012 8:25:00 AM,9/17/2012 9:00:00 AM,Griffin Petroleum Company,"Chemplex, L.C.",,11511,1845,127961.4,95886.63,25980.76,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+2ac93d46-b0e9-4192-9944-78f098b56790,4237138801,8/9/2012 12:00:00 AM,8/9/2012 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,12222,0,120812.1,101992.6,15800,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+23f4a778-374b-4aed-8908-535196294e33,4237138896,6/9/2012 12:00:00 AM,6/9/2012 12:00:00 AM,Quicksilver Resources Inc.,Universal,,,,,,0,Crosslink,Natural Sand,,True,False,True,Choline Chloride,False
+02e69138-c0e6-4b30-b6b0-c94b292b4563,4237139199,7/17/2014 12:00:00 AM,7/17/2014 12:00:00 AM,"Jilpetco, Inc.","Chemplex ",,87360,0,783166.1,729019.2,50000,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+0760bb15-104c-46a7-b4f7-06717d256090,4237139350,11/19/2015 12:00:00 AM,11/19/2015 12:00:00 AM,"FLAMINGO OPERATING, LLC",Producers Service Corp,,257211,0,2355892,2129577,198817,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium Chloride,True
+e9287ed0-7993-4d91-9498-45e14bf19f94,4237136395,2/14/2013 12:00:00 AM,2/14/2013 12:00:00 AM,"Patriot Resources, Inc.",Economy Polymers,,1195362,,1.143789E+07,9957365,884144.5,Crosslink,Natural Sand,,True,False,False,,True
+1056d361-8667-4347-8756-3890e8738a0f,4237139166,7/19/2014 8:41:00 AM,7/19/2014 4:19:00 PM,XTO Energy/ExxonMobil,"Chemplex,L.C.",,583583,39151,5573888,4861247,593850,Crosslink,Natural Sand,,True,False,False,,True
+1d10eee4-63ef-4f7e-9c8b-2cbfabc890c0,4237138955,4/22/2013 12:00:00 AM,4/22/2013 12:00:00 AM,Apache Corporation,"Chemplex, L.C.",,425300,,3958365,3542749,299462.6,Crosslink,Natural Sand,,True,False,True,Non-hazardous salts(Choline),True
+53104f02-c3e6-467a-b911-203399dabdb6,4237139139,11/8/2014 6:41:20 AM,11/9/2014 1:34:28 PM,COG Operating LLC,Halliburton,,4543243,0,4.337031E+07,3.784509E+07,4197121,Crosslink,Natural Sand,Borate Based,True,False,True,Sodium chloride,True
+5bbf0f76-92c4-4109-8d68-076f220b7b3d,4237139421,3/28/2017 7:04:00 AM,4/12/2017 7:37:00 AM,Jagged Peak Energy,Keane,,2.129691E+07,0,1.939363E+08,1.777227E+08,1.509079E+07,Slickwater,Natural Sand,,True,False,False,,True
+84533a70-28cb-466f-8d22-07869272eaa2,4237139492,8/14/2017 12:00:00 AM,8/19/2017 12:00:00 AM,Teakwood Operating LLC,Liberty Oilfield Services,,490198,0,4384179,4083349,1321.17,Crosslink,Natural Sand,,True,False,True,Quaternary Ammonium Compound,True
+e5667d11-732c-4577-aabb-0da0b576a351,4237139029,11/21/2016 12:00:00 AM,11/21/2016 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,86478,0,812050.4,720361.8,54450,Slickwater,Natural Sand,,True,False,False,,True
+7796f1a5-ba14-4df7-ad2b-0ee458403ec8,4237139494,5/29/2017 6:00:00 AM,6/5/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,1.185005E+07,0,1.186575E+08,9.87109E+07,9303865,Linear,Natural Sand,,True,False,False,,True
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,8/2/2017 3:57:00 PM,8/2/2017 6:22:00 PM,Periscope Operating LLC,"Texas Quality Chemicals, Inc.",,250603,15719,2370109,2087523,233131,Slickwater,Natural Sand,,True,False,True,Water,True
+0f852462-3661-445a-8f41-10ebdd31ce7d,4237139323,9/13/2016 10:02:00 AM,9/20/2016 7:54:00 AM,BlueStone Natural Resources,SNF,,1.435315E+07,644755,1.324081E+08,1.195617E+08,1.158628E+07,Slickwater,Natural Sand,,True,False,False,,True
+10ccd82b-8d95-4d5b-b9b0-11d7b67e520b,4237138946,12/30/2016 12:00:00 AM,12/30/2016 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,40866,0,363875.8,340413.8,22983.84,Slickwater,Natural Sand,,True,False,False,,False
+5a11b103-00a4-488c-afbf-1c192579b02a,4237139020,10/24/2016 12:00:00 AM,10/24/2016 11:59:59 PM,"Jilpetco, Inc.",Listed Above,,77280,0,733638.3,643742.4,52657.11,Slickwater,Natural Sand,,True,False,False,,True
+a5aa715d-e65c-4695-a34e-2ecf7f58920c,4237139325,5/12/2017 2:40:00 PM,5/20/2017 12:08:00 PM,BlueStone Natural Resources,Finoric LLC,,1.239794E+07,627685,1.158662E+08,1.032749E+08,1.149198E+07,Slickwater,Natural Sand,,True,False,True,Sodium Chloride,True
+2b46812e-b971-4c67-b716-34d43b3d4a08,4237139436,1/16/2017 7:00:00 AM,2/1/2017 7:00:00 AM,Jagged Peak Energy,BJ Services,,2.472459E+07,0,2.437243E+08,2.059558E+08,1.75615E+07,Linear,Natural Sand,,True,False,False,,True
+cf6ee7e8-512d-47f5-a2b3-382913f8f2e2,4237139433,4/21/2017 5:00:00 AM,5/1/2017 5:00:00 AM,"Parsley Energy Operations, LLC",Schlumberger,,1.070833E+07,0,1.023886E+08,8.920038E+07,20.47771,Crosslink,Natural Sand,,True,False,True,,True
+286eb1cb-3a4c-47fe-8bff-38b16eadff0c,4237139273,10/5/2016 5:00:00 AM,10/11/2016 5:00:00 AM,"Patriot Resources, Inc.",C&J Well Services,,1.836891E+07,0,1.682254E+08,1.53013E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+d3453665-18c1-4362-a37c-418644bf1072,4237139448,3/15/2017 11:06:00 PM,4/8/2017 6:00:00 PM,Crimson Exploration Oper. Inc.,Finoric LLC,,3.368038E+07,1310108,3.077996E+08,2.805576E+08,2.47203E+07,Linear,Natural Sand,,True,False,True,Magnesium Chloride,True
+8bd63952-e41b-4ac5-a57d-43b59985a15a,4237139482,4/10/2017 10:28:00 AM,4/11/2017 2:06:00 AM,Crimson Exploration Oper. Inc.,Finoric LLC,,459856,26210,4353352,3830601,456571.6,Crosslink,Natural Sand,,True,False,True,Water,True
+14646344-65f5-4d6f-ad87-4d0a06c97684,4237139409,4/3/2017 6:00:00 AM,4/18/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,3.479146E+07,0,3.216377E+08,2.898128E+08,1.46392E+07,Linear,Natural Sand,,True,False,True,Sodium Chloride,True
+639faf03-3763-45dc-bd64-4eb970a2a3c1,4237139245,2/24/2017 6:00:00 AM,3/7/2017 6:00:00 AM,Occidental Oil and Gas,Schlumberger,,2.305649E+07,0,2.10346E+08,1.920606E+08,588.969,Linear,Natural Sand,,True,False,True,,True
+c4987317-19eb-4f36-9159-50fb3b4fbfac,4237139135,12/30/2016 12:00:00 AM,12/30/2016 12:00:00 AM,"Parsley Energy Operations, LLC",Solnexus,,236124,0,2225413,1970455,230000,Slickwater,Natural Sand,,True,False,False,,True
+17edb43b-88fb-469b-8dc5-51e6c7d7c398,4237139416,1/30/2017 6:00:00 AM,2/5/2017 6:00:00 AM,Apache Corporation,Listed Above,,9383976,0,8.853962E+07,7.830928E+07,7992940,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+62659280-3c2d-47ec-8f4a-5336e9c39889,4237139516,8/14/2017 5:00:00 AM,8/21/2017 5:00:00 AM,Manti Tarka Permian,Listed Above,,1.290031E+07,0,1.184347E+08,1.076531E+08,1.0166E+07,Linear,Natural Sand,,True,False,True,Water,True
+c2600b3b-129f-4272-9963-560b0453a063,4237138742,10/27/2016 12:00:00 AM,10/27/2016 12:00:00 AM,Occidental Oil and Gas,Chemplex/Solvay,,34464,21018,514085.1,287085.1,69452,Crosslink,Natural Sand,,True,False,True,Magnesium Chloride,True
+644cf528-3886-4fd2-a1aa-5b498512b47d,4237139466,3/15/2017 4:30:00 PM,4/8/2017 8:37:00 AM,Crimson Exploration Oper. Inc.,Finoric LLC,,3.403472E+07,1322268,3.110057E+08,2.835092E+08,2.497209E+07,Linear,Natural Sand,,True,False,True,Water,True
+4cacf634-bb0b-4ff2-ace2-678339b19db9,4237139413,9/12/2016 5:00:00 AM,9/20/2016 5:00:00 AM,"Forge Energy, LLC",Halliburton,,1.171489E+07,0,1.102774E+08,9.770185E+07,0,Crosslink,Natural Sand,,True,False,True,Sodium chloride,True
+1d7e5a1e-935b-4752-baf8-6bb17c285f71,4237139564,9/25/2017 5:00:00 AM,10/7/2017 5:00:00 AM,Manti Tarka Permian,Listed Above,,1.676696E+07,0,1.504591E+08,1.399202E+08,9481550,Linear,Natural Sand,,True,False,True,Water,True
+a85aa1e6-6cf9-4b75-8194-6c6065eff052,4237139162,8/2/2017 12:17:00 PM,8/2/2017 6:58:00 PM,Periscope Operating LLC,Chemplex/Solvay,,256019,16435,2424864,2132638,235659.4,Crosslink,Natural Sand,,True,False,True,Magnesium Chloride,True
+77fa0723-8c5c-495e-83b4-7299304b1ad0,4237139549,7/6/2017 11:43:00 AM,7/21/2017 1:14:00 PM,Crimson Exploration Oper. Inc.,Finoric LLC,,3.377259E+07,1312779,3.079859E+08,2.813257E+08,2.455606E+07,Linear,Natural Sand,,True,False,True,Magnesium Chloride,True
+7d892112-3f83-4b45-8d07-75db4a89f582,4237139432,4/21/2017 5:00:00 AM,5/1/2017 5:00:00 AM,"Parsley Energy Operations, LLC",Schlumberger,,1.115882E+07,0,1.056716E+08,9.295298E+07,10.56716,Crosslink,Natural Sand,,True,False,True,,True
+e19ab152-1887-4332-8bee-774daf2dfd83,4237139389,6/13/2016 5:00:00 AM,6/21/2016 5:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.183705E+07,0,2.029985E+08,1.886715E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+35a96fb4-8be1-4de5-8598-90080eb634cf,4237139368,1/20/2016 7:00:00 AM,2/10/2016 7:00:00 AM,Jagged Peak Energy,C&J Well Services,,2.295741E+07,0,2.103443E+08,1.912352E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+c5a09a20-8f6c-412b-9374-96a8b42b83d7,4237139391,7/7/2016 5:00:00 AM,7/20/2016 5:00:00 AM,"Samson Exploration, LLC",Halliburton,,2.274357E+07,0,2.039965E+08,0,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+7d67cbbf-e8d8-41ce-86d7-9c26757a28f3,4237139274,1/17/2017 6:00:00 AM,1/25/2017 6:00:00 AM,"Patriot Resources, Inc.",C&J Well Services,,2.005525E+07,0,1.834272E+08,1.670602E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+93e19f7a-72c7-4c42-b399-9c838f038169,4237139396,10/12/2016 12:00:00 AM,10/29/2016 12:00:00 AM,"Parsley Energy Operations, LLC",Schlumberger,,2.631993E+07,0,4.765772E+08,2.19245E+08,0,Crosslink,Natural Sand,,True,False,True,Sodium chloride,True
+c225da26-3a32-4b6e-935e-9d74592d8fce,4237139147,12/31/2016 12:00:00 AM,12/31/2016 12:00:00 AM,"Parsley Energy Operations, LLC",Solnexus,,223272,0,2118263,1863205,230000,Slickwater,Natural Sand,,True,False,False,,True
+5f901704-edfd-4657-b8ff-a476f8de6ed3,4237139483,5/20/2017 12:00:00 AM,6/5/2017 12:00:00 AM,"Patriot Resources, Inc.",Schlumberger,,3.346923E+07,0,2.99074E+08,2.787987E+08,0,Linear,Natural Sand,,True,False,True,"Amines, dicoco alkylmethyl",True
+cbdf64b1-cd09-4dd1-a3f2-a4e534f9d280,4237139390,8/16/2016 5:00:00 AM,8/25/2016 5:00:00 AM,"Brigham Resources Operating, LLC",Schlumberger,,1.728662E+07,0,1.708487E+08,1.439975E+08,51.25459,Linear,Natural Sand,,True,False,True,,True
+27c75e5b-b0c0-4808-b2f4-ab2374aec215,4237139417,2/22/2017 6:00:00 AM,3/21/2017 5:00:00 AM,"Parsley Energy Operations, LLC",Schlumberger,,2.440339E+07,0,2.312172E+08,2.032803E+08,23.12172,Crosslink,Natural Sand,,True,False,True,,True
+0e1378d4-80ef-4eae-8c59-ababbb66a70a,4237139093,10/5/2016 5:00:00 AM,10/7/2016 5:00:00 AM,"Samson Exploration, LLC",Liberty Oilfield Services,,6978495,0,6.208462E+07,5.813086E+07,0,Slickwater,Natural Sand,,True,False,False,,True
+4a111495-97a4-4053-8c62-afa30a19883f,4237139084,12/30/2016 12:00:00 AM,12/30/2016 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,74340,0,709806.9,619252.2,53212.5,Slickwater,Natural Sand,,True,False,False,,True
+3b8800d0-90a0-4073-9587-b53ed3f5a294,4237139402,2/6/2017 6:00:00 AM,2/12/2017 6:00:00 AM,Apache Corporation,Listed Above,,9338238,0,8.629402E+07,7.79276E+07,7831420,Crosslink,Natural Sand,Borate Based,True,False,True,Choline Chloride,True
+1e699a4e-28f7-4cba-987e-b64cd3298695,4237139444,1/10/2017 6:00:00 AM,1/17/2017 6:00:00 AM,"Brigham Resources Operating, LLC",Liberty Oilfield Services,,2.14291E+07,0,1.942109E+08,1.785044E+08,978057.6,Linear,Natural Sand,,True,False,False,,True
+72580937-b6d8-4aa1-8243-b9f8fbb157bb,4237139393,6/4/2016 5:00:00 AM,6/17/2016 5:00:00 AM,"Brigham Resources Operating, LLC",TegraExcel,,2.5611E+07,,2.328842E+08,2.133396E+08,0,Linear,Natural Sand,,True,False,True,,True
+15e8da6c-f159-4859-9fd8-bf3a4a8017f7,4237139033,10/4/2016 12:00:00 AM,10/4/2016 11:59:00 PM,"Jilpetco, Inc.",Listed Above,,102144,0,942973.3,850859.5,54633.15,Slickwater,Natural Sand,,True,False,False,,True
+bee05fe0-2200-4f8c-bb3c-c5db21ec8abd,4237139504,6/8/2017 6:00:00 AM,6/20/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,5782434,0,5.311336E+07,4.816768E+07,1961058,Linear,Natural Sand,,True,False,True,,True
+b9f5ffdb-7f97-4fa6-8c1e-ca38dda70928,4237139438,12/27/2016 12:00:00 AM,1/13/2017 12:00:00 AM,Crimson Exploration Oper. Inc.,C&J Well Services,,3.492342E+07,0,3.180438E+08,2.909121E+08,0,Linear,Natural Sand,,True,False,True," ",True
+0c816a87-be20-425f-b1b6-cc8bbbf1b7dc,4237139372,12/14/2016 12:00:00 AM,12/14/2016 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,125160,0,775576.9,720361.8,54450,Slickwater,Natural Sand,,True,False,False,,False
+a74b2028-da31-4f86-bd9b-cdedffbabe7d,4237139539,8/1/2017 12:00:00 AM,8/10/2017 12:00:00 AM,Teakwood Operating LLC,Liberty Oilfield Services,,9635531,0,9.002275E+07,8.026398E+07,2465.04,Crosslink,Natural Sand,,True,False,True,Quaternary Ammonium Compound,True
+1eb8a457-8d5e-43ce-a08a-ce3253a829ae,4237139395,11/21/2016 12:00:00 AM,11/21/2016 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,31374,0,316739.6,261345.4,54450,Slickwater,Natural Sand,,True,False,False,,False
+afa6225c-4a38-4359-a35c-cf149413f12d,4237139418,2/22/2017 6:00:00 AM,3/21/2017 5:00:00 AM,"Parsley Energy Operations, LLC",Schlumberger,,2.793384E+07,0,2.619102E+08,2.326888E+08,26.19102,Crosslink,Natural Sand,,True,False,True,,True
+d5dde7d9-1e43-40e6-9f58-d199764bfd87,4237139499,6/18/2017 2:11:00 AM,7/19/2017 3:11:00 PM,"Halcón Operating Co., Inc.",Keane,,4.240828E+07,0,3.648723E+08,3.538971E+08,9651338,Slickwater,Natural Sand,,True,False,False,,True
+785ea26c-4b03-49fc-a381-d8c3dd5dc9de,4237139399,9/30/2016 5:00:00 AM,10/20/2016 5:00:00 AM,"Brigham Resources Operating, LLC",TegraExcel,,3.458284E+07,,3.128092E+08,2.88075E+08,0,Linear,Natural Sand,,True,False,True," ",True
+bb154c31-00bc-4f99-ac79-ee60c058eb03,4237139286,8/1/2016 5:00:00 AM,8/16/2016 5:00:00 AM,"Brigham Resources Operating, LLC",Schlumberger,,2.499762E+07,0,2.209704E+08,2.082302E+08,0,Linear,Natural Sand,,True,False,True,,True
+3b502230-5986-4d17-824b-f5c9a403869c,4237139385,11/12/2016 6:00:00 AM,11/12/2016 6:00:00 AM,Occidental Oil and Gas,Halliburton,,3.685502E+07,0,3.097102E+08,3.070013E+08,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+9cef4484-fc12-49b4-9464-f67014fb2ff7,4237139303,12/16/2016 6:00:00 AM,12/16/2016 6:00:00 AM,"MLC Operating, LP",Ace Completions,,117671,11269,1219620,980199.4,225755,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,False
+345b6913-e29d-4cf4-8f4e-f804db4ba00c,4237139259,8/21/2016 5:00:00 AM,8/30/2016 5:00:00 AM,"Samson Exploration, LLC",Halliburton,,1.656661E+07,0,7.661689E+07,6.532625E+07,0,Slickwater,Natural Sand,,True,False,True,Sodium chloride,True
+1174f5a2-559d-4f74-86cb-ff6ba231916c,4237139415,9/19/2016 5:00:00 AM,10/10/2016 5:00:00 AM,"Brigham Resources Operating, LLC",WFT,,3.392994E+07,0,3.070102E+08,2.826364E+08,2.394332E+07,Linear,Natural Sand,Borate Based,True,False,False,,True
+ba7d43ab-a15f-45b8-bd5f-90c479f3fb33,4237139383,,,,,,,,,,,,,,False,False,False,,False
+b2641696-010d-43c7-9676-1b1b7da2241c,4237139502,5/14/2017 5:00:00 AM,5/27/2017 5:00:00 AM,Periscope Operating LLC,Python,,2.074464E+07,0,1.971488E+08,1.73114E+08,2.1617E+07,,Natural Sand,,True,False,False,,True
+7b88a92e-aa25-4b8b-9d97-a17d84afaf3d,4237139509,7/8/2017 6:00:00 AM,7/19/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,1.895338E+07,0,1.881878E+08,1.578817E+08,1.404206E+07,Linear,Natural Sand,,True,False,False,,True
+f21fb939-9fc8-4ebd-a3e4-ce650a37db06,4237139486,5/9/2017 6:00:00 AM,5/18/2017 6:00:00 AM,Jagged Peak Energy,FTSI,,1.268316E+07,116623,1.057776E+08,1.057776E+08,5173.61,Linear,Natural Sand,,True,False,True,,True
+81087ed8-1bb1-433b-b3e6-9861545cf7bc,4237139507,7/25/2017 6:00:00 AM,8/16/2017 6:00:00 AM,Jagged Peak Energy,Keane,,2.322942E+07,0,2.104342E+08,1.93501E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+7ccd0fcb-06b7-4370-90b5-38014b42ba17,4237139501,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+859f2b88-e7a8-4caf-ae8d-39dd8ee438fa,4237139538,9/4/2017 12:00:00 AM,9/7/2017 12:00:00 AM,Occidental Oil and Gas,C&J Well Services,,3582516,0,3.592242E+07,2.984236E+07,0,Linear,Natural Sand,,True,False,True," ",True
+17486d4e-3fa2-484b-9fd6-424e4d38c0fc,4237139556,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+96b9a10c-31c0-4c5e-bc0a-507f464e8e01,4237139544,8/29/2017 12:00:00 AM,9/15/2017 12:00:00 AM,"PRI Operating, LLC",Schlumberger,,2.884617E+07,0,2.607927E+08,2.402886E+08,0,Linear,Natural Sand,,True,False,True,"Amines, dicoco alkylmethyl",True
+06beed7d-6266-46aa-8795-59edd3cbb749,4237139527,9/8/2017 5:00:00 AM,9/26/2017 5:00:00 AM,Occidental Oil and Gas,Schlumberger,,2.577283E+07,0,2.349001E+08,2.146877E+08,281.8801,Linear,Natural Sand,,True,False,True,poly(tetrafluoroethylene),True
+039cc511-60d6-4e90-b444-d350adb24a56,4237139459,,,,,,,,,,,,,,False,False,False,,False
+9d4d538d-634c-4a20-bb05-ff6f30ee9a4a,4237139526,9/8/2017 5:00:00 AM,9/26/2017 5:00:00 AM,Occidental Oil and Gas,Schlumberger,,2.306885E+07,0,2.092719E+08,1.921636E+08,460.3981,Linear,Natural Sand,,True,False,True,poly(tetrafluoroethylene),True
+646846ad-03a1-4b45-a085-6b4a69db820e,4237139585,11/7/2017 7:00:00 AM,11/14/2017 7:00:00 AM,Jagged Peak Energy,Flotek Chemistry,,9367134,0,147440.6,7.802822E+07,0,Slickwater,Natural Sand,,True,False,False,,True
+74879768-6f72-4849-9d66-72d60018b7fa,4237139546,11/20/2017 6:00:00 AM,11/20/2017 6:00:00 AM,"FLAMINGO OPERATING, LLC",ACE Completions,,75276,7254,754034.6,627049.1,100697.6,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+9c50e2d0-59d7-4379-8ccd-d800d0e8afcc,4237139398,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+23bc96fc-445e-4450-9dce-aa522b03eeeb,4237139425,,,,,,,,,,,,,,False,False,False,,False
+5bcfa4f1-7016-4c04-acb5-a891d8c15403,4237139581,,,,,,,,,,,,,,False,False,False,,False
+491897a1-0f85-4cca-a0c5-391095bc438c,4237139654,4/12/2018 5:00:00 AM,5/9/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,3.13249E+07,144648,2.612497E+08,2.612497E+08,0,Slickwater,Natural Sand,,True,False,True,,True
+7385e309-b637-428e-8461-1f5a560c16a6,4237139599,5/25/2018 5:00:00 AM,6/19/2018 5:00:00 AM,Diamondback E&P LLC,Halliburton,,2.218348E+07,0,2.036493E+08,1.850096E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+904e290e-0c19-4386-b016-045c8351162f,4237139661,4/7/2018 5:00:00 AM,4/24/2018 5:00:00 AM,Diamondback E&P LLC,Halliburton,,2.557226E+07,0,2.355976E+08,2.173634E+08,0,Linear,Natural Sand,,True,False,False,,True
+6f081d6e-737a-4c4b-8809-1678151cee9f,4237139655,4/12/2018 5:00:00 AM,5/9/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,3.458713E+07,154346,2.884566E+08,2.884566E+08,2136.281,Slickwater,Natural Sand,,True,False,True,,True
+06486986-5077-4100-84e2-ccb188160d16,4237139662,4/6/2018 5:00:00 AM,4/25/2018 5:00:00 AM,Diamondback E&P LLC,Halliburton,,2.481844E+07,0,2.302241E+08,2.12197E+08,0,Linear,Natural Sand,,True,False,False,,True
+4f91ce2b-980a-4ec4-b0ba-81d3dd16e899,4237139675,3/23/2018 5:00:00 AM,4/6/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,2.672716E+07,128242,2.229045E+08,2.229045E+08,1757.987,Slickwater,Natural Sand,,True,False,True,,True
+190c8684-d4fd-442f-bb7f-744bc971f737,4237139646,7/1/2018 6:10:00 PM,7/15/2018 1:20:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.1282E+07,0,1.970521E+08,1.772791E+08,70857.02,Linear,Natural Sand,,False,False,False,,True
+92827b0a-71ef-492e-b162-39458ae812ce,4237139659,5/17/2018 5:00:00 AM,6/2/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,3.226511E+07,175399,2.69091E+08,2.69091E+08,4338.607,Slickwater,Natural Sand,,True,False,True,,True
+5141d8fd-13f3-4ad3-9b31-95c3e9fee705,4237139589,10/6/2017 6:00:00 AM,10/27/2017 6:00:00 AM,Jagged Peak Energy,C&J Energy Services,,3.373826E+07,0,2.841862E+08,2.810397E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+94f96528-65f7-4c2b-b999-ae7e644f9e55,4237139201,,,,,,,,,,,,,,False,False,False,,False
+5bcfa4f1-7016-4c04-acb5-a891d8c15403,4237139581,1/19/2018 6:00:00 AM,3/9/2018 6:00:00 AM,Diamondback E&P LLC,Halliburton,,3.421579E+07,0,3.14064E+08,2.850166E+08,0,Linear,Natural Sand,,True,False,False,,True
+dd2cd6ef-e249-4695-95c2-e8c5409e33ff,4237139620,2/26/2018 12:00:00 AM,2/26/2018 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,115248,0,1062553,960015.8,87685.29,Slickwater,Natural Sand,,True,False,False,,True
+dfa2ef8d-a798-42b2-8a8e-e10d900e0d60,4237139579,9/7/2017 5:00:00 AM,9/7/2017 5:00:00 AM,"P.O.&G. Operating, LLC",CHEMPLEX,,78812,0,787737.1,656503.9,101280.2,Crosslink,Natural Sand,,True,False,True,WATER,True
+e1985840-69c1-4e1c-9c85-73b62aab86a4,4237139534,2/16/2018 2:27:00 PM,3/2/2018 1:46:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.519539E+07,0,2.355883E+08,2.098776E+08,1298768,Linear,Natural Sand,,False,False,False,,False
+5bcfa4f1-7016-4c04-acb5-a891d8c15403,4237139581,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+255cbc3c-1692-4236-9c77-0e2a4ee656da,4237139603,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+650ce62d-4787-48fa-9582-04a7b910e092,4237139532,9/7/2017 12:00:00 AM,9/14/2017 12:00:00 AM,"Forge Energy, LLC",C&J Energy Services,,1.134065E+07,0,1.069215E+08,9.446761E+07,0,Linear,Natural Sand,,True,False,True,,True
+dabfbd93-eec9-412d-879d-04e886ca554a,4237139411,5/17/2017 8:53:00 AM,5/18/2017 8:30:00 PM,"Pearl Resources Operating Co., LLC",Chemplex,,445284,0,4773710,3715895,1001160,Crosslink,Natural Sand,,True,False,True,Water,True
+0d0e55ca-5c8d-49a1-9dcc-22f93009aadd,4237139569,10/9/2017 5:00:00 AM,10/21/2017 12:00:00 AM,Occidental Oil and Gas,Schlumberger,,2.873557E+07,0,2.580896E+08,2.393673E+08,490.3703,Linear,Natural Sand,,True,False,True,poly(tetrafluoroethylene),True
+5d0ab6a4-2cba-414f-a63c-3091999fdc1f,4237139555,11/20/2017 6:00:00 AM,11/20/2017 6:00:00 AM,"FLAMINGO OPERATING, LLC",ACE Completions,,72072,7182,726916.2,600359.8,101533.6,Crosslink,Natural Sand,,True,False,True,Sodium Chloride,True
+17486d4e-3fa2-484b-9fd6-424e4d38c0fc,4237139556,7/21/2017 6:00:00 AM,8/19/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,3.138462E+07,0,3.020265E+08,2.614339E+08,1.699062E+07,Linear,Natural Sand,,True,False,True,Sodium Chloride,True
+039cc511-60d6-4e90-b444-d350adb24a56,4237139459,,,,,,,,,,,,,,False,False,False,,False
+81087ed8-1bb1-433b-b3e6-9861545cf7bc,4237139507,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+80cc0e70-c967-4276-ab85-52e7dc4cd6fb,4237139533,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+77fa0723-8c5c-495e-83b4-7299304b1ad0,4237139549,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+19173306-ba16-416c-9cfb-47ca16a9193d,4237139497,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ba7d43ab-a15f-45b8-bd5f-90c479f3fb33,4237139383,,,,,,,,,,,,,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+4aea60ac-8eb3-494b-b2ea-e53fea541582,4237139591,,,,,,,,,,,,,,False,False,False,,False
+9b8112e9-217b-4c1d-9329-4c42dcedf676,4237139542,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+087dea65-bdd1-4c45-87e7-036f08389946,4237139403,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+7b88a92e-aa25-4b8b-9d97-a17d84afaf3d,4237139509,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+5b72c48c-1126-4f2b-8b13-ca4192c363dd,4237139525,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+12dac83e-6b52-47a4-9947-a5914752728e,4237139552,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+863b72b1-503b-4df0-95c9-3c684a562347,4237139435,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+635f86b0-7cf6-4abf-bdfd-da66a7412abd,4237139529,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+aed05b5a-4784-4bc1-8805-0cf2c6981391,4237139481,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+b73e6817-69d2-47e6-95d8-6fe776e882ca,4237139553,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+d9f4fc99-6d26-4caa-8243-8d022f43604d,4237139521,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+af525099-0373-4daf-bcd5-421f52cf8731,4237139528,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+99eb975e-11e9-4c2f-87a7-8e10aa01e0dc,4237139450,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1e0b4ddc-5db5-4747-b1a6-ea6007c3199b,4237139524,,,,,,,,,,,,,,False,False,False,,False
+21d0633b-5f5b-4b3f-8566-3609751f595e,4237139613,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+8de9ed85-78ef-4501-92ec-83adff1d5172,4237139485,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+dd2cd6ef-e249-4695-95c2-e8c5409e33ff,4237139620,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+646846ad-03a1-4b45-a085-6b4a69db820e,4237139585,11/7/2017 7:00:00 AM,11/14/2017 7:00:00 AM,Jagged Peak Energy,C&J Energy Services,,9367134,0,8.462244E+07,7.802822E+07,0,Slickwater,Natural Sand,,True,False,False,,True
+18f42abf-002e-4fa7-b9be-c9ec50de7dac,4237139307,5/10/2015 5:00:00 AM,5/12/2015 5:00:00 AM,Occidental Oil and Gas,Blue Ribbon Technology,,736680,0,6791285,6057925,639020,Slickwater,Natural Sand,,True,False,True,Choline Chloride,True
+4aea60ac-8eb3-494b-b2ea-e53fea541582,4237139591,,,,,,,,,,,,,,False,False,False,,False
+7ccd0fcb-06b7-4370-90b5-38014b42ba17,4237139501,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+223167e8-cb1f-439c-b291-aa4022ea400c,4237139500,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+dd2cd6ef-e249-4695-95c2-e8c5409e33ff,4237139620,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+087dea65-bdd1-4c45-87e7-036f08389946,4237139403,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+948993fc-69d0-4f87-9a94-f3164d5c35db,4237139298,7/4/2015 12:00:00 AM,7/4/2015 12:00:00 AM,Jagged Peak Energy,Halliburton,,4618246,0,4.218579E+07,3.883932E+07,0,Crosslink,Natural Sand,,True,False,True,Sodium chloride,True
+72d868a8-f669-4969-a6b8-20c020e5ad3d,4237139255,11/10/2014 9:25:00 AM,11/10/2014 7:27:00 PM,J CLEO THOMPSON,"Chemplex, L.C.",,387335,35563,3883851,3226501,559484.2,Crosslink,Natural Sand,,False,False,False,,True
+9ceea3a8-b118-40f6-a16c-debc069069f7,4237139475,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+4ea51839-6a19-429d-91b0-5623b7c81398,4237139650,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+5141d8fd-13f3-4ad3-9b31-95c3e9fee705,4237139589,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+dfa2ef8d-a798-42b2-8a8e-e10d900e0d60,4237139579,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e07560e6-431d-4e89-b278-531b92d05681,4237139583,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+635f86b0-7cf6-4abf-bdfd-da66a7412abd,4237139529,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+af525099-0373-4daf-bcd5-421f52cf8731,4237139528,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+5bcfa4f1-7016-4c04-acb5-a891d8c15403,4237139581,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+80cc0e70-c967-4276-ab85-52e7dc4cd6fb,4237139533,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+bee05fe0-2200-4f8c-bb3c-c5db21ec8abd,4237139504,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+b73e6817-69d2-47e6-95d8-6fe776e882ca,4237139553,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0d0e55ca-5c8d-49a1-9dcc-22f93009aadd,4237139569,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a65122bc-9830-4e59-a38a-5d79aa6c984d,4237139582,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+aed05b5a-4784-4bc1-8805-0cf2c6981391,4237139481,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+dfa2ef8d-a798-42b2-8a8e-e10d900e0d60,4237139579,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+583d9aed-7574-46c5-81ca-dd6da815338c,4237139626,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+167b05f7-3759-4b72-bd21-80b2734ffc60,4237139605,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+22846f14-29f4-4107-bdb5-27d4e7ad8da4,4237139508,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+12dac83e-6b52-47a4-9947-a5914752728e,4237139552,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+51040c16-bf3b-4ffa-83ec-14fcb147317d,4237139009,,,,,,,,,,,,,,False,False,False,,False
+635f86b0-7cf6-4abf-bdfd-da66a7412abd,4237139529,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+8fdd724f-9449-4f06-9681-d02bb36f08a7,4237139049,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+650ce62d-4787-48fa-9582-04a7b910e092,4237139532,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+499619a3-8497-4fda-8b49-b84a52b7585b,4237139087,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0cea822b-3552-4f3e-93ee-34d2dfa7266a,4237139203,,,,,,,,,,,,,,False,False,False,,False
+6a331484-25e2-4a4b-88fa-0c27c7c5554c,4237139221,,,,,,,,,,,,,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c7cef78c-8711-444b-86c0-0d934c7e3a24,4237139279,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0cea822b-3552-4f3e-93ee-34d2dfa7266a,4237139203,,,,,,,,,,,,,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a42b0eb4-eb8e-48a4-aa68-3babc2cabdf0,4237139344,,,,,,,,,,,,,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+eae702ee-aa97-4778-96de-9fe6e87c9326,4237138956,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+eae702ee-aa97-4778-96de-9fe6e87c9326,4237138956,,,,,,,,,,,,,,False,False,False,,False
+cd08085f-6e5b-488b-8894-8a73d73a947b,4237139126,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1e96283e-053a-4be1-ae04-58e809084d94,4237139280,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0cea822b-3552-4f3e-93ee-34d2dfa7266a,4237139203,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+51040c16-bf3b-4ffa-83ec-14fcb147317d,4237139009,,,,,,,,,,,,,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0d31fa71-7614-4ca0-b062-246ab4f1aa06,4237139226,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9219aa6f-3600-4a2b-ac3a-4c2b92a14e37,4237132881,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+b265863b-56ca-422c-8cfb-231d6215feda,4237139156,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+abbacd71-1d6a-4af0-8186-0c5f11dbd98f,4237139248,,,,,,,,,,,,,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+cc68ef6a-b3f1-42d7-9d1a-f4ff880ae754,4237139238,,,,,,,,,,,,,,False,False,False,,False
+822821de-2291-4cbf-b57d-e9a9da3bfdf2,4237135104,,,,,,,,,,,,,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1b7c088c-08fb-4709-a088-a958deac549f,4237132959,,,,,,,,,,,,,,False,False,False,,False
+abbacd71-1d6a-4af0-8186-0c5f11dbd98f,4237139248,,,,,,,,,,,,,,False,False,False,,False
+68101fc6-ad0c-4edc-89b0-53f450f55cee,4237103037,,,,,,,,,,,,,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+af516a73-c75b-4865-bbd1-35bb2c623d7e,4237138804,,,,,,,,,,,,,,False,False,False,,False
+e4f9ffe4-7490-4b0f-bb3f-b72d4660044f,4237139339,,,,,,,,,,,,,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+48edaac9-eed8-44cd-bc25-5262c0a2388b,4237138871,,,,,,,,,,,,,,False,False,False,,False
+0cea822b-3552-4f3e-93ee-34d2dfa7266a,4237139203,,,,,,,,,,,,,,False,False,False,,False
+69104fd1-1d71-47a7-aa62-a8fc2e393a82,4237134400,,,,,,,,,,,,,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3e6b086c-d19a-44b8-8b63-b28aa7355d71,4237139193,,,,,,,,,,,,,,False,False,False,,False
+78279b84-13d3-4507-9e29-0fab37f04366,4237139158,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+264008fb-f325-493c-a624-7b1039c29801,4237139223,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a4a6b3b5-5e70-4a0d-8726-d6b728a7eb69,4237139061,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+11545444-beb0-4b80-a396-dc0bf0aea886,4237139059,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3eafda1c-93c6-4ac3-bf82-912f96ca5600,4237139134,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+5a1f2f3c-a59c-4af1-8316-6ab0877cf995,4237137715,,,,,,,,,,,,,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c7cbc066-d34f-4aec-8db6-d6aba962be94,4237139152,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+223167e8-cb1f-439c-b291-aa4022ea400c,4237139500,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+17e6bb97-ec0a-4f8e-88d2-e727dbaeada8,4237139211,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0adbb8d9-d4ab-42cb-8c67-df67a1f78f6e,4237139357,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+bda21941-2555-4549-8c1b-6eac15161832,4237139146,,,,,,,,,,,,,,False,False,False,,False
+cf1249eb-f108-4b1f-8551-17ec012d6366,4237139179,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+39fc5571-4ab8-4f0e-a741-5df8e06ed46f,4237138961,,,,,,,,,,,,,,False,False,False,,False
+8a41f19a-0665-4db8-9cdd-84a768a0df37,4237139249,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+21cb9289-ffb5-4230-95e4-a8f856abb400,4237133191,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e29ca031-75da-47ff-af7f-01d23bd63796,4237139150,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+17e6bb97-ec0a-4f8e-88d2-e727dbaeada8,4237139211,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+00467069-2b98-45e2-88bc-bea65a9408db,4237110933,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+f623101e-60d1-4ec5-9e0f-74768c667d12,4237139206,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+af7de166-8655-4809-aff2-eaa91e9beab4,4237139090,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1565a065-f637-4b1a-9ebe-935df40712c8,4237139314,,,,,,,,,,,,,,False,False,False,,False
+a258a21a-8655-4ec6-adad-ee9e7506f543,4237139143,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e3cccbb2-ae9e-4f24-8367-b29b6a4afdda,4237139151,,,,,,,,,,,,,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ed6c91ab-d74e-459c-8fc0-20f94c94daca,4237139256,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7ccd0fcb-06b7-4370-90b5-38014b42ba17,4237139501,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+6a331484-25e2-4a4b-88fa-0c27c7c5554c,4237139221,,,,,,,,,,,,,,False,False,False,,False
+b2f2c789-02a7-47d9-b3e4-fa94167aa6c5,4237100056,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+396a68c3-deb9-479b-aed3-fb67f4de8c87,4237139213,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+f623101e-60d1-4ec5-9e0f-74768c667d12,4237139206,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a5aa715d-e65c-4695-a34e-2ecf7f58920c,4237139325,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c7cbc066-d34f-4aec-8db6-d6aba962be94,4237139152,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e9721ec4-ce1c-424c-9d7b-c9f26f2197e0,4237139229,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+78e00d08-7b0b-437a-9cc8-25981d6ab290,4237139306,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3e6b086c-d19a-44b8-8b63-b28aa7355d71,4237139193,,,,,,,,,,,,,,False,False,False,,False
+5a1f2f3c-a59c-4af1-8316-6ab0877cf995,4237137715,,,,,,,,,,,,,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+bf9d3ca0-de17-494f-821c-38da3c683a56,4237139449,3/13/2017 5:00:00 AM,3/14/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.039129E+07,0,9.699254E+07,8.655913E+07,0,Linear,Natural Sand,,True,False,True,,True
+5b72c48c-1126-4f2b-8b13-ca4192c363dd,4237139525,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+42ce08a1-f9db-4976-8dbc-6067df852603,4237139251,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+a42b0eb4-eb8e-48a4-aa68-3babc2cabdf0,4237139344,,,,,,,,,,,,,,False,False,False,,False
+4242947b-f320-462c-a13c-89ba4c515715,4237133539,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+dfd3734e-5f00-4ec3-ad11-0d2cb94e185e,4237139197,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3fb7cc95-d875-41a5-8100-c7a1b402da28,4237139080,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+7f956f3d-10bf-4fc2-a627-7181cb0a8410,4237139453,,,,,,,,,,,,,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+cdff5fdc-54aa-42c0-b72e-21db232ede3d,4237138774,,,,,,,,,,,,,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+9ceea3a8-b118-40f6-a16c-debc069069f7,4237139475,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7796f1a5-ba14-4df7-ad2b-0ee458403ec8,4237139494,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3e184acd-990b-47f5-a727-e489777abb0f,4237139302,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+01e02172-b587-41da-8a6b-530cc6a65135,4237139562,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+6a331484-25e2-4a4b-88fa-0c27c7c5554c,4237139221,,,,,,,,,,,,,,False,False,False,,False
+0e4fb660-a34b-476f-8178-459392f9f021,4237139266,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+50c7f45c-5a24-4a50-9458-b8a9110ac347,4237138881,,,,,,,,,,,,,,False,False,False,,False
+a0fcfe0d-f992-4c87-9c40-6391847a142e,4237139108,,,,,,,,,,,,,,False,False,False,,False
+54a7511e-032f-4616-9786-93d4c6037036,4237139342,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+1056d361-8667-4347-8756-3890e8738a0f,4237139166,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+e404dc0a-dc4f-4be7-b2f4-e949827c0ff3,4237139185,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+cd08085f-6e5b-488b-8894-8a73d73a947b,4237139126,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+09ad1bab-cfb8-41e6-a209-58340a1d1551,4237139168,,,,,,,,,,,,,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+07c2bec7-bbcc-4ee2-80dc-98b4e742c49b,4237138953,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ae382062-31e4-4e85-8708-74c090aa9de7,4237139570,,,,,,,,,,,,,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+b265863b-56ca-422c-8cfb-231d6215feda,4237139156,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+13ca2ea3-ba7e-42a3-b09a-555d6f618eda,4237139353,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+1ac0a578-6da0-4c19-80ee-7fb71495f081,4237139451,,,,,,,,,,,,,,False,False,False,,False
+450479ed-b234-4650-b1ae-483ae3a84b40,4237135193,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9dbedbc4-3248-4541-af78-52b1560f0370,4237139601,,,,,,,,,,,,,,False,False,False,,False
+5ae21b8f-67bb-445e-8534-c33c4af957fb,4237139200,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+54a8e07c-76eb-42d0-bf52-d7381e1f590b,4237139133,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c0fd0f1a-fed9-4863-9baa-ab4fe02effc2,4237138984,,,,,,,,,,,,,,False,False,False,,False
+b71df8a0-79d5-4686-bc54-f90338fcfff7,4237139235,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7a452a6d-fac3-4064-b031-bfdcb0ae24bd,4237133064,,,,,,,,,,,,,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ee16b1ee-b037-48c6-8db9-e0e0a0f32ca7,4237139005,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9352fee7-21c2-4721-8a5c-6444f0467044,4237139236,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+904e290e-0c19-4386-b016-045c8351162f,4237139661,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+6f081d6e-737a-4c4b-8809-1678151cee9f,4237139655,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+4f91ce2b-980a-4ec4-b0ba-81d3dd16e899,4237139675,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+0cea822b-3552-4f3e-93ee-34d2dfa7266a,4237139203,,,,,,,,,,,,,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+cc6499c4-5254-4f5a-90a2-0815bfa8841d,4237139125,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+af516a73-c75b-4865-bbd1-35bb2c623d7e,4237138804,,,,,,,,,,,,,,False,False,False,,False
+d225de0d-b844-4626-ab62-85bd181e3ee4,4237110279,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+3fb7cc95-d875-41a5-8100-c7a1b402da28,4237139080,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ca24275b-6a2e-40b2-9ad6-2d9e353a170d,4237139202,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+f0afe752-ba4b-43c5-a91c-434518c1d378,4237139062,,,,,,,,,,,,,,False,False,False,,False
+3fb7cc95-d875-41a5-8100-c7a1b402da28,4237139080,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+841a82cb-5921-47e8-8230-7b3e07ef6bea,4237139120,,,,,,,,,,,,,,False,False,False,,False
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+b71df8a0-79d5-4686-bc54-f90338fcfff7,4237139235,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+07b88cd0-9fa4-4326-978b-27a8d0be8697,4237138837,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+eb7940b5-1532-4cf0-947a-57bc76491db6,4237138999,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1b7c088c-08fb-4709-a088-a958deac549f,4237132959,,,,,,,,,,,,,,False,False,False,,False
+b8e68783-2023-4645-894d-7f6c6c6a90f2,4237139315,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1056d361-8667-4347-8756-3890e8738a0f,4237139166,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+50c7f45c-5a24-4a50-9458-b8a9110ac347,4237138881,,,,,,,,,,,,,,False,False,False,,False
+063128ba-1385-4a01-be4d-8efdaf54fe3c,4237139210,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+087dea65-bdd1-4c45-87e7-036f08389946,4237139403,4/22/2017 5:00:00 AM,4/30/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.690144E+07,0,1.579836E+08,1.407885E+08,0,Linear,Natural Sand,,True,False,True,,True
+863b72b1-503b-4df0-95c9-3c684a562347,4237139435,5/17/2017 5:00:00 AM,5/22/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.07016E+07,0,9.920279E+07,8.914404E+07,0,Linear,Natural Sand,,True,False,True,,False
+22846f14-29f4-4107-bdb5-27d4e7ad8da4,4237139508,10/17/2017 6:00:00 AM,11/4/2017 6:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.562866E+07,0,2.37842E+08,2.134868E+08,2.137117E+07,Linear,Natural Sand,,False,False,False,,True
+30b53b99-c411-4ccd-9e8c-1c12a1abe7a7,4237139602,2/21/2018 6:00:00 AM,3/19/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,2.477572E+07,158686,2.066295E+08,2.066295E+08,3582.501,Slickwater,Natural Sand,,True,False,True,,True
+f61d6bb2-95d5-47f2-82ba-f7a563c2cf4b,4237139656,4/25/2018 5:00:00 AM,5/14/2018 5:00:00 AM,XTO Energy/ExxonMobil,Solnexus,,2.637802E+07,0,2.458977E+08,2.201245E+08,2.494686E+07,Linear,Natural Sand,,True,False,False,,True
+520fc0e9-2a5b-409c-b02d-9763ec161942,4237139222,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a5c24824-0c7d-4be4-8adc-0e8ce0c2e4c6,4237139487,1/25/2018 12:00:00 AM,2/19/2018 12:00:00 AM,"Parsley Energy Operations, LLC",Solnexus,,2.111466E+07,0,1.995244E+08,1.762018E+08,2.213575E+07,Crosslink,Natural Sand,,True,False,False,,True
+10ccd82b-8d95-4d5b-b9b0-11d7b67e520b,4237138946,4/16/2018 12:00:00 AM,4/16/2018 12:00:00 AM,"Jilpetco, Inc.",Listed Above,,72366,0,652475.1,602808.8,46840.86,Slickwater,Natural Sand,,True,False,False,,False
+156253cd-d62e-4ce8-a1ee-a82c271f315e,4237139520,2/3/2018 7:00:00 AM,2/19/2018 7:00:00 AM,Jagged Peak Energy,BJ Services,,2.360314E+07,0,2.276256E+08,1.966142E+08,1.436357E+07,Linear,Natural Sand,,True,False,False,,True
+597dba53-e318-4840-b929-5ef89d997acc,4237139653,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+a65122bc-9830-4e59-a38a-5d79aa6c984d,4237139582,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+b73e6817-69d2-47e6-95d8-6fe776e882ca,4237139553,7/24/2017 5:00:00 AM,8/16/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.698398E+07,0,1.60413E+08,1.414761E+08,0,Linear,Natural Sand,,True,False,True,,True
+1e0b4ddc-5db5-4747-b1a6-ea6007c3199b,4237139524,,,,,,,,,,,,,,False,False,False,,False
+06486986-5077-4100-84e2-ccb188160d16,4237139662,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+18a69bf2-f87b-4f76-9f19-ca2674e817da,4237139600,10/19/2017 6:00:00 AM,11/5/2017 6:00:00 AM,Jagged Peak Energy,Keane,,1.548876E+07,0,1.403516E+08,1.290214E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+3515340c-4733-4836-a594-5d8a5d5aea3b,4237139588,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+99eb975e-11e9-4c2f-87a7-8e10aa01e0dc,4237139450,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9f8bb24c-83b6-4e90-a991-90ad020d0387,4237139440,,,,,,,,,,,,,,False,False,False,,False
+99eb975e-11e9-4c2f-87a7-8e10aa01e0dc,4237139450,3/9/2017 6:00:00 AM,3/22/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.416444E+07,0,1.302251E+08,1.18131E+08,0,Linear,Natural Sand,,True,False,True,,True
+cf4e080a-cb84-453a-ab25-d0e1fce3b19f,4237139598,5/24/2018 5:00:00 AM,6/19/2018 5:00:00 AM,Diamondback E&P LLC,Halliburton,,2.076758E+07,0,1.901839E+08,1.732011E+08,0,Slickwater,Natural Sand,,True,False,False,,False
+597dba53-e318-4840-b929-5ef89d997acc,4237139653,3/15/2018 5:00:00 AM,4/3/2018 5:00:00 AM,Diamondback E&P LLC,Halliburton,,3.369026E+07,0,3.139202E+08,2.877139E+08,0,Linear,Natural Sand,,True,False,False,,True
+cf4e080a-cb84-453a-ab25-d0e1fce3b19f,4237139598,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+8de9ed85-78ef-4501-92ec-83adff1d5172,4237139485,6/2/2017 5:00:00 AM,6/24/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.844098E+07,0,1.750097E+08,1.536129E+08,0,Linear,Natural Sand,,True,False,True,,True
+7ccd0fcb-06b7-4370-90b5-38014b42ba17,4237139501,7/26/2017 12:00:00 AM,8/4/2017 12:00:00 AM,Occidental Oil and Gas,C&J Well Services,,4602822,0,4.502442E+07,3.834151E+07,0,Linear,Natural Sand,,True,False,True," ",True
+f99a4b98-434a-4a89-9865-200ba74c7151,4237139666,4/7/2018 9:04:00 PM,4/21/2018 3:29:00 PM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.360649E+07,0,2.211791E+08,1.96642E+08,1278246,Linear,Natural Sand,,False,False,False,,True
+af525099-0373-4daf-bcd5-421f52cf8731,4237139528,8/15/2017 5:00:00 AM,9/6/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,2.05521E+07,0,1.926253E+08,1.714039E+08,0,Linear,Natural Sand,,True,False,True,,True
+84533a70-28cb-466f-8d22-07869272eaa2,4237139492,3/28/2018 5:00:00 AM,4/1/2018 5:00:00 AM,Teakwood Operating LLC,Halliburton,,5454639,0,5.086921E+07,4.554608E+07,0,Crosslink,Natural Sand,,True,False,True,,True
+03121c08-8cf0-4b79-9a13-6889878a701f,4237139367,1/12/2016 6:00:00 AM,1/18/2016 6:00:00 AM,Manti Tarka Permian,Chemplex,,9706032,0,8.908094E+07,8.085125E+07,0,Slickwater,Natural Sand,,True,False,True," ",True
+21d0633b-5f5b-4b3f-8566-3609751f595e,4237139613,1/6/2018 4:54:00 AM,1/21/2018 7:37:00 AM,Crimson Exploration Oper. Inc.,Finoric LLC,,2.587774E+07,1132880,2.393418E+08,2.155616E+08,2.236191E+07,Linear,Natural Sand,,True,False,True,Choline Chloride,True
+635f86b0-7cf6-4abf-bdfd-da66a7412abd,4237139529,10/30/2017 5:00:00 AM,12/6/2017 6:00:00 AM,Diamondback E&P LLC,Halliburton,,2.793639E+07,0,2.68004E+08,2.327094E+08,0,Linear,Natural Sand,,True,False,True,,True
+5b72c48c-1126-4f2b-8b13-ca4192c363dd,4237139525,10/30/2017 5:00:00 AM,12/10/2017 6:00:00 AM,Diamondback E&P LLC,Halliburton,,3.984007E+07,0,3.601562E+08,3.318667E+08,0,Linear,Natural Sand,,True,False,True,,True
+4ea51839-6a19-429d-91b0-5623b7c81398,4237139650,2/14/2018 12:00:00 AM,3/1/2018 12:00:00 AM,"PRI Operating, LLC",Schlumberger,,2.220706E+07,0,2.019087E+08,1.849848E+08,0,Linear,Natural Sand,,True,False,False,,False
+afda7e40-f2de-46db-b305-4262f43fc36b,4237139665,4/6/2018 8:53:00 PM,4/17/2018 3:27:00 PM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,1.638E+07,0,1.54674E+08,1.364454E+08,920824.8,Linear,Natural Sand,,False,False,False,,True
+4ea51839-6a19-429d-91b0-5623b7c81398,4237139650,2/14/2018 12:00:00 AM,3/1/2018 12:00:00 AM,"PRI Operating, LLC",Schlumberger,,2.220706E+07,0,2.019085E+08,1.849848E+08,0,Linear,Natural Sand,,True,False,False,,False
+1ac3f2e5-473f-4cf5-a6ed-64954212bb7a,4237139551,4/17/2018 5:00:00 AM,5/5/2018 5:00:00 AM,Gordy Oil Company,Finoric LLC,,3.04077E+07,1131151,2.766653E+08,2.532961E+08,2.117897E+07,Slickwater,Natural Sand,,True,False,True,Water,True
+19173306-ba16-416c-9cfb-47ca16a9193d,4237139497,9/26/2017 6:00:00 AM,10/9/2017 6:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.405165E+07,0,2.240152E+08,2.003503E+08,1442280,Linear,Natural Sand,,False,False,False,,True
+b01a6ad3-aeba-422b-8bb4-a3474a608d7c,4237139639,4/24/2018 2:50:00 AM,5/3/2018 4:09:00 PM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,1.9766E+07,0,1.857825E+08,1.646508E+08,1102325,Linear,Natural Sand,,False,False,False,,True
+01e02172-b587-41da-8a6b-530cc6a65135,4237139562,2/5/2018 6:00:00 AM,2/19/2018 6:00:00 AM,Diamondback E&P LLC,FTSI,,2.563709E+07,136509,2.138134E+08,2.138134E+08,2239.076,Slickwater,Natural Sand,,True,False,True,,True
+b1f5c0d8-8a46-406a-a380-bb0045b9213b,4237139625,12/19/2017 7:00:00 AM,12/26/2017 7:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.434317E+07,0,2.272578E+08,2.027786E+08,2339718,Linear,Natural Sand,,False,False,False,,True
+a65122bc-9830-4e59-a38a-5d79aa6c984d,4237139582,12/30/2017 6:00:00 AM,3/10/2018 6:00:00 AM,Diamondback E&P LLC,Halliburton,,3.27062E+07,0,2.995525E+08,2.727688E+08,0,Slickwater,Natural Sand,,True,False,True,,True
+e07560e6-431d-4e89-b278-531b92d05681,4237139583,1/19/2018 6:00:00 AM,3/4/2018 6:00:00 AM,Diamondback E&P LLC,Halliburton,,3.303516E+07,0,3.029298E+08,2.75182E+08,0,Slickwater,Natural Sand,,True,False,False,,True
+255cbc3c-1692-4236-9c77-0e2a4ee656da,4237139603,2/22/2018 6:00:00 AM,3/19/2018 5:00:00 AM,Diamondback E&P LLC,FTSI,,2.496568E+07,153290,2.082138E+08,2.082138E+08,0,Slickwater,Natural Sand,,True,False,True,,True
+c8efa021-3c0d-4657-92eb-8fbf2c0cc5ba,4237139543,11/25/2017 7:00:00 AM,12/9/2017 7:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.439994E+07,0,2.271431E+08,2.032515E+08,2293362,Linear,Natural Sand,,False,False,False,,True
+fba61f8d-053e-4e75-ab1b-180b5304fcbc,4237139676,3/15/2018 4:17:00 PM,4/4/2018 1:02:00 PM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.689208E+07,0,2.486166E+08,2.24011E+08,1104830,Linear,Natural Sand,,False,False,False,,True
+9b8112e9-217b-4c1d-9329-4c42dcedf676,4237139542,11/6/2017 8:20:00 AM,12/1/2017 2:32:00 AM,Crimson Exploration Oper. Inc.,SNF Inc.,,1.002636E+07,1116749,1.066466E+08,8.351954E+07,2.205475E+07,Slickwater,Natural Sand,,False,False,False,,True
+d9f4fc99-6d26-4caa-8243-8d022f43604d,4237139521,9/6/2017 5:00:00 AM,9/7/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.912948E+07,0,1.801157E+08,1.59348E+08,0,Linear,Natural Sand,,True,False,True,,True
+583d9aed-7574-46c5-81ca-dd6da815338c,4237139626,2/15/2018 10:39:00 AM,2/28/2018 3:37:00 PM,Crimson Exploration Oper. Inc.,ACE Completions,,2.390727E+07,1109950,2.228719E+08,1.991475E+08,2.259201E+07,Linear,Natural Sand,,False,False,True,Choline Chloride,True
+12dac83e-6b52-47a4-9947-a5914752728e,4237139552,7/23/2017 5:00:00 AM,8/19/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.888267E+07,0,1.778414E+08,1.572921E+08,0,Linear,Natural Sand,,True,False,True,,True
+167b05f7-3759-4b72-bd21-80b2734ffc60,4237139605,2/8/2018 7:00:00 AM,3/4/2018 7:00:00 AM,Jagged Peak Energy,BJ Services,,2.919932E+07,0,2.841256E+08,2.432304E+08,1.907483E+07,Linear,Natural Sand,,True,False,False,,True
+28bc6657-b868-49d8-9499-a9ca9727f643,4237139688,5/21/2018 12:00:00 AM,6/12/2018 12:00:00 AM,Crimson Exploration Oper. Inc.,Flotek Chemistry,,2.440658E+07,0,15379.24,2.033068E+08,0,Linear,Natural Sand,,False,False,False,,False
+3515340c-4733-4836-a594-5d8a5d5aea3b,4237139588,7/21/2017 6:00:00 AM,8/19/2017 6:00:00 AM,Jagged Peak Energy,BJ Services,,3.134977E+07,0,2.977884E+08,2.611436E+08,1.6305E+07,Slickwater,Natural Sand,,True,False,False,,True
+023e4ac2-6386-40b4-828e-3236e0872278,4237139419,10/17/2016 5:00:00 AM,10/23/2016 5:00:00 AM,Apache Corporation,Listed Above,,720426,0,1.342822E+07,6011955,5721960,Crosslink,Natural Sand,Borate Based,False,False,True,Choline Chloride,True
+80cc0e70-c967-4276-ab85-52e7dc4cd6fb,4237139533,9/13/2017 6:00:00 AM,9/26/2017 6:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,1.991954E+07,0,1.845464E+08,1.659297E+08,3539506,Linear,Natural Sand,,False,False,False,,True
+223167e8-cb1f-439c-b291-aa4022ea400c,4237139500,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+223167e8-cb1f-439c-b291-aa4022ea400c,4237139500,7/26/2017 12:00:00 AM,8/4/2017 5:00:00 AM,Occidental Oil and Gas,C&J Well Services,,4558260,0,4.459879E+07,3.79703E+07,0,Linear,Natural Sand,,True,False,True," ",True
+7ccd0fcb-06b7-4370-90b5-38014b42ba17,4237139501,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+72bddc1c-b0c8-469d-bedd-234204545f4c,4237139596,,,,,,,,,,,,,,False,False,False,,False
+a74b2028-da31-4f86-bd9b-cdedffbabe7d,4237139539,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+d9859941-735b-4ec5-b3db-303fcc307faf,4237139445,,,,,,,,,,,,,,False,False,False,,False
+5f901704-edfd-4657-b8ff-a476f8de6ed3,4237139483,5/20/2017 12:00:00 AM,6/5/2017 12:00:00 AM,"Patriot Resources, Inc.",Schlumberger,,3.346923E+07,0,2.99074E+08,2.787987E+08,0,Linear,Natural Sand,,True,False,False,,True
+06beed7d-6266-46aa-8795-59edd3cbb749,4237139527,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9d4d538d-634c-4a20-bb05-ff6f30ee9a4a,4237139526,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+5b72c48c-1126-4f2b-8b13-ca4192c363dd,4237139525,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+1e0b4ddc-5db5-4747-b1a6-ea6007c3199b,4237139524,,,,,,,,,,,,,,False,False,False,,False
+d9f4fc99-6d26-4caa-8243-8d022f43604d,4237139521,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+499619a3-8497-4fda-8b49-b84a52b7585b,4237139087,,,,,,,,,,,,,,False,False,False,,False
+30b53b99-c411-4ccd-9e8c-1c12a1abe7a7,4237139602,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+156253cd-d62e-4ce8-a1ee-a82c271f315e,4237139520,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e07560e6-431d-4e89-b278-531b92d05681,4237139583,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+491897a1-0f85-4cca-a0c5-391095bc438c,4237139654,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+7385e309-b637-428e-8461-1f5a560c16a6,4237139599,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+fe9a4f3a-07cf-42f7-833d-d144378450ba,4237139439,,,,,,,,,,,,,,False,False,False,,False
+1e8f345f-7b30-434a-88e4-3ab32ea7de45,4237139663,5/21/2018 12:00:00 AM,6/12/2018 12:00:00 AM,Crimson Exploration Oper. Inc.,C&J Energy Services,,2.557573E+07,0,2.142359E+08,2.130458E+08,0,Linear,Natural Sand,,True,False,True,,True
+aed05b5a-4784-4bc1-8805-0cf2c6981391,4237139481,6/2/2017 5:00:00 AM,6/24/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.822218E+07,0,1.731358E+08,1.517902E+08,0,Linear,Natural Sand,,True,False,True,,True
+19173306-ba16-416c-9cfb-47ca16a9193d,4237139497,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+c1e8734d-5c40-4c29-ba75-082f310c83ee,4237139514,12/12/2017 7:00:00 AM,12/26/2017 7:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.36172E+07,0,2.206505E+08,1.967313E+08,2310272,Linear,Natural Sand,,False,False,False,,True
+859f2b88-e7a8-4caf-ae8d-39dd8ee438fa,4237139538,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+ae382062-31e4-4e85-8708-74c090aa9de7,4237139570,,,,,,,,,,,,,,False,False,False,,False
+a069198b-3dce-4b5e-ae34-f12a8d77f8b1,4237139506,,,,,,,,,,,,,,False,False,False,,False
+5b6f44b5-9503-40c9-b435-30c9b0faee78,4237139505,,,,,,,,,,,,,,False,False,False,,False
+5bbf0f76-92c4-4109-8d68-076f220b7b3d,4237139421,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+e01866be-4b7f-482f-959b-a4db6f17d8a5,4237139531,11/9/2017 7:00:00 AM,11/21/2017 7:00:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.445859E+07,0,2.275071E+08,2.0374E+08,2038711,Linear,Natural Sand,,False,False,False,,True
+eb227087-f3a0-480f-a54a-4ab866e2b7df,4237139535,12/31/2017 8:30:00 AM,1/17/2018 8:36:00 PM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.500222E+07,0,2.332779E+08,2.082685E+08,2287597,Linear,Natural Sand,,False,False,False,,True
+eab4b262-47ed-46d7-bca3-441a9a270839,4237139642,12/31/2017 11:58:00 AM,1/17/2018 4:09:00 AM,"Halcón Operating Co., Inc.",Liberty Oilfield Services,,2.372488E+07,0,2.216197E+08,1.976283E+08,2211730,Linear,Natural Sand,,False,False,False,,True
+1e8f345f-7b30-434a-88e4-3ab32ea7de45,4237139663,5/21/2018 12:00:00 AM,6/12/2018 12:00:00 AM,Crimson Exploration Oper. Inc.,Flotek Chemistry,,2.557573E+07,0,3147.659,2.130458E+08,0,Linear,Natural Sand,,False,False,False,,False
+92827b0a-71ef-492e-b162-39458ae812ce,4237139659,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+9ceea3a8-b118-40f6-a16c-debc069069f7,4237139475,3/31/2017 5:00:00 AM,4/11/2017 5:00:00 AM,Diamondback E&P LLC,Halliburton,,1.09561E+07,0,1.013143E+08,9.126397E+07,0,Linear,Natural Sand,,True,False,True,,True
+d5dde7d9-1e43-40e6-9f58-d199764bfd87,4237139499,,,,,,,,,,0,,Natural Sand,,False,False,False,,False
+28bc6657-b868-49d8-9499-a9ca9727f643,4237139688,5/23/2018 12:00:00 AM,6/12/2018 12:00:00 AM,Crimson Exploration Oper. Inc.,C&J Energy Services,,2.440658E+07,0,2.042706E+08,2.033068E+08,0,Linear,Natural Sand,,True,False,True,,True
