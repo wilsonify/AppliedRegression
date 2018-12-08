@@ -1,0 +1,200 @@
+
+# STAT 5310 Test #3 Due December 12, 2018 at 5:30pm
+### Tom Wilson
+
+## 1. Predict the number of applications received using the other variables in the college data set. 
+
+
+```R
+library(tidyverse)
+library(data.table)
+library(glmnet)
+library(glmnetUtils)
+library(MASS)
+library(caret)
+library(leaps)
+library(boot)
+```
+
+
+```R
+college <- fread('../data/College.csv')
+```
+
+### a.
+Split the data set into a training set and a test set.
+
+
+```R
+college <- college %>% subset(,-V1)
+```
+
+
+```R
+n=nrow(college)
+train_sample <- runif(n,0,1) > 1 - 0.75 #random uniform sample
+college_train <- college[train_sample,] %>% select_if(is.numeric)
+college_test  <- college[!train_sample,] %>% select_if(is.numeric)
+```
+
+
+```R
+x_train <- college_train %>% subset(,-Apps) 
+y_train <- college_train %>% subset(, Apps)
+x_test  <- college_test  %>% subset(,-Apps) 
+y_test  <- college_test  %>% subset(, Apps)
+```
+
+### b.
+Fit a linear model using least squares on the training set, and report the test error obtained.
+
+
+```R
+linear_model <- lm(data = college_train, formula = Apps~.)
+```
+
+
+```R
+residual <- predict(linear_model,newdata = college_test) - college_test$Apps
+RMSE <- sqrt(sum(residual^2))
+paste('Root Mean Squared Error on test dataset = ',RMSE)
+```
+
+### c.
+Fit a ridge regression model on the training set, with λ chosen by cross-validation.  Report the test error obtained.
+
+
+```R
+k <- 10
+folds <- sample(1:k,nrow(college_train),replace <- TRUE)
+cv.errors <- setNames(data.frame(matrix(ncol = 3, nrow = 0)), c("fold", "lambda", "mae"))
+```
+
+
+```R
+fit <- cv.glmnet(Apps ~ ., data=college_train)
+```
+
+
+```R
+plot(fit)
+```
+
+
+```R
+for(j in 1:k){
+    for(lambda in seq(0,1,0.1)) {    
+        fit <- lm.ridge(formula = Apps~.,data=college_train[folds!=j,], lambda=lambda)
+        pred <- as.vector(as.matrix(cbind(const=1,x_train[folds==j])) %*% coef(fit))
+        rmse <- sqrt( sum( ( y_train[folds==j] - pred)^2 ))
+        cv.errors <- rbind(cv.errors,c(j,lambda,rmse))
+    }
+}
+```
+
+
+```R
+colnames(cv.errors) <- c("fold", "lambda", "rmse")
+```
+
+
+```R
+summary_of_error <- cv.errors %>% group_by(lambda) %>% summarise(mean_rmse = mean(rmse))
+```
+
+
+```R
+plot(x = summary_of_error$lambda,y=summary_of_error$mean_rmse)
+```
+
+Root mean squared error steadily improves with larger values of lambda. 
+
+## 2. 
+Consider the Boston housing data set, from the MASS library.
+
+
+```R
+Boston %>% head()
+```
+
+### a.
+Based on this data set, provide an estimate for the population mean of medv.  Call this estimate  .
+
+
+```R
+estimate <- mean(Boston$medv)
+paste("an estimate for the population mean of medv is ",estimate)
+```
+
+### b.
+Provide an estimate of the standard error of   Interpret this result.
+Hint:  We can compute the standard error of the sample mean by dividing the sample standard deviation by the square root of the number of observations.
+
+
+```R
+n <- nrow(Boston)
+SE <- sd(Boston$medv)/sqrt(n)
+paste("an estimate of the standard error of the population mean of medv is",SE)
+```
+
+### c.
+Now estimate the standard error of  using the bootstrap.  How does this compare to your answer from (b)?
+
+
+```R
+SE.fn(Boston$medv)
+```
+
+
+```R
+SE.fn=function(data,index){
+    n=length(data[index])
+ return(sd(data[index])/sqrt(n))
+ }
+```
+
+
+```R
+SE_bootstrap <- boot(data = Boston$medv,statistic = SE.fn,R=1000)
+paste("the average bootstrap estimate of SE is "
+      ,mean(SE_bootstrap$t)
+      ,"which differs from the original estimate by "
+      ,100 * (mean(SE_bootstrap$t) - SE)/SE,
+     "percent")
+```
+
+
+```R
+plot(SE_bootstrap)
+```
+
+### d.
+Based on your bootstrap estimate from (c), provide a 95% confidence interval for the mean of medv. compare it to the results obtained using t.test(Boston$medv).
+
+
+```R
+n <- nrow(Boston)
+mu <- mean(Boston$medv)
+SE <- mean(SE_bootstrap$t)
+
+alpha <- 1 - 0.95
+z <- qnorm(1 - alpha/2)
+error <- z*SE
+
+ttest <- t.test(Boston$medv)$conf.int
+
+paste("using z=qnorm(1 - 0.05/2), the 95% confidence interval for the mean of medv is between"
+      ,mu - error
+      ,"and"
+      ,mu + error)
+
+paste("using 2*SE, the 95% confidence interval for the mean of medv is between"
+      ,mu - 2*SE
+      ,"and"
+      ,mu + 2*SE)
+
+paste("using t.test, the 95% confidence interval for the mean of medv is between"
+      ,ttest[[1]]
+      ,"and"
+      ,ttest[[2]])
+```
