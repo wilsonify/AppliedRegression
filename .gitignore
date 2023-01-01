@@ -40,3 +40,7 @@ rsconnect/
 
 #jupyter
 .ipynb_checkpoints/
+
+*.pdf
+.idea/
+.vscode/
